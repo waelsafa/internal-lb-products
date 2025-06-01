@@ -1,30 +1,198 @@
 [
   {
-    "title": "Aged Parmesan Cheese",
-    "description": "Authentic Parmigiano-Reggiano, aged for 24 months for a sharp, nutty flavor.",
-    "image": "/uploads/images/parmesan-cheese.jpg",
+    "title": "Parmigiano-Reggiano DOP 24 Months",
+    "description": "Authentic Italian Parmigiano-Reggiano aged for 24 months. Hard, granular texture with a rich, nutty flavor and crystalline crunch.",
+    "image": "https://images.unsplash.com/photo-1486297678162-eb2a19b0a32d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
     "category": "cheese-cold-cuts",
     "published": true
   },
   {
-    "title": "Artisanal Pasta - Fusilli",
-    "description": "Handcrafted Fusilli pasta, perfect for catching your favorite sauces. Made with 100% durum wheat.",
-    "image": "/uploads/images/fusilli-pasta.jpg",
+    "title": "Aged Gouda Holland",
+    "description": "Premium Dutch Gouda aged for 18 months. Sweet, caramelized flavor with crunchy calcium lactate crystals.",
+    "image": "https://images.unsplash.com/photo-1634141510639-d691d86f47be?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "category": "cheese-cold-cuts",
+    "published": true
+  },
+  {
+    "title": "Roquefort AOP Blue Cheese",
+    "description": "Traditional French blue cheese made from sheep's milk. Creamy texture with a sharp, tangy flavor and distinctive blue veining.",
+    "image": "https://images.unsplash.com/photo-1559561853-08451507cbe7?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "category": "cheese-cold-cuts",
+    "published": true
+  },
+  {
+    "title": "Prosciutto di Parma DOP",
+    "description": "Italian dry-cured ham aged for 18 months. Delicate, sweet flavor with a silky texture that melts on the tongue.",
+    "image": "https://images.unsplash.com/photo-1544025162-d76694265947?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "category": "cheese-cold-cuts",
+    "published": true
+  },
+  {
+    "title": "Tagliatelle all'Uovo",
+    "description": "Fresh egg pasta ribbons from Emilia-Romagna. Made with semolina flour and farm-fresh eggs for authentic Italian taste.",
+    "image": "https://images.unsplash.com/photo-1551183053-bf91a1d81141?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
     "category": "pasta-rice-flour",
     "published": true
   },
   {
-    "title": "Gourmet Coffee Beans",
-    "description": "A medium roast blend of Arabica beans from South America, with notes of chocolate and caramel.",
-    "image": "/uploads/images/coffee-beans.jpg",
+    "title": "Paccheri Artisanal Pasta",
+    "description": "Large tube pasta perfect for hearty sauces. Bronze-die extruded for perfect sauce adhesion and al dente texture.",
+    "image": "https://images.unsplash.com/photo-1574894709920-11b28e7367e3?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "category": "pasta-rice-flour",
+    "published": true
+  },
+  {
+    "title": "Orecchiette Pugliesi",
+    "description": "Traditional ear-shaped pasta from Puglia. Hand-rolled using durum wheat semolina for authentic texture and flavor.",
+    "image": "https://images.unsplash.com/photo-1621996346565-e3dbc353d2e5?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "category": "pasta-rice-flour",
+    "published": true
+  },
+  {
+    "title": "Arborio Rice Superfino",
+    "description": "Premium Italian short-grain rice perfect for risotto. High starch content creates the ideal creamy consistency.",
+    "image": "https://images.unsplash.com/photo-1586201375761-83865001e31c?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "category": "pasta-rice-flour",
+    "published": true
+  },
+  {
+    "title": "Tipo 00 Flour Caputo",
+    "description": "Finely milled Italian flour perfect for pizza and bread making. Soft texture with excellent gluten development.",
+    "image": "https://images.unsplash.com/photo-1574323347407-f5e1ad6d020b?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "category": "pasta-rice-flour",
+    "published": true
+  },
+  {
+    "title": "Barolo DOCG 2018",
+    "description": "Noble Nebbiolo wine from Piedmont. Full-bodied with complex tannins, notes of cherry, rose, and tar. Perfect with red meat.",
+    "image": "https://images.unsplash.com/photo-1553361371-9b22f78e8b1d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "category": "wine-spirits",
+    "published": true
+  },
+  {
+    "title": "Chianti Classico Riserva DOCG",
+    "description": "Traditional Tuscan wine made from Sangiovese grapes. Elegant with cherry flavors, balanced acidity, and smooth tannins.",
+    "image": "https://images.unsplash.com/photo-1474722883778-792e7990302f?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "category": "wine-spirits",
+    "published": true
+  },
+  {
+    "title": "Champagne Vintage Dom Pérignon",
+    "description": "Prestigious French champagne with fine bubbles. Complex aromas of white fruits, brioche, and mineral notes.",
+    "image": "https://images.unsplash.com/photo-1547595628-c61a29f496f0?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "category": "wine-spirits",
+    "published": true
+  },
+  {
+    "title": "Brunello di Montalcino DOCG",
+    "description": "Premium Tuscan wine made from 100% Sangiovese. Aged 5 years with intense flavors of dark fruits and spices.",
+    "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "category": "wine-spirits",
+    "published": true
+  },
+  {
+    "title": "Grappa di Barolo",
+    "description": "Premium Italian grape brandy distilled from Nebbiolo grape pomace. Smooth with floral and fruity notes.",
+    "image": "https://images.unsplash.com/photo-1569529465841-dfecdab7503b?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "category": "wine-spirits",
+    "published": true
+  },
+  {
+    "title": "Tuscan Extra Virgin Olive Oil DOP",
+    "description": "Cold-pressed olive oil from Tuscan hills. Fruity aroma with peppery finish and notes of artichoke and almond.",
+    "image": "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "category": "sauces-condiments",
+    "published": true
+  },
+  {
+    "title": "Balsamic Vinegar of Modena DOP",
+    "description": "Traditional aged balsamic vinegar from Modena. Thick, syrupy consistency with complex sweet and tangy flavors.",
+    "image": "https://images.unsplash.com/photo-1571197807998-8801299c4c44?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "category": "sauces-condiments",
+    "published": true
+  },
+  {
+    "title": "Truffle Honey",
+    "description": "Artisanal honey infused with black truffle pieces. Perfect for cheese boards and gourmet dishes.",
+    "image": "https://images.unsplash.com/photo-1587049352846-4a222e784d38?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "category": "sauces-condiments",
+    "published": true
+  },
+  {
+    "title": "Dijon Mustard Traditional",
+    "description": "Authentic French Dijon mustard made with white wine. Sharp, clean flavor perfect for vinaigrettes and marinades.",
+    "image": "https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "category": "sauces-condiments",
+    "published": true
+  },
+  {
+    "title": "Harissa Paste North African",
+    "description": "Spicy North African chili paste with roasted peppers, garlic, and aromatic spices. Perfect for marinades and sauces.",
+    "image": "https://images.unsplash.com/photo-1583324113626-70df0f4deaab?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "category": "sauces-condiments",
+    "published": true
+  },
+  {
+    "title": "Ethiopian Single Origin Coffee",
+    "description": "Light roast coffee beans from Yirgacheffe region. Bright acidity with floral notes and citrus undertones.",
+    "image": "https://images.unsplash.com/photo-1559056199-641a0ac8b55e?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
     "category": "coffee-tea",
     "published": true
   },
   {
-    "title": "Premium Olive Oil",
-    "description": "Extra virgin olive oil from the hills of Tuscany. Cold-pressed and unfiltered for maximum flavor.",
-    "image": "/uploads/images/olive-oil.jpg",
-    "category": "sauces-condiments",
+    "title": "Earl Grey Premium Tea",
+    "description": "Classic English breakfast tea blend with bergamot oil. Full-bodied with citrusy aroma and smooth finish.",
+    "image": "https://images.unsplash.com/photo-1544787219-7f47ccb76574?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "category": "coffee-tea",
+    "published": true
+  },
+  {
+    "title": "Matcha Green Tea Ceremonial Grade",
+    "description": "Premium Japanese matcha powder made from shade-grown tea leaves. Vibrant green color with umami flavor.",
+    "image": "https://images.unsplash.com/photo-1515823064-d6e0c04616a7?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "category": "coffee-tea",
+    "published": true
+  },
+  {
+    "title": "Colombian Coffee Supremo",
+    "description": "Medium roast coffee from Colombian highlands. Well-balanced with caramel sweetness and mild acidity.",
+    "image": "https://images.unsplash.com/photo-1447933601403-0c6688de566e?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "category": "coffee-tea",
+    "published": true
+  },
+  {
+    "title": "Chamomile Herbal Tea",
+    "description": "Organic chamomile flowers for a soothing herbal tea. Naturally caffeine-free with honey-like sweetness.",
+    "image": "https://images.unsplash.com/photo-1594736797933-d0bdb6d6cf23?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "category": "coffee-tea",
+    "published": true
+  },
+  {
+    "title": "Marcona Almonds Spanish",
+    "description": "Premium Spanish Marcona almonds, blanched and roasted. Buttery flavor and delicate crunch, perfect for snacking.",
+    "image": "https://images.unsplash.com/photo-1508747716-ca3c3d18856c?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "category": "snacks-pantry",
+    "published": true
+  },
+  {
+    "title": "Organic Dried Figs",
+    "description": "Natural sun-dried figs from Turkey. Sweet, chewy texture with intense fig flavor. No added sugars or preservatives.",
+    "image": "https://images.unsplash.com/photo-1571771894352-1113627d1cfc?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "category": "snacks-pantry",
+    "published": true
+  },
+  {
+    "title": "Sea Salt Flakes Maldon",
+    "description": "Premium pyramid-shaped sea salt flakes from Essex, England. Pure, clean taste perfect for finishing dishes.",
+    "image": "https://images.unsplash.com/photo-1474476473928-d416e2d14fcf?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "category": "snacks-pantry",
+    "published": true
+  },
+  {
+    "title": "Wild Flower Honey Raw",
+    "description": "Unprocessed wildflower honey with complex floral notes. Rich golden color and naturally crystallized texture.",
+    "image": "https://images.unsplash.com/photo-1558642452-9d2a7deb7f62?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "category": "snacks-pantry",
     "published": true
   }
 ]
