@@ -154,13 +154,6 @@
     "published": true
   },
   {
-    "title": "Colombian Coffee Supremo",
-    "description": "Medium roast coffee from Colombian highlands. Well-balanced with caramel sweetness and mild acidity.",
-    "image": "https://images.unsplash.com/photo-1447933601403-0c6688de566e?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-    "category": "coffee-tea",
-    "published": true
-  },
-  {
     "title": "Chamomile Herbal Tea",
     "description": "Organic chamomile flowers for a soothing herbal tea. Naturally caffeine-free with honey-like sweetness.",
     "image": "https://images.unsplash.com/photo-1594736797933-d0bdb6d6cf23?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
