@@ -1,81 +1,124 @@
 document.addEventListener("DOMContentLoaded", function () {
-  const buttons = document.querySelectorAll(".filters button");
-  const cards = document.querySelectorAll(".product-card");
+  const productGrid = document.querySelector(".product-grid");
+  async function fetchProducts() {
+    try {
+      const response = await fetch('/_data/products.json');
+      
+      if (!response.ok) {
+        throw new Error(`HTTP error! status: ${response.status}`);
+      }
+      
+      const products = await response.json();
+      displayProducts(products);
+    } catch (error) {
+      console.error("Error fetching products:", error);
+      productGrid.innerHTML = '<p>Error loading products. Please try again later.</p>';
+    }
+  }
 
-  buttons.forEach((button) => {
-    button.addEventListener("click", () => {
-      const filter = button.dataset.filter;
+  function displayProducts(products) {
+    productGrid.innerHTML = "";
+    products.forEach((product) => {
+      if (!product.title || !product.image) {
+        console.warn('Skipping product due to missing title or image:', product);
+        return;
+      }
+      const card = document.createElement("div");
 
-      cards.forEach((card) => {
-        if (filter === "all" || card.classList.contains(filter)) {
-          card.style.display = "block";
-        } else {
-          card.style.display = "none";
-        }
-      });
+      card.classList.add("product-card", product.category || "all");
+      card.innerHTML = `
+        <img src="${product.image}" alt="${product.title}" />
+        <h2>${product.title}</h2>
+        <p>${product.description || ""}</p>
+      `;
+      productGrid.appendChild(card);
     });
-  });
+    // Re-initialize filter functionality after products are loaded
+    initializeFilters();
+  }
 
-  // Sidebar filter functionality
-  const sidebar = document.querySelector('.sidebar-filters');
-  if (sidebar) {
-    const checkboxes = sidebar.querySelectorAll('input[type="checkbox"]');
-    const allCheckbox = sidebar.querySelector('input[value="all"]');
-    
+  function initializeFilters() {
+    const checkboxes = document.querySelectorAll('.sidebar-filters input[type="checkbox"]');
+    const allCheckbox = document.querySelector('.sidebar-filters input[value="all"]');
+    const cards = document.querySelectorAll(".product-card"); // Re-select cards
+
     function applyFilters() {
-      const checked = Array.from(checkboxes)
+      const checkedCategories = Array.from(checkboxes)
         .filter(cb => cb.checked)
         .map(cb => cb.value);
-      
-      // Handle the All checkbox
-      if (allCheckbox.checked) {
-        // If "All" is checked, uncheck other filters
+
+      if (allCheckbox.checked || checkedCategories.length === 0) {
         checkboxes.forEach(cb => {
-          if (cb.value !== 'all') {
-            cb.checked = false;
-          }
+          if (cb.value !== 'all') cb.checked = false;
         });
-        // Show all products
-        cards.forEach(card => {
-          card.style.display = "block";
-        });
+        if(!allCheckbox.checked && checkedCategories.length === 0) allCheckbox.checked = true;
+
+        cards.forEach(card => card.style.display = "block");
         return;
       }
       
-      // If no filters are selected, check "All" by default
-      if (checked.length === 0) {
-        allCheckbox.checked = true;
-        cards.forEach(card => {
-          card.style.display = "block";
-        });
-        return;
-      }
-      
-      // Show only products that match selected filters
+      allCheckbox.checked = false; // Uncheck "All" if other filters are active
+
       cards.forEach(card => {
-        const matchesFilter = checked.some(category => 
+        const matchesFilter = checkedCategories.some(category =>
           card.classList.contains(category)
         );
         card.style.display = matchesFilter ? "block" : "none";
       });
     }
-    
-    // Add event listeners to checkboxes
+
     checkboxes.forEach(checkbox => {
-      checkbox.addEventListener('change', function() {
-        // If this is the "All" checkbox and it was just checked
-        if (this.value === 'all' && this.checked) {
-          // Will be handled in applyFilters
-        } else if (this.checked) {
-          // If any other checkbox is checked, uncheck "All"
-          allCheckbox.checked = false;
-        }
-        
-        applyFilters();
-      });
+      checkbox.removeEventListener('change', filterChangeHandler); // Remove old listener
+      checkbox.addEventListener('change', filterChangeHandler); // Add new listener
     });
     
-    // Initialize filters on page load
-    applyFilters();
+    applyFilters(); // Apply filters on initialization
   }
+
+  function filterChangeHandler() {
+    const allCheckbox = document.querySelector('.sidebar-filters input[value="all"]');
+    if (this.value === 'all' && this.checked) {
+      // Uncheck all other boxes
+      document.querySelectorAll('.sidebar-filters input[type="checkbox"]').forEach(cb => {
+        if (cb.value !== 'all') cb.checked = false;
+      });
+    } else if (this.checked) {
+      // If any other checkbox is checked, uncheck "All"
+      allCheckbox.checked = false;
+    }
+    // Re-query cards and apply filters
+    const cards = document.querySelectorAll(".product-card");
+    applyCurrentFilters(cards);
+  }
+  
+  function applyCurrentFilters(cardsToFilter) {
+      const checkboxes = document.querySelectorAll('.sidebar-filters input[type="checkbox"]');
+      const allCheckbox = document.querySelector('.sidebar-filters input[value="all"]');
+      const checkedCategories = Array.from(checkboxes)
+        .filter(cb => cb.checked)
+        .map(cb => cb.value);
+
+      if (allCheckbox.checked || checkedCategories.length === 0) {
+         if(!allCheckbox.checked && checkedCategories.length === 0) {
+            allCheckbox.checked = true;
+         } else if (allCheckbox.checked) {
+            checkboxes.forEach(cb => {
+                if (cb.value !== 'all') cb.checked = false;
+            });
+         }
+        cardsToFilter.forEach(card => card.style.display = "block");
+        return;
+      }
+      
+      allCheckbox.checked = false;
+
+      cardsToFilter.forEach(card => {
+        const matchesFilter = checkedCategories.some(category =>
+          card.classList.contains(category)
+        );
+        card.style.display = matchesFilter ? "block" : "none";
+      });
+  }
+
+  fetchProducts(); // Load products when the page loads
 });

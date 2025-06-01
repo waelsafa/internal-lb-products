@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Aged Parmesan Cheese",
+    "description": "Authentic Parmigiano-Reggiano, aged for 24 months for a sharp, nutty flavor.",
+    "image": "/uploads/images/parmesan-cheese.jpg",
+    "category": "cheese-cold-cuts",
+    "published": true
+  },
+  {
+    "title": "Artisanal Pasta - Fusilli",
+    "description": "Handcrafted Fusilli pasta, perfect for catching your favorite sauces. Made with 100% durum wheat.",
+    "image": "/uploads/images/fusilli-pasta.jpg",
+    "category": "pasta-rice-flour",
+    "published": true
+  },
+  {
+    "title": "Gourmet Coffee Beans",
+    "description": "A medium roast blend of Arabica beans from South America, with notes of chocolate and caramel.",
+    "image": "/uploads/images/coffee-beans.jpg",
+    "category": "coffee-tea",
+    "published": true
+  }
+]

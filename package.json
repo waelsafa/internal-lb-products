@@ -1,0 +1,17 @@
+{
+  "name": "product-catalog",
+  "version": "1.0.0",
+  "description": "Product catalog with Decap CMS",
+  "scripts": {
+    "build": "node build.js",
+    "dev": "python3 -m http.server 8000",
+    "watch": "npm run build && npm run dev"
+  },
+  "dependencies": {
+    "gray-matter": "^4.0.3",
+    "chokidar": "^3.5.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.0"
+  }
+}

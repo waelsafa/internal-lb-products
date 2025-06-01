@@ -1,0 +1,13 @@
+[build]
+  publish = "."
+  command = "npm install && npm run build"
+
+# Redirect all admin routes to the admin interface
+[[redirects]]
+  from = "/admin/*"
+  to = "/admin/index.html"
+  status = 200
+
+# Enable Git Gateway and Identity for Decap CMS
+[context.production]
+  environment = { NODE_ENV = "production" }

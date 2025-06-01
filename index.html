@@ -6,12 +6,14 @@
   <title>My Store</title>
   <link rel="stylesheet" href="styles.css" />
   <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@400;700&family=Almarai:wght@300;400;700&display=swap" rel="stylesheet">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>  <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@400;700&family=Almarai:wght@300;400;700&display=swap" rel="stylesheet">
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 </head>
-<body>
-  <header>
+<body>  <header>
     <h1>My Product Catalog</h1>
+    <div style="margin-top: 10px;">
+      <a href="/admin/" style="color: white; text-decoration: none; background: rgba(255,255,255,0.2); padding: 8px 16px; border-radius: 4px; font-size: 14px;">Admin Panel</a>
+    </div>
   </header>
 
   <div class="main-layout">
@@ -25,43 +27,23 @@
       <label><input type="checkbox" value="coffee-tea"> Coffee &amp; Tea</label>
       <label><input type="checkbox" value="wine-liquor"> Wine &amp; Liquor</label>
       <label><input type="checkbox" value="sauces-condiments"> Sauces &amp; Condiments</label>
-    </aside>
-
-    <main class="product-grid">
-      <div class="product-card pasta-rice-flour">
-        <img src="https://interal-lb.com/public/uploads/images/PM15320.jpg" alt="Le Delizie Miste" />
-        <h2>Le Delizie Miste</h2>
-        <p>Mixed Box Pasta: Garlic &amp; Basil- Lemon &amp; Pepper- Red Bell Peppers</p>
-      </div>
-      <div class="product-card pasta-rice-flour">
-        <img src="https://interal-lb.com/public/uploads/images/PM16146.jpg" alt="Product" />
-        <h2>Product</h2>
-        <p></p>
-      </div>
-      <div class="product-card pasta-rice-flour">
-        <img src="https://interal-lb.com/public/uploads/images/CANDELE_SPEZZATE_N*_537.jpg" alt="Product" />
-        <h2>Product</h2>
-        <p></p>
-      </div>
-      <div class="product-card pasta-rice-flour">
-        <img src="https://interal-lb.com/public/uploads/images/rigatoni.jpg" alt="Product" />
-        <h2>Rigatoni</h2>
-        <p></p>
-      </div>
-      <div class="product-card pasta-rice-flour">
-        <img src="https://interal-lb.com/public/uploads/images/CAPELLI_DANGELO.jpg" alt="Product" />
-        <h2>Capelli D'Angelo</h2>
-        <p></p>
-      </div>
-      <div class="product-card pasta-rice-flour">
-        <img src="https://interal-lb.com/public/uploads/images/TAGLIATELLE.jpg" alt="Product" />
-        <h2>Tagliatelle</h2>
-        <p></p>
-      </div>
-      <!-- Add more products as needed, following the same structure -->
+    </aside>    <main class="product-grid">
     </main>
   </div>
-
+  <script src="https://unpkg.com/decap-cms@^3.0.0/dist/decap-cms.js"></script>
   <script src="script.js"></script>
+  
+  <script>
+    // Initialize Netlify Identity
+    if (window.netlifyIdentity) {
+      window.netlifyIdentity.on("init", user => {
+        if (!user) {
+          window.netlifyIdentity.on("login", () => {
+            document.location.href = "/admin/";
+          });
+        }
+      });
+    }
+  </script>
 </body>
 </html>
