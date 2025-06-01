@@ -55,6 +55,43 @@ A modern product catalog website with admin interface powered by Decap CMS (form
    npm install
    ```
 
+2. Start development environment:
+   ```bash
+   npm run dev
+   ```
+   This will start both the frontend (port 8000) and backend (port 8001)
+
+3. Access the application:
+   - **Frontend**: http://localhost:8000
+   - **Admin Panel**: http://localhost:8000/admin/
+   - **Backend API**: http://localhost:8001
+
+## How It Works
+
+### Frontend
+- Static HTML/CSS/JS website that loads product data from `_data/products.json`
+- Responsive design with category filtering
+- Auto-updates when product data changes
+
+### Admin Interface (Decap CMS)
+- Located at `/admin/` route
+- Uses custom backend for local development
+- Manages markdown files in `_products/` folder
+- Automatically rebuilds JSON data when products are saved
+
+### Backend (Local Development)
+- Express.js server that acts as a bridge between Decap CMS and file system
+- Reads/writes markdown files in `_products/` folder
+- Automatically regenerates `_data/products.json` when content changes
+- CORS-enabled for local development
+
+### Build Process
+- `build.js` converts markdown files to JSON
+- Frontmatter becomes product metadata
+- Only published products are included
+   npm install
+   ```
+
 2. Build the products JSON file:
    ```bash
    npm run build

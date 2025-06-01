@@ -4,12 +4,17 @@
   "description": "Product catalog with Decap CMS",
   "scripts": {
     "build": "node build.js",
-    "dev": "python3 -m http.server 8000",
-    "watch": "npm run build && npm run dev"
+    "dev": "./start-dev.sh",
+    "frontend": "python3 -m http.server 8000",
+    "backend": "node cms-backend.js",
+    "watch": "node watch.js",
+    "start": "npm run build && npm run backend & npm run frontend"
   },
   "dependencies": {
-    "gray-matter": "^4.0.3",
-    "chokidar": "^3.5.3"
+    "chokidar": "^3.5.3",
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "gray-matter": "^4.0.3"
   },
   "devDependencies": {
     "nodemon": "^3.0.0"

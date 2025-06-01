@@ -14,17 +14,13 @@
     // Debug logging
     console.log('Decap CMS loading...');
     
-    // Wait for the CMS script to load
-    window.addEventListener('load', function() {
-      console.log('Page loaded, checking for CMS...');
-      
-      if (window.CMS) {
-        console.log('CMS object found:', window.CMS);
-        // CMS will automatically initialize and mount to #nc-root
-      } else {
-        console.error('CMS object not found');
-      }
-    });
+    // Clean initialization without custom config loading
+    if (window.CMS) {
+      console.log('CMS object found, initializing...');
+      // Let CMS auto-detect and load config.yml
+    } else {
+      console.error('CMS object not found');
+    }
   </script>
 </body>
 </html>
