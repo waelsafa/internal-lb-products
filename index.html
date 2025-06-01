@@ -3,47 +3,41 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>My Store</title>
+  <title>Artisan Marketplace - Premium Italian Products</title>
   <link rel="stylesheet" href="styles.css" />
   <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>  <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@400;700&family=Almarai:wght@300;400;700&display=swap" rel="stylesheet">
-  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Playfair+Display:wght@400;600;700&display=swap" rel="stylesheet">
 </head>
-<body>  <header>
-    <h1>My Product Catalog</h1>
-    <div style="margin-top: 10px;">
-      <a href="/admin/" style="color: white; text-decoration: none; background: rgba(255,255,255,0.2); padding: 8px 16px; border-radius: 4px; font-size: 14px;">Admin Panel</a>
+<body>
+  <header>
+    <div class="header-content">
+      <h1>Artisan Marketplace</h1>
+      <p class="tagline">Authentic Italian Products & Gourmet Delicacies</p>
+    </div>  </header>
+
+  <div class="filters-container">
+    <div class="filters-wrapper">
+      <h2 class="filters-title">Shop by Category</h2>
+      <div class="filters-grid">
+        <button class="filter-button active" data-filter="all">All Products</button>
+        <button class="filter-button" data-filter="cheese-cold-cuts">Cheese & Cold Cuts</button>
+        <button class="filter-button" data-filter="pasta-rice-flour">Pasta, Rice & Flour</button>
+        <button class="filter-button" data-filter="coffee-tea">Coffee & Tea</button>
+        <button class="filter-button" data-filter="sauces-condiments">Sauces & Condiments</button>
+        <button class="filter-button" data-filter="seasonal">Seasonal Specialties</button>
+        <button class="filter-button" data-filter="wine-liquor">Wine & Spirits</button>
+        <button class="filter-button" data-filter="sweets-snacks">Sweets & Snacks</button>
+      </div>
     </div>
-  </header>
+  </div>
 
   <div class="main-layout">
-    <aside class="sidebar-filters">
-      <h3>Filter Categories</h3>
-      <label><input type="checkbox" value="all" checked> All</label>
-      <label><input type="checkbox" value="seasonal"> Seasonal</label>
-      <label><input type="checkbox" value="cheese-cold-cuts"> Cheese &amp; Cold Cuts</label>
-      <label><input type="checkbox" value="pasta-rice-flour"> Pasta, Rice &amp; Flour</label>
-      <label><input type="checkbox" value="sweets-snacks"> Sweets &amp; Snacks</label>
-      <label><input type="checkbox" value="coffee-tea"> Coffee &amp; Tea</label>
-      <label><input type="checkbox" value="wine-liquor"> Wine &amp; Liquor</label>
-      <label><input type="checkbox" value="sauces-condiments"> Sauces &amp; Condiments</label>
-    </aside>    <main class="product-grid">
+    <main class="product-grid">
+      <!-- Products will be loaded here -->
     </main>
   </div>
-  <script src="https://unpkg.com/decap-cms@^3.0.0/dist/decap-cms.js"></script>
+
   <script src="script.js"></script>
-  
-  <script>
-    // Initialize Netlify Identity
-    if (window.netlifyIdentity) {
-      window.netlifyIdentity.on("init", user => {
-        if (!user) {
-          window.netlifyIdentity.on("login", () => {
-            document.location.href = "/admin/";
-          });
-        }
-      });
-    }
-  </script>
 </body>
 </html>
