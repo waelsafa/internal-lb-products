@@ -9,7 +9,7 @@
   {
     "title": "Aged Parmesan Cheese",
     "description": "Authentic Parmigiano-Reggiano, aged for 24 months for a sharp, nutty flavor.",
-    "image": "/uploads/images/parmesan-cheese.jpg",
+    "image": "https://images.unsplash.com/photo-1607628294230-e9e16e5347f4?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
     "category": "cheese-cold-cuts",
     "published": true
   },
@@ -23,7 +23,7 @@
   {
     "title": "Artisanal Pasta - Fusilli",
     "description": "Handcrafted Fusilli pasta, perfect for catching your favorite sauces. Made with 100% durum wheat.",
-    "image": "/uploads/images/fusilli-pasta.jpg",
+    "image": "https://images.unsplash.com/photo-1603729362753-f8162ac6c3df?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
     "category": "pasta-rice-flour",
     "published": true
   },
@@ -58,7 +58,7 @@
   {
     "title": "Gourmet Coffee Beans",
     "description": "A medium roast blend of Arabica beans from South America, with notes of chocolate and caramel.",
-    "image": "/uploads/images/coffee-beans.jpg",
+    "image": "https://images.unsplash.com/photo-1559056199-641a0ac8b55e?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
     "category": "coffee-tea",
     "published": true
   },
@@ -86,7 +86,7 @@
   {
     "title": "Premium Olive Oil",
     "description": "Extra virgin olive oil from the hills of Tuscany. Cold-pressed and unfiltered for maximum flavor.",
-    "image": "/uploads/images/olive-oil.jpg",
+    "image": "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
     "category": "sauces-condiments",
     "published": true
   },
