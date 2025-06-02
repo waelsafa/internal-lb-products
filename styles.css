@@ -1,9 +1,9 @@
 :root {
-  --forest-green: #1a472a;
-  --emerald-green: #2d5945;
-  --olive-green: #5c7a4b;
-  --sage-green: #8fa68e;
-  --mint-green: #b8cdb8;
+  --forest-green: #395F33;
+  --emerald-green: #209D50;
+  --olive-green: #45AA64;
+  --sage-green: #6CB97E;
+  --mint-green: #90D4A0;
   --pure-white: #ffffff;
   --off-white: #fafbfa;
   --light-gray: #f4f6f4;
@@ -11,9 +11,9 @@
   --text-medium: #4a5d4a;
   --text-light: #7a8d7a;
   --accent-gold: #d4af37;
-  --shadow-light: rgba(26, 71, 42, 0.08);
-  --shadow-medium: rgba(26, 71, 42, 0.12);
-  --shadow-heavy: rgba(26, 71, 42, 0.2);
+  --shadow-light: rgba(32, 157, 80, 0.08);
+  --shadow-medium: rgba(32, 157, 80, 0.12);
+  --shadow-heavy: rgba(32, 157, 80, 0.2);
 }
 
 * {
@@ -97,7 +97,7 @@ header::before {
   border-radius: 20px;
   padding: 32px;
   box-shadow: 0 8px 32px var(--shadow-light);
-  border: 1px solid rgba(143, 175, 136, 0.1);
+  border: 1px solid rgba(32, 157, 80, 0.1);
 }
 
 .filters-title {
@@ -124,9 +124,12 @@ header::before {
 
 .filters-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  grid-template-columns: repeat(5, 1fr);
   gap: 16px;
   margin-top: 20px;
+  grid-template-areas:
+    "btn1 btn2 btn3 btn4 btn5"
+    "... btn6 btn7 btn8 ...";
 }
 
 .filter-button {
@@ -144,6 +147,10 @@ header::before {
   text-align: center;
   position: relative;
   overflow: hidden;
+  height: 60px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .filter-button::before {
@@ -153,7 +160,7 @@ header::before {
   left: -100%;
   width: 100%;
   height: 100%;
-  background: linear-gradient(90deg, transparent, rgba(143, 175, 136, 0.1), transparent);
+  background: linear-gradient(90deg, transparent, rgba(32, 157, 80, 0.1), transparent);
   transition: left 0.5s;
 }
 
@@ -162,10 +169,10 @@ header::before {
 }
 
 .filter-button:hover {
-  border-color: var(--olive-green);
-  color: var(--forest-green);
+  background: linear-gradient(135deg, var(--forest-green), var(--emerald-green));
+  color: var(--pure-white);
   transform: translateY(-2px);
-  box-shadow: 0 8px 25px rgba(92, 122, 75, 0.15);
+  box-shadow: 0 8px 25px rgba(32, 157, 80, 0.15);
 }
 
 .filter-button.active {
@@ -173,7 +180,7 @@ header::before {
   border-color: var(--forest-green);
   color: var(--pure-white);
   transform: translateY(-2px);
-  box-shadow: 0 12px 30px rgba(26, 71, 42, 0.25);
+  box-shadow: 0 12px 30px rgba(57, 95, 51, 0.25);
 }
 
 .filter-button.active::before {
@@ -188,7 +195,7 @@ header::before {
 
 .product-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  grid-template-columns: repeat(3, 1fr);
   gap: 32px;
   margin-top: 20px;
 }
@@ -202,7 +209,7 @@ header::before {
   font-family: 'Inter', sans-serif;
   transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
   overflow: hidden;
-  border: 1px solid rgba(143, 175, 136, 0.08);
+  border: 1px solid rgba(32, 157, 80, 0.08);
   position: relative;
 }
 
@@ -220,7 +227,7 @@ header::before {
 
 .product-card:hover {
   transform: translateY(-12px);
-  box-shadow: 0 20px 60px rgba(26, 71, 42, 0.15);
+  box-shadow: 0 20px 60px rgba(57, 95, 51, 0.15);
 }
 
 .product-card:hover::before {
@@ -301,7 +308,7 @@ footer {
 .loading-spinner {
   width: 50px;
   height: 50px;
-  border: 4px solid rgba(143, 175, 136, 0.2);
+  border: 4px solid rgba(32, 157, 80, 0.2);
   border-top: 4px solid var(--olive-green);
   border-radius: 50%;
   animation: spin 1s linear infinite;
@@ -345,19 +352,18 @@ footer {
   .tagline {
     font-size: 1.1rem;
   }
-  
   .filters-grid {
-    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-areas: initial;
     gap: 12px;
   }
-  
-  .filter-button {
+    .filter-button {
     padding: 12px 16px;
     font-size: 14px;
+    height: 50px;
   }
-  
-  .product-grid {
-    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    .product-grid {
+    grid-template-columns: repeat(2, 1fr);
     gap: 24px;
   }
   
@@ -400,7 +406,7 @@ footer {
 
 .product-card:focus-within {
   transform: translateY(-8px);
-  box-shadow: 0 16px 48px rgba(26, 71, 42, 0.15);
+  box-shadow: 0 16px 48px rgba(57, 95, 51, 0.15);
 }
 
 /* Scrollbar Styling */

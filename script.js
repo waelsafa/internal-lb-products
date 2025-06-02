@@ -37,7 +37,6 @@ document.addEventListener("DOMContentLoaded", function () {
         return;
       }
       
-      // Format category name for display
       const categoryDisplay = product.category ? 
         product.category.replace(/-/g, ' ').replace(/\b\w/g, l => l.toUpperCase()) : 
         'Specialty';
@@ -49,13 +48,11 @@ document.addEventListener("DOMContentLoaded", function () {
         <img src="${product.image}" alt="${product.title}" loading="lazy" />
         <div class="product-content">
           <h2>${product.title}</h2>
-          <p>${product.description || ""}</p>
           <span class="category-badge">${categoryDisplay}</span>
         </div>
       `;
       productGrid.appendChild(card);
     });
-    // Re-initialize filter functionality after products are loaded
     initializeFilters();
   }
   function initializeFilters() {
@@ -64,14 +61,11 @@ document.addEventListener("DOMContentLoaded", function () {
 
     filterButtons.forEach(button => {
       button.addEventListener('click', function() {
-        // Remove active class from all buttons
         filterButtons.forEach(btn => btn.classList.remove('active'));
-        // Add active class to clicked button
         this.classList.add('active');
         
         const filterValue = this.getAttribute('data-filter');
         
-        // Show/hide cards based on filter
         cards.forEach(card => {
           if (filterValue === 'all' || card.classList.contains(filterValue)) {
             card.style.display = "block";
@@ -82,5 +76,5 @@ document.addEventListener("DOMContentLoaded", function () {
       });
     });
   }
-  fetchProducts(); // Load products when the page loads
+  fetchProducts();
 });
