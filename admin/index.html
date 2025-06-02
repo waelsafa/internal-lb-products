@@ -6,15 +6,12 @@
   <title>Content Manager</title>
 </head>
 <body>
-  <!-- The CMS will render inside this div -->
   <div id="nc-root"></div>
   
   <script src="https://unpkg.com/decap-cms@^3.0.0/dist/decap-cms.js"></script>
   <script>
-    // Debug logging
     console.log('Decap CMS loading...');
     
-    // Clean initialization without custom config loading
     if (window.CMS) {
       console.log('CMS object found, initializing...');
       // Let CMS auto-detect and load config.yml
