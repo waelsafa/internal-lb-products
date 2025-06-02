@@ -14,20 +14,6 @@
     "published": true
   },
   {
-    "title": "Almond Biscotti",
-    "description": "Traditional Italian almond biscotti, perfect for dipping in coffee or wine. Crunchy and flavorful.",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxeh_efaSlPSZnYKjQcEoaBI-rSbd2QJs4Vw&s",
-    "category": "snacks-sweets",
-    "published": true
-  },
-  {
-    "title": "Amarone della Valpolicella DOCG",
-    "description": "Rich, full-bodied red wine from Veneto. Notes of dried fruit, chocolate, and spices. Pairs well with game meats.",
-    "image": "https://images.unsplash.com/photo-1553361371-9b22f78e8b1d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-    "category": "wine-spirits",
-    "published": true
-  },
-  {
     "title": "Arborio Rice Superfino",
     "description": "Premium Italian short-grain rice perfect for risotto. High starch content creates the ideal creamy consistency.",
     "image": "https://images.unsplash.com/photo-1586201375761-83865001e31c?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
