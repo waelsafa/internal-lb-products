@@ -324,6 +324,16 @@ footer {
 }
 
 /* Responsive Design */
+@media (max-width: 1024px) {
+  .filters-grid {
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-areas: 
+      "btn1 btn2 btn3 btn4"
+      "btn5 btn6 btn7 btn8";
+    gap: 14px;
+  }
+}
+
 @media (max-width: 768px) {
   .header-content h1 {
     font-size: 2.5rem;
@@ -332,17 +342,14 @@ footer {
   .tagline {
     font-size: 1.1rem;
   }
-  .filters-grid {
-    grid-template-columns: repeat(2, 1fr);
-    grid-template-areas: initial;
-    gap: 12px;
-  }
-    .filter-button {
+  
+  .filter-button {
     padding: 12px 16px;
     font-size: 14px;
     height: 50px;
   }
-    .product-grid {
+  
+  .product-grid {
     grid-template-columns: repeat(2, 1fr);
     gap: 24px;
   }
@@ -367,6 +374,13 @@ footer {
   
   .filters-grid {
     grid-template-columns: 1fr;
+    gap: 10px;
+  }
+  
+  .filter-button {
+    padding: 14px 20px;
+    font-size: 15px;
+    height: 48px;
   }
   
   .product-grid {
@@ -375,6 +389,10 @@ footer {
   
   .filters-container {
     padding: 15px 10px;
+  }
+  
+  .filters-wrapper {
+    padding: 20px 16px;
   }
 }
 
