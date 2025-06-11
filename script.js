@@ -43,11 +43,11 @@ document.addEventListener("DOMContentLoaded", function () {
       
       const card = document.createElement("div");
       card.classList.add("product-card", "fade-in", product.category || "all");
-      card.style.animationDelay = `${index * 0.1}s`;
-      card.innerHTML = `
+      card.style.animationDelay = `${index * 0.1}s`;      card.innerHTML = `
         <img src="${product.image}" alt="${product.title}" loading="lazy" />
         <div class="product-content">
           <h2>${product.title}</h2>
+          <p class="product-description">${product.description || ''}</p>
           <span class="category-badge">${categoryDisplay}</span>
         </div>
       `;
