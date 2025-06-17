@@ -1,128 +1,2242 @@
 [
   {
-    "title": "Aged Gouda Holland",
-    "description": "Premium Dutch Gouda aged for 18 months. Sweet, caramelized flavor with crunchy calcium lactate crystals.",
-    "image": "https://images.unsplash.com/photo-1634141510639-d691d86f47be?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "id": "1172-culatta-extra-ue",
+    "name": "1172 Culatta Extra Ue",
+    "image": "media/FRESH PRODUCTS/1158-1172-culatta-extra-ue-00048638.jpg",
     "category": "cheese-cold-cuts",
-    "published": true
+    "description": "Traditional 1172 culatta extra ue made with time-honored methods and finest ingredients."
   },
   {
-    "title": "Aged Parmesan Cheese",
-    "description": "Authentic Parmigiano-Reggiano, aged for 24 months for a sharp, nutty flavor.",
-    "image": "https://images.unsplash.com/photo-1607628294230-e9e16e5347f4?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "id": "1390-nduja-extra-ue",
+    "name": "1390 Nduja Extra Ue",
+    "image": "media/FRESH PRODUCTS/1390_nduja_extra_ue-7844.jpg",
     "category": "cheese-cold-cuts",
-    "published": true
+    "description": "Premium 1390 nduja extra ue carefully selected for its exceptional quality and authentic taste."
   },
   {
-    "title": "Arborio Rice Superfino",
-    "description": "Premium Italian short-grain rice perfect for risotto. High starch content creates the ideal creamy consistency.",
-    "image": "https://images.unsplash.com/photo-1586201375761-83865001e31c?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-    "category": "pasta-rice-flour",
-    "published": true
-  },
-  {
-    "title": "Artisanal Pasta - Fusilli",
-    "description": "Handcrafted Fusilli pasta, perfect for catching your favorite sauces. Made with 100% durum wheat.",
-    "image": "https://images.unsplash.com/photo-1603729362753-f8162ac6c3df?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-    "category": "pasta-rice-flour",
-    "published": true
-  },
-  {
-    "title": "Barolo DOCG 2018",
-    "description": "Noble Nebbiolo wine from Piedmont. Full-bodied with complex tannins, notes of cherry, rose, and tar. Perfect with red meat.",
-    "image": "https://images.unsplash.com/photo-1553361371-9b22f78e8b1d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-    "category": "wine-spirits",
-    "published": true
-  },
-  {
-    "title": "Brie de Meaux AOC",
-    "description": "The king of cheeses. Soft, creamy French Brie with a bloomy white rind and rich, buttery interior.",
-    "image": "https://images.unsplash.com/photo-1551909573-b01c7ff80d15?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "id": "1811",
+    "name": "1811",
+    "image": "media/FRESH PRODUCTS/1810-1811-1812-mortadella-pistacchi-extra-ue-00048045.jpg",
     "category": "cheese-cold-cuts",
-    "published": true
+    "description": "Premium 1811 carefully selected for its exceptional quality and authentic taste."
   },
   {
-    "title": "Champagne Vintage Dom Pérignon",
-    "description": "Prestigious French champagne with fine bubbles. Complex aromas of white fruits, brioche, and mineral notes.",
-    "image": "https://images.unsplash.com/photo-1547595628-c61a29f496f0?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-    "category": "wine-spirits",
-    "published": true
+    "id": "asiago-pressato-spicchio-1-4",
+    "name": "ASIAGO PRESSATO Spicchio 1 4",
+    "image": "media/FRESH PRODUCTS/AU2001/ASIAGO PRESSATO Spicchio 1_4 - 4Kg.jpg",
+    "category": "cheese-cold-cuts",
+    "description": "Premium asiago pressato spicchio 1 4 carefully selected for its exceptional quality and authentic taste."
   },
   {
-    "title": "Chianti Classico Riserva DOCG",
-    "description": "Traditional Tuscan wine made from Sangiovese grapes. Elegant with cherry flavors, balanced acidity, and smooth tannins.",
-    "image": "https://images.unsplash.com/photo-1474722883778-792e7990302f?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-    "category": "wine-spirits",
-    "published": true
+    "id": "au-pecorino-con-peperoncino-2-kg",
+    "name": "AU PECORINO CON PEPERONCINO 2 KG",
+    "image": "media/FRESH PRODUCTS/AU9075/AU PECORINO CON PEPERONCINO 2 KG.jpg",
+    "category": "cheese-cold-cuts",
+    "description": "Traditional au pecorino con peperoncino 2 kg made with time-honored methods and finest ingredients."
   },
   {
-    "title": "Gourmet Coffee Beans",
-    "description": "A medium roast blend of Arabica beans from South America, with notes of chocolate and caramel.",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc7h-DKUcifvf3kq6imE9Q-luWebBfc75YDA&s",
+    "id": "auricchio-burrata-125-gr",
+    "name": "Auricchio BURRATA 125 Gr",
+    "image": "media/FRESH PRODUCTS/AU5125/Auricchio BURRATA 125 gr.jpg",
+    "category": "cheese-cold-cuts",
+    "description": "Traditional auricchio burrata 125 gr made with time-honored methods and finest ingredients."
+  },
+  {
+    "id": "auricchio-burrata-125-gr2",
+    "name": "Auricchio BURRATA 125 Gr2",
+    "image": "media/FRESH PRODUCTS/AU5125/Auricchio BURRATA 125 gr2.jpg",
+    "category": "cheese-cold-cuts",
+    "description": "Premium auricchio burrata 125 gr2 carefully selected for its exceptional quality and authentic taste."
+  },
+  {
+    "id": "auricchio-gorgonzola-d-o-p-oro-1-5-kg",
+    "name": "Auricchio GORGONZOLA D.O.P. ORO 1,5 Kg",
+    "image": "media/FRESH PRODUCTS/AUGO01S/Auricchio GORGONZOLA D.O.P. ORO 1,5 Kg.jpg",
+    "category": "cheese-cold-cuts",
+    "description": "Traditional auricchio gorgonzola d.o.p. oro 1,5 kg made with time-honored methods and finest ingredients."
+  },
+  {
+    "id": "auricchio-grana-padano-200-gr",
+    "name": "Auricchio GRANA PADANO 200 Gr",
+    "image": "media/FRESH PRODUCTS/AUE94G2/Auricchio GRANA PADANO 200 gr.jpg",
+    "category": "cheese-cold-cuts",
+    "description": "Traditional auricchio grana padano 200 gr made with time-honored methods and finest ingredients."
+  },
+  {
+    "id": "auricchio-mascarpone-fresco-250-gr",
+    "name": "Auricchio MASCARPONE Fresco 250 Gr",
+    "image": "media/FRESH PRODUCTS/AU0025/Auricchio MASCARPONE Fresco 250 gr.jpg",
+    "category": "cheese-cold-cuts",
+    "description": "Artisanal auricchio mascarpone fresco 250 gr offering rich flavors and superior texture."
+  },
+  {
+    "id": "auricchio-mascarpone-fresco-500-gr",
+    "name": "Auricchio MASCARPONE Fresco 500 Gr",
+    "image": "media/FRESH PRODUCTS/AU0050/Auricchio MASCARPONE Fresco 500 gr.jpg",
+    "category": "cheese-cold-cuts",
+    "description": "Premium auricchio mascarpone fresco 500 gr carefully selected for its exceptional quality and authentic taste."
+  },
+  {
+    "id": "auricchio-mascarpone-fresco-500-gr2",
+    "name": "Auricchio MASCARPONE Fresco 500 Gr2",
+    "image": "media/FRESH PRODUCTS/AU0050/Auricchio MASCARPONE Fresco 500 gr2.jpg",
+    "category": "cheese-cold-cuts",
+    "description": "Traditional auricchio mascarpone fresco 500 gr2 made with time-honored methods and finest ingredients."
+  },
+  {
+    "id": "auricchio-mozzarella-di-bufala-125-gr",
+    "name": "Auricchio MOZZARELLA Di BUFALA 125 Gr",
+    "image": "media/FRESH PRODUCTS/AU356/Auricchio MOZZARELLA di BUFALA 125 gr.jpg",
+    "category": "cheese-cold-cuts",
+    "description": "Artisanal auricchio mozzarella di bufala 125 gr offering rich flavors and superior texture."
+  },
+  {
+    "id": "auricchio-mozzarella-mini-ciliegine-150-gr",
+    "name": "Auricchio MOZZARELLA Mini Ciliegine 150 Gr",
+    "image": "media/FRESH PRODUCTS/AU4126/Auricchio MOZZARELLA Mini ciliegine 150 gr.jpg",
+    "category": "cheese-cold-cuts",
+    "description": "Artisanal auricchio mozzarella mini ciliegine 150 gr offering rich flavors and superior texture."
+  },
+  {
+    "id": "auricchio-mozzarella-vacca-125-gr",
+    "name": "Auricchio MOZZARELLA VACCA 125 Gr",
+    "image": "media/FRESH PRODUCTS/AU3125/Auricchio MOZZARELLA VACCA 125 gr.jpg",
+    "category": "cheese-cold-cuts",
+    "description": "Traditional auricchio mozzarella vacca 125 gr made with time-honored methods and finest ingredients."
+  },
+  {
+    "id": "auricchio-parmigiano-reggiano-200gr",
+    "name": "Auricchio PARMIGIANO REGGIANO 200gr",
+    "image": "media/FRESH PRODUCTS/AUE84G/Auricchio PARMIGIANO REGGIANO  200gr.jpg",
+    "category": "cheese-cold-cuts",
+    "description": "Artisanal auricchio parmigiano reggiano 200gr offering rich flavors and superior texture."
+  },
+  {
+    "id": "auricchio-pecorino-al-tartufo",
+    "name": "AURICCHIO PECORINO AL TARTUFO",
+    "image": "media/FRESH PRODUCTS/AU78T/AURICCHIO PECORINO AL TARTUFO - 1,5Kg.jpg",
+    "category": "cheese-cold-cuts",
+    "description": "Premium auricchio pecorino al tartufo carefully selected for its exceptional quality and authentic taste."
+  },
+  {
+    "id": "auricchio-provolone-classico-200gr",
+    "name": "Auricchio PROVOLONE CLASSICO 200gr",
+    "image": "media/FRESH PRODUCTS/AU50G2B/Auricchio PROVOLONE CLASSICO 200gr.jpg",
+    "category": "cheese-cold-cuts",
+    "description": "Traditional auricchio provolone classico 200gr made with time-honored methods and finest ingredients."
+  },
+  {
+    "id": "auricchio-provolone-dolce-200gr",
+    "name": "Auricchio PROVOLONE DOLCE 200gr",
+    "image": "media/FRESH PRODUCTS/AU17G2B/Auricchio PROVOLONE DOLCE 200gr.jpg",
+    "category": "cheese-cold-cuts",
+    "description": "Traditional auricchio provolone dolce 200gr made with time-honored methods and finest ingredients."
+  },
+  {
+    "id": "auricchio-ricotta-fresca-250-gr",
+    "name": "Auricchio RICOTTA FRESCA 250 Gr",
+    "image": "media/FRESH PRODUCTS/AU0250/Auricchio RICOTTA FRESCA 250 gr.jpg",
+    "category": "cheese-cold-cuts",
+    "description": "Traditional auricchio ricotta fresca 250 gr made with time-honored methods and finest ingredients."
+  },
+  {
+    "id": "auricchio-ricotta-salata-ovina-torre",
+    "name": "Auricchio Ricotta Salata Ovina Torre",
+    "image": "media/FRESH PRODUCTS/AU9199/Auricchio Ricotta Salata Ovina Torre - 750g.jpg",
+    "category": "cheese-cold-cuts",
+    "description": "Artisanal auricchio ricotta salata ovina torre offering rich flavors and superior texture."
+  },
+  {
+    "id": "auricchio-scamorza-affumicata-250g",
+    "name": "Auricchio Scamorza Affumicata 250g",
+    "image": "media/FRESH PRODUCTS/RE291/Auricchio Scamorza Affumicata 250g.jpg",
+    "category": "cheese-cold-cuts",
+    "description": "Traditional auricchio scamorza affumicata 250g made with time-honored methods and finest ingredients."
+  },
+  {
+    "id": "auricchio-scamorza-affumicata-250gr",
+    "name": "Auricchio SCAMORZA Affumicata 250gr",
+    "image": "media/FRESH PRODUCTS/AU6250/Auricchio SCAMORZA Affumicata 250gr.jpg",
+    "category": "cheese-cold-cuts",
+    "description": "Traditional auricchio scamorza affumicata 250gr made with time-honored methods and finest ingredients."
+  },
+  {
+    "id": "auricchio-taleggio-dop-forma",
+    "name": "Auricchio TALEGGIO DOP Forma",
+    "image": "media/FRESH PRODUCTS/AU0900/Auricchio TALEGGIO DOP Forma.jpg",
+    "category": "cheese-cold-cuts",
+    "description": "Artisanal auricchio taleggio dop forma offering rich flavors and superior texture."
+  },
+  {
+    "id": "cacciatore-italiano-extra-ue",
+    "name": "Cacciatore Italiano Extra Ue",
+    "image": "media/FRESH PRODUCTS/1355-cacciatore-italiano-extra-ue-00047965.jpg",
+    "category": "cheese-cold-cuts",
+    "description": "Premium cacciatore italiano extra ue carefully selected for its exceptional quality and authentic taste."
+  },
+  {
+    "id": "cod-158802-speck-igp-cortebuona",
+    "name": "Cod. 158802 Speck IGP Cortebuona",
+    "image": "media/FRESH PRODUCTS/Cod. 158802 Speck IGP Cortebuona.jpg",
+    "category": "cheese-cold-cuts",
+    "description": "Traditional cod. 158802 speck igp cortebuona made with time-honored methods and finest ingredients."
+  },
+  {
+    "id": "coppa-senza-pelle-extra-ue",
+    "name": "Coppa Senza Pelle Extra Ue",
+    "image": "media/FRESH PRODUCTS/1106-coppa-senza-pelle-extra-ue-00048625.jpg",
+    "category": "cheese-cold-cuts",
+    "description": "Traditional coppa senza pelle extra ue made with time-honored methods and finest ingredients."
+  },
+  {
+    "id": "cotto-al-bacio-prosciutto-cotto",
+    "name": "Cotto Al Bacio Prosciutto Cotto",
+    "image": "media/FRESH PRODUCTS/0341001 - cotto al bacio - prosciutto cotto.jpg",
+    "category": "cheese-cold-cuts",
+    "description": "Artisanal cotto al bacio prosciutto cotto offering rich flavors and superior texture."
+  },
+  {
+    "id": "cotto-jolly-mezzo-extra-ue",
+    "name": "Cotto Jolly Mezzo Extra Ue",
+    "image": "media/FRESH PRODUCTS/1228-cotto-jolly-mezzo-extra-ue-00048208.jpg",
+    "category": "cheese-cold-cuts",
+    "description": "Premium cotto jolly mezzo extra ue carefully selected for its exceptional quality and authentic taste."
+  },
+  {
+    "id": "cotto-tartufo",
+    "name": "Cotto Tartufo",
+    "image": "media/FRESH PRODUCTS/199-cotto-tartufo-00047900.jpg",
+    "category": "cheese-cold-cuts",
+    "description": "Premium cotto tartufo carefully selected for its exceptional quality and authentic taste."
+  },
+  {
+    "id": "cotto-tartufo-intestato",
+    "name": "Cotto Tartufo Intestato",
+    "image": "media/FRESH PRODUCTS/199-cotto-tartufo-intestato-00047527.jpg",
+    "category": "cheese-cold-cuts",
+    "description": "Traditional cotto tartufo intestato made with time-honored methods and finest ingredients."
+  },
+  {
+    "id": "cuor-di-paese-classica-con-pistacchi",
+    "name": "Cuor Di Paese Classica Con Pistacchi",
+    "image": "media/FRESH PRODUCTS/0343000 - cuor di paese_classica con pistacchi.jpg",
+    "category": "cheese-cold-cuts",
+    "description": "Traditional cuor di paese classica con pistacchi made with time-honored methods and finest ingredients."
+  },
+  {
+    "id": "grana-padano-16-month",
+    "name": "GRANA PADANO 16 Month",
+    "image": "media/FRESH PRODUCTS/AU4099/GRANA PADANO 16 month - 1 Kg.jpg",
+    "category": "cheese-cold-cuts",
+    "description": "Premium grana padano 16 month carefully selected for its exceptional quality and authentic taste."
+  },
+  {
+    "id": "grana-padano-dop-16-mesi",
+    "name": "GRANA PADANO DOP 16 Mesi",
+    "image": "media/FRESH PRODUCTS/AUE942/GRANA PADANO DOP 16 mesi - 500g.jpg",
+    "category": "cheese-cold-cuts",
+    "description": "Premium grana padano dop 16 mesi carefully selected for its exceptional quality and authentic taste."
+  },
+  {
+    "id": "grana-padano-dop-16-month-1-8",
+    "name": "GRANA PADANO DOP 16 Month 1 8",
+    "image": "media/FRESH PRODUCTS/AUE953/GRANA PADANO DOP 16 month 1_8.jpg",
+    "category": "cheese-cold-cuts",
+    "description": "Artisanal grana padano dop 16 month 1 8 offering rich flavors and superior texture."
+  },
+  {
+    "id": "grana-padano-dop-16-month-wheel-38kg",
+    "name": "GRANA PADANO DOP 16 Month Wheel 38kg",
+    "image": "media/FRESH PRODUCTS/AUE931/GRANA PADANO DOP 16 month - wheel 38kg.jpg",
+    "category": "cheese-cold-cuts",
+    "description": "Artisanal grana padano dop 16 month wheel 38kg offering rich flavors and superior texture."
+  },
+  {
+    "id": "grana-padano-grated-fresco-tin-1kg",
+    "name": "GRANA PADANO Grated Fresco Tin 1Kg",
+    "image": "media/FRESH PRODUCTS/AU4100/GRANA PADANO Grated Fresco tin 1Kg.jpg",
+    "category": "cheese-cold-cuts",
+    "description": "Artisanal grana padano grated fresco tin 1kg offering rich flavors and superior texture."
+  },
+  {
+    "id": "guanciale-affumicato-extra-ue",
+    "name": "Guanciale Affumicato Extra Ue",
+    "image": "media/FRESH PRODUCTS/1350-guanciale-affumicato-extra-ue-00047707.jpg",
+    "category": "cheese-cold-cuts",
+    "description": "Traditional guanciale affumicato extra ue made with time-honored methods and finest ingredients."
+  },
+  {
+    "id": "halal-salametto",
+    "name": "Halal Salametto",
+    "image": "media/FRESH PRODUCTS/Halal - salametto.jpg",
+    "category": "cheese-cold-cuts",
+    "description": "Premium halal salametto carefully selected for its exceptional quality and authentic taste."
+  },
+  {
+    "id": "ibis-bresaola-cuor-d-alpe",
+    "name": "Ibis Bresaola Cuor D'Alpe",
+    "image": "media/FRESH PRODUCTS/0346001 - Ibis - bresaola cuor d'alpe.jpg",
+    "category": "cheese-cold-cuts",
+    "description": "Premium ibis bresaola cuor d'alpe carefully selected for its exceptional quality and authentic taste."
+  },
+  {
+    "id": "ibis-bresaola-della-valtellina",
+    "name": "IBIS Bresaola Della Valtellina",
+    "image": "media/FRESH PRODUCTS/0341073 - IBIS - bresaola della valtellina.jpg",
+    "category": "cheese-cold-cuts",
+    "description": "Artisanal ibis bresaola della valtellina offering rich flavors and superior texture."
+  },
+  {
+    "id": "mortadella-tartufo-extra-ue",
+    "name": "Mortadella Tartufo Extra Ue",
+    "image": "media/FRESH PRODUCTS/1820-mortadella-tartufo-extra-ue-00048042.jpg",
+    "category": "cheese-cold-cuts",
+    "description": "Premium mortadella tartufo extra ue carefully selected for its exceptional quality and authentic taste."
+  },
+  {
+    "id": "pancetta-affumicata-cubetti",
+    "name": "Pancetta Affumicata Cubetti",
+    "image": "media/FRESH PRODUCTS/345-pancetta-affumicata-cubetti-00047626.jpg",
+    "category": "cheese-cold-cuts",
+    "description": "Artisanal pancetta affumicata cubetti offering rich flavors and superior texture."
+  },
+  {
+    "id": "pancetta-affumicata-extra-ue",
+    "name": "Pancetta Affumicata Extra Ue",
+    "image": "media/FRESH PRODUCTS/1343-pancetta-affumicata-extra-ue-00048088.jpg",
+    "category": "cheese-cold-cuts",
+    "description": "Premium pancetta affumicata extra ue carefully selected for its exceptional quality and authentic taste."
+  },
+  {
+    "id": "pancetta-dolce-cubetti",
+    "name": "Pancetta Dolce Cubetti",
+    "image": "media/FRESH PRODUCTS/331-pancetta-dolce-cubetti-00047629.jpg",
+    "category": "cheese-cold-cuts",
+    "description": "Traditional pancetta dolce cubetti made with time-honored methods and finest ingredients."
+  },
+  {
+    "id": "parma-disossato",
+    "name": "Parma Disossato",
+    "image": "media/FRESH PRODUCTS/1173-parma-disossato-13-mesi-extra-ue-00047758.jpg",
+    "category": "cheese-cold-cuts",
+    "description": "Premium parma disossato carefully selected for its exceptional quality and authentic taste."
+  },
+  {
+    "id": "parmigiano-reggiano-24-month",
+    "name": "PARMIGIANO REGGIANO +24 Month",
+    "image": "media/FRESH PRODUCTS/AU5000/PARMIGIANO REGGIANO +24 month - 1Kg.jpg",
+    "category": "cheese-cold-cuts",
+    "description": "Traditional parmigiano reggiano +24 month made with time-honored methods and finest ingredients."
+  },
+  {
+    "id": "parmigiano-reggiano-24-month-1-8",
+    "name": "PARMIGIANO REGGIANO +24 Month 1 8",
+    "image": "media/FRESH PRODUCTS/AUE851/PARMIGIANO REGGIANO +24 month 1_8 - 5Kg.jpg",
+    "category": "cheese-cold-cuts",
+    "description": "Premium parmigiano reggiano +24 month 1 8 carefully selected for its exceptional quality and authentic taste."
+  },
+  {
+    "id": "parmigiano-reggiano-24-month-1kg",
+    "name": "PARMIGIANO REGGIANO +24 Month 1Kg",
+    "image": "media/FRESH PRODUCTS/AU5100/PARMIGIANO REGGIANO +24 month 1Kg.jpg",
+    "category": "cheese-cold-cuts",
+    "description": "Premium parmigiano reggiano +24 month 1kg carefully selected for its exceptional quality and authentic taste."
+  },
+  {
+    "id": "parmigiano-reggiano-24-months",
+    "name": "PARMIGIANO REGGIANO +24 MONTHS",
+    "image": "media/FRESH PRODUCTS/AU5050/PARMIGIANO REGGIANO +24 MONTHS - 550 g.jpg",
+    "category": "cheese-cold-cuts",
+    "description": "Artisanal parmigiano reggiano +24 months offering rich flavors and superior texture."
+  },
+  {
+    "id": "pecorino-romano-dop-250-gr",
+    "name": "PECORINO ROMANO DOP 250 GR",
+    "image": "media/FRESH PRODUCTS/AU1748/PECORINO ROMANO  DOP  250 GR.jpg",
+    "category": "cheese-cold-cuts",
+    "description": "Traditional pecorino romano dop 250 gr made with time-honored methods and finest ingredients."
+  },
+  {
+    "id": "pecorino-romno-dop-1-8-2kg",
+    "name": "PECORINO ROMNO DOP 1 8 – 2KG",
+    "image": "media/FRESH PRODUCTS/AUE747/PECORINO ROMNO DOP 1_8 – 2KG.jpg",
+    "category": "cheese-cold-cuts",
+    "description": "Traditional pecorino romno dop 1 8 – 2kg made with time-honored methods and finest ingredients."
+  },
+  {
+    "id": "pecorino-sardo-su-sardu",
+    "name": "PECORINO SARDO SU SARDU",
+    "image": "media/FRESH PRODUCTS/AUEA001/PECORINO SARDO SU SARDU - 2,8Kg.jpg",
+    "category": "cheese-cold-cuts",
+    "description": "Artisanal pecorino sardo su sardu offering rich flavors and superior texture."
+  },
+  {
+    "id": "porchetta",
+    "name": "Porchetta",
+    "image": "media/FRESH PRODUCTS/150865 - porchetta.jpg",
+    "category": "cheese-cold-cuts",
+    "description": "Premium porchetta carefully selected for its exceptional quality and authentic taste."
+  },
+  {
+    "id": "prosciutto-crudo-bosco-senza-osso",
+    "name": "Prosciutto Crudo Bosco Senza Osso",
+    "image": "media/FRESH PRODUCTS/prosciutto crudo bosco senza osso.jpg",
+    "category": "cheese-cold-cuts",
+    "description": "Artisanal prosciutto crudo bosco senza osso offering rich flavors and superior texture."
+  },
+  {
+    "id": "provolone-auricchio-classico-settefette-5kg",
+    "name": "PROVOLONE AURICCHIO CLASSICO Settefette 5kg",
+    "image": "media/FRESH PRODUCTS/AUE591/PROVOLONE AURICCHIO CLASSICO Settefette 5kg.jpg",
+    "category": "cheese-cold-cuts",
+    "description": "Premium provolone auricchio classico settefette 5kg carefully selected for its exceptional quality and authentic taste."
+  },
+  {
+    "id": "provolone-auricchio-dolce-6kg",
+    "name": "PROVOLONE AURICCHIO DOLCE 6kg",
+    "image": "media/FRESH PRODUCTS/AUE105/PROVOLONE AURICCHIO DOLCE 6kg.jpg",
+    "category": "cheese-cold-cuts",
+    "description": "Premium provolone auricchio dolce 6kg carefully selected for its exceptional quality and authentic taste."
+  },
+  {
+    "id": "provolone-gigantino-piccante-10-kg",
+    "name": "PROVOLONE Gigantino Piccante 10 Kg",
+    "image": "media/FRESH PRODUCTS/AU1511/PROVOLONE Gigantino Piccante 10 Kg.jpg",
+    "category": "cheese-cold-cuts",
+    "description": "Artisanal provolone gigantino piccante 10 kg offering rich flavors and superior texture."
+  },
+  {
+    "id": "rosa-velo-prosciutto-cotto",
+    "name": "Rosa Velo Prosciutto Cotto",
+    "image": "media/FRESH PRODUCTS/0341000 - rosa velo - prosciutto cotto.jpg",
+    "category": "cheese-cold-cuts",
+    "description": "Traditional rosa velo prosciutto cotto made with time-honored methods and finest ingredients."
+  },
+  {
+    "id": "salame-milano-mezzo-extra-ue",
+    "name": "Salame Milano Mezzo Extra Ue",
+    "image": "media/FRESH PRODUCTS/1347-salame-milano-mezzo-extra-ue-005.jpg",
+    "category": "cheese-cold-cuts",
+    "description": "Artisanal salame milano mezzo extra ue offering rich flavors and superior texture."
+  },
+  {
+    "id": "salame-napoli-extra-ue",
+    "name": "Salame Napoli Extra Ue",
+    "image": "media/FRESH PRODUCTS/1359-salame-napoli-extra-ue-00048230.jpg",
+    "category": "cheese-cold-cuts",
+    "description": "Premium salame napoli extra ue carefully selected for its exceptional quality and authentic taste."
+  },
+  {
+    "id": "salame-san-gennaro-extra-ue",
+    "name": "Salame San Gennaro Extra Ue",
+    "image": "media/FRESH PRODUCTS/1361-salame-san-gennaro-extra-ue-00048227.jpg",
+    "category": "cheese-cold-cuts",
+    "description": "Premium salame san gennaro extra ue carefully selected for its exceptional quality and authentic taste."
+  },
+  {
+    "id": "salame-tartufo-extra-ue",
+    "name": "Salame Tartufo Extra Ue",
+    "image": "media/FRESH PRODUCTS/1325-salame-tartufo-extra-ue-00047978.jpg",
+    "category": "cheese-cold-cuts",
+    "description": "Artisanal salame tartufo extra ue offering rich flavors and superior texture."
+  },
+  {
+    "id": "salame-ungherese-mezzo-extra-ue",
+    "name": "Salame Ungherese Mezzo Extra Ue",
+    "image": "media/FRESH PRODUCTS/1341-salame-ungherese-mezzo-extra-ue-002.jpg",
+    "category": "cheese-cold-cuts",
+    "description": "Traditional salame ungherese mezzo extra ue made with time-honored methods and finest ingredients."
+  },
+  {
+    "id": "salametto-di-secondigliano",
+    "name": "Salametto Di Secondigliano",
+    "image": "media/FRESH PRODUCTS/340660 - salametto di secondigliano.jpg",
+    "category": "cheese-cold-cuts",
+    "description": "Artisanal salametto di secondigliano offering rich flavors and superior texture."
+  },
+  {
+    "id": "salsiccia-stagionata-mediterranea",
+    "name": "Salsiccia Stagionata Mediterranea",
+    "image": "media/FRESH PRODUCTS/1387-salsiccia-stagionata-mediterranea-1kg-extra-ue-00047682.jpg",
+    "category": "cheese-cold-cuts",
+    "description": "Premium salsiccia stagionata mediterranea carefully selected for its exceptional quality and authentic taste."
+  },
+  {
+    "id": "san-daniele-disossato",
+    "name": "San Daniele Disossato",
+    "image": "media/FRESH PRODUCTS/1120-san-daniele-disossato-13-mesi-extra-ue-00047759.jpg",
+    "category": "cheese-cold-cuts",
+    "description": "Traditional san daniele disossato made with time-honored methods and finest ingredients."
+  },
+  {
+    "id": "san-daniele-legato",
+    "name": "San Daniele Legato",
+    "image": "media/FRESH PRODUCTS/1123-san-daniele-legato-24-mesi-extra-ue-00047791.jpg",
+    "category": "cheese-cold-cuts",
+    "description": "Traditional san daniele legato made with time-honored methods and finest ingredients."
+  },
+  {
+    "id": "schiacciata-piccante-mezza-extra-ue",
+    "name": "Schiacciata Piccante Mezza Extra Ue",
+    "image": "media/FRESH PRODUCTS/1314-schiacciata-piccante-mezza-extra-ue-017.jpg",
+    "category": "cheese-cold-cuts",
+    "description": "Traditional schiacciata piccante mezza extra ue made with time-honored methods and finest ingredients."
+  },
+  {
+    "id": "tacchino",
+    "name": "Tacchino",
+    "image": "media/FRESH PRODUCTS/279-tacchino-00047845.jpg",
+    "category": "cheese-cold-cuts",
+    "description": "Artisanal tacchino offering rich flavors and superior texture."
+  },
+  {
+    "id": "tacchino-mezzo",
+    "name": "Tacchino Mezzo",
+    "image": "media/FRESH PRODUCTS/279-tacchino-mezzo-00047863.jpg",
+    "category": "cheese-cold-cuts",
+    "description": "Premium tacchino mezzo carefully selected for its exceptional quality and authentic taste."
+  },
+  {
+    "id": "250-g-chocolate-cantuccini-box-hd-300-dpi",
+    "name": "250 G Chocolate Cantuccini Box HD 300 DPI",
+    "image": "media/DRY PRODUCTS/BELLI PICS/250 g Chocolate cantuccini box HD 300 DPI.jpg",
     "category": "coffee-tea",
-    "published": true
+    "description": "Carefully roasted 250 g chocolate cantuccini box hd 300 dpi for the perfect cup every time."
   },
   {
-    "title": "Orecchiette Pugliesi",
-    "description": "Traditional ear-shaped pasta from Puglia. Hand-rolled using durum wheat semolina for authentic texture and flavor.",
-    "image": "https://images.unsplash.com/photo-1621996346565-e3dbc353d2e5?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "id": "53859-cirio-datterini-400g-front",
+    "name": "53859 Cirio Datterini 400g FRONT",
+    "image": "media/DRY PRODUCTS/CIRIO PICS 2025/53859 Cirio_Datterini_400g FRONT.jpg",
+    "category": "coffee-tea",
+    "description": "Premium 53859 cirio datterini 400g front with rich aroma and exceptional flavor profile."
+  },
+  {
+    "id": "53864-brik-cirio-passata-500g-neutral-tetra",
+    "name": "53864 Brik Cirio Passata 500g Neutral Tetra",
+    "image": "media/DRY PRODUCTS/CIRIO PICS 2025/53864 Brik_Cirio_Passata_500g_Neutral_Tetra.jpg",
+    "category": "coffee-tea",
+    "description": "Authentic 53864 brik cirio passata 500g neutral tetra bringing traditional taste to your daily ritual."
+  },
+  {
+    "id": "boschi1961-bos-ol0017-mediterraneo-750ml",
+    "name": "Boschi1961 BOS OL0017 Mediterraneo 750ml",
+    "image": "media/DRY PRODUCTS/BOSCHETTO PICS/Boschi1961_BOS-OL0017 Mediterraneo 750ml.png",
+    "category": "coffee-tea",
+    "description": "Authentic boschi1961 bos ol0017 mediterraneo 750ml bringing traditional taste to your daily ritual."
+  },
+  {
+    "id": "cannamela-paprika-forte",
+    "name": "CANNAMELA PAPRIKA FORTE",
+    "image": "media/DRY PRODUCTS/CANNAMELA PICS/CANNAMELA PAPRIKA FORTE.png",
+    "category": "coffee-tea",
+    "description": "Premium cannamela paprika forte with rich aroma and exceptional flavor profile."
+  },
+  {
+    "id": "cannamela-pepe-nero-tell-grani",
+    "name": "CANNAMELA PEPE NERO TELL. GRANI",
+    "image": "media/DRY PRODUCTS/CANNAMELA PICS/CANNAMELA PEPE NERO TELL. GRANI.png",
+    "category": "coffee-tea",
+    "description": "Authentic cannamela pepe nero tell. grani bringing traditional taste to your daily ritual."
+  },
+  {
+    "id": "cannamela-pepe-nero-tell-macinato",
+    "name": "CANNAMELA PEPE NERO TELL. MACINATO",
+    "image": "media/DRY PRODUCTS/CANNAMELA PICS/CANNAMELA PEPE NERO TELL. MACINATO.png",
+    "category": "coffee-tea",
+    "description": "Authentic cannamela pepe nero tell. macinato bringing traditional taste to your daily ritual."
+  },
+  {
+    "id": "da28976-olive-snocciolate-castelvetrano-700g",
+    "name": "DA28976 Olive Snocciolate Castelvetrano 700g",
+    "image": "media/DRY PRODUCTS/D'AMICO PICS/DA28976_Olive_Snocciolate_Castelvetrano_700g.png",
+    "category": "coffee-tea",
+    "description": "Carefully roasted da28976 olive snocciolate castelvetrano 700g for the perfect cup every time."
+  },
+  {
+    "id": "double-chocolate-and-almond",
+    "name": "Double Chocolate And Almond",
+    "image": "media/DRY PRODUCTS/BELLI PICS/Double chocolate and almond - 250 g BAG AKTUELL 160821.jpg",
+    "category": "coffee-tea",
+    "description": "Authentic double chocolate and almond bringing traditional taste to your daily ritual."
+  },
+  {
+    "id": "ilboschetto-bos-sp0094-mediterraneo-120gr",
+    "name": "IlBoschetto BOS SP0094 Mediterraneo 120GR",
+    "image": "media/DRY PRODUCTS/BOSCHETTO PICS/IlBoschetto - BOS-SP0094 Mediterraneo 120GR.png",
+    "category": "coffee-tea",
+    "description": "Premium ilboschetto bos sp0094 mediterraneo 120gr with rich aroma and exceptional flavor profile."
+  },
+  {
+    "id": "ilboschetto-bos-sp0102-mediterraneo-250gr",
+    "name": "IlBoschetto BOS SP0102 Mediterraneo 250GR",
+    "image": "media/DRY PRODUCTS/BOSCHETTO PICS/IlBoschetto - BOS-SP0102 Mediterraneo 250GR.png",
+    "category": "coffee-tea",
+    "description": "Premium ilboschetto bos sp0102 mediterraneo 250gr with rich aroma and exceptional flavor profile."
+  },
+  {
+    "id": "pc3579-cosi-come-datterino-giallo-in-succo",
+    "name": "PC3579 Cosi Come Datterino Giallo In Succo",
+    "image": "media/DRY PRODUCTS/COSICOME PICS/PC3579-Cosi-Come-Datterino-Giallo-in-succo.png",
+    "category": "coffee-tea",
+    "description": "Authentic pc3579 cosi come datterino giallo in succo bringing traditional taste to your daily ritual."
+  },
+  {
+    "id": "pc3580-cosi-come-datterino-rosso-intero-in-succo",
+    "name": "PC3580 Cosi Come Datterino Rosso Intero In Succo",
+    "image": "media/DRY PRODUCTS/COSICOME PICS/PC3580-Cosi-Come-Datterino-Rosso-intero-in-succo.png",
+    "category": "coffee-tea",
+    "description": "Authentic pc3580 cosi come datterino rosso intero in succo bringing traditional taste to your daily ritual."
+  },
+  {
+    "id": "pc3581-cosi-come-datterino-rosso-al-naturale",
+    "name": "PC3581 Cosi Come Datterino Rosso Al Naturale",
+    "image": "media/DRY PRODUCTS/COSICOME PICS/PC3581-Cosi-Come-Datterino-Rosso-al-naturale.png",
+    "category": "coffee-tea",
+    "description": "Carefully roasted pc3581 cosi come datterino rosso al naturale for the perfect cup every time."
+  },
+  {
+    "id": "pc3583-cosi-come-datterino-giallo-al-naturale",
+    "name": "PC3583 Cosi Come Datterino Giallo Al Naturale",
+    "image": "media/DRY PRODUCTS/COSICOME PICS/PC3583-Cosi-Come-Datterino-Giallo-al-naturale.png",
+    "category": "coffee-tea",
+    "description": "Carefully roasted pc3583 cosi come datterino giallo al naturale for the perfect cup every time."
+  },
+  {
+    "id": "pc3967-cosi-come-pizzutello-pelato-in-succo",
+    "name": "PC3967 Cosi Come Pizzutello Pelato In Succo",
+    "image": "media/DRY PRODUCTS/COSICOME PICS/PC3967-Cosi-Come-Pizzutello-Pelato-in-succo.png",
+    "category": "coffee-tea",
+    "description": "Authentic pc3967 cosi come pizzutello pelato in succo bringing traditional taste to your daily ritual."
+  },
+  {
+    "id": "0bi0012",
+    "name": "0BI0012",
+    "image": "media/DRY PRODUCTS/DE CECCO  foto  prodotti/0BI0012 - 24512-16.jpg",
     "category": "pasta-rice-flour",
-    "published": true
+    "description": "Authentic 0bi0012 ideal for creating delicious Italian dishes."
   },
   {
-    "title": "Paccheri Artisanal Pasta",
-    "description": "Large tube pasta perfect for hearty sauces. Bronze-die extruded for perfect sauce adhesion and al dente texture.",
-    "image": "https://images.unsplash.com/photo-1574894709920-11b28e7367e3?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "id": "0bi1034",
+    "name": "0BI1034",
+    "image": "media/DRY PRODUCTS/DE CECCO  foto  prodotti/0BI1034 - 24534-14.jpg",
     "category": "pasta-rice-flour",
-    "published": true
+    "description": "Premium 0bi1034 crafted using traditional Italian methods."
   },
   {
-    "title": "Parmigiano-Reggiano DOP 24 Months",
-    "description": "Authentic Italian Parmigiano-Reggiano aged for 24 months. Hard, granular texture with a rich, nutty flavor and crystalline crunch.",
-    "image": "https://images.unsplash.com/photo-1486297678162-eb2a19b0a32d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-    "category": "cheese-cold-cuts",
-    "published": true
+    "id": "0bi1041",
+    "name": "0BI1041",
+    "image": "media/DRY PRODUCTS/DE CECCO  foto  prodotti/0BI1041 - 24541-16.jpg",
+    "category": "pasta-rice-flour",
+    "description": "High-quality 0bi1041 made from the finest durum wheat for perfect texture."
   },
   {
-    "title": "Premium Olive Oil",
-    "description": "Extra virgin olive oil from the hills of Tuscany. Cold-pressed and unfiltered for maximum flavor.",
-    "image": "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "id": "0fw0176-semola-di-grano-duro-rimacinata-2022",
+    "name": "0FW0176 SEMOLA DI GRANO DURO RIMACINATA 2022",
+    "image": "media/DRY PRODUCTS/DE CECCO  foto  prodotti/0FW0176 SEMOLA DI GRANO DURO RIMACINATA 2022.jpg",
+    "category": "pasta-rice-flour",
+    "description": "Premium 0fw0176 semola di grano duro rimacinata 2022 crafted using traditional Italian methods."
+  },
+  {
+    "id": "0gf0012-spaghetti-senza-glutine",
+    "name": "0GF0012 SPAGHETTI SENZA GLUTINE",
+    "image": "media/DRY PRODUCTS/DE CECCO  foto  prodotti/0GF0012 - SPAGHETTI SENZA GLUTINE.jpg",
+    "category": "pasta-rice-flour",
+    "description": "High-quality 0gf0012 spaghetti senza glutine made from the finest durum wheat for perfect texture."
+  },
+  {
+    "id": "0gf0034-fusilli-senza-glutine",
+    "name": "0GF0034 FUSILLI SENZA GLUTINE",
+    "image": "media/DRY PRODUCTS/DE CECCO  foto  prodotti/0GF0034 - FUSILLI SENZA GLUTINE.jpg",
+    "category": "pasta-rice-flour",
+    "description": "Authentic 0gf0034 fusilli senza glutine ideal for creating delicious Italian dishes."
+  },
+  {
+    "id": "0gf0041-penne-rigate-senza-glutine",
+    "name": "0GF0041 PENNE RIGATE SENZA GLUTINE",
+    "image": "media/DRY PRODUCTS/DE CECCO  foto  prodotti/0GF0041 - PENNE RIGATE SENZA GLUTINE.jpg",
+    "category": "pasta-rice-flour",
+    "description": "Premium 0gf0041 penne rigate senza glutine crafted using traditional Italian methods."
+  },
+  {
+    "id": "0si1012",
+    "name": "0SI1012",
+    "image": "media/DRY PRODUCTS/DE CECCO  foto  prodotti/0SI1012 - 25512-20.jpg",
+    "category": "pasta-rice-flour",
+    "description": "Premium 0si1012 crafted using traditional Italian methods."
+  },
+  {
+    "id": "0si1034",
+    "name": "0SI1034",
+    "image": "media/DRY PRODUCTS/DE CECCO  foto  prodotti/0SI1034 - 25034-20.jpg",
+    "category": "pasta-rice-flour",
+    "description": "Authentic 0si1034 ideal for creating delicious Italian dishes."
+  },
+  {
+    "id": "0si1041",
+    "name": "0SI1041",
+    "image": "media/DRY PRODUCTS/DE CECCO  foto  prodotti/0SI1041 - 25041-19.jpg",
+    "category": "pasta-rice-flour",
+    "description": "Authentic 0si1041 ideal for creating delicious Italian dishes."
+  },
+  {
+    "id": "0sr0034",
+    "name": "0SR0034",
+    "image": "media/DRY PRODUCTS/DE CECCO  foto  prodotti/0SR0034-20534-12.jpg",
+    "category": "pasta-rice-flour",
+    "description": "High-quality 0sr0034 made from the finest durum wheat for perfect texture."
+  },
+  {
+    "id": "0sr0041",
+    "name": "0SR0041",
+    "image": "media/DRY PRODUCTS/DE CECCO  foto  prodotti/0SR0041-20541-14.jpg",
+    "category": "pasta-rice-flour",
+    "description": "Premium 0sr0041 crafted using traditional Italian methods."
+  },
+  {
+    "id": "0sr0093",
+    "name": "0SR0093",
+    "image": "media/DRY PRODUCTS/DE CECCO  foto  prodotti/0SR0093-20593-12.jpg",
+    "category": "pasta-rice-flour",
+    "description": "Premium 0sr0093 crafted using traditional Italian methods."
+  },
+  {
+    "id": "0sw4201",
+    "name": "0SW4201",
+    "image": "media/DRY PRODUCTS/DE CECCO  foto  prodotti/0SW4201 - 61201N-05.jpg",
+    "category": "pasta-rice-flour",
+    "description": "Authentic 0sw4201 ideal for creating delicious Italian dishes."
+  },
+  {
+    "id": "0sw4203",
+    "name": "0SW4203",
+    "image": "media/DRY PRODUCTS/DE CECCO  foto  prodotti/0SW4203 - 61203N-05.jpg",
+    "category": "pasta-rice-flour",
+    "description": "High-quality 0sw4203 made from the finest durum wheat for perfect texture."
+  },
+  {
+    "id": "0sw4204",
+    "name": "0SW4204",
+    "image": "media/DRY PRODUCTS/DE CECCO  foto  prodotti/0SW4204 - 61204N-05.jpg",
+    "category": "pasta-rice-flour",
+    "description": "Premium 0sw4204 crafted using traditional Italian methods."
+  },
+  {
+    "id": "0sw4205",
+    "name": "0SW4205",
+    "image": "media/DRY PRODUCTS/DE CECCO  foto  prodotti/0SW4205 - 61205N-04.jpg",
+    "category": "pasta-rice-flour",
+    "description": "Premium 0sw4205 crafted using traditional Italian methods."
+  },
+  {
+    "id": "0sw4209",
+    "name": "0SW4209",
+    "image": "media/DRY PRODUCTS/DE CECCO  foto  prodotti/0SW4209 - 61209N-05.jpg",
+    "category": "pasta-rice-flour",
+    "description": "Authentic 0sw4209 ideal for creating delicious Italian dishes."
+  },
+  {
+    "id": "0sw4233",
+    "name": "0SW4233",
+    "image": "media/DRY PRODUCTS/DE CECCO  foto  prodotti/0SW4233 - 61233N-05.jpg",
+    "category": "pasta-rice-flour",
+    "description": "Authentic 0sw4233 ideal for creating delicious Italian dishes."
+  },
+  {
+    "id": "0sx3125",
+    "name": "0SX3125",
+    "image": "media/DRY PRODUCTS/DE CECCO  foto  prodotti/0SX3125 - 63125Q-12.jpg",
+    "category": "pasta-rice-flour",
+    "description": "Premium 0sx3125 crafted using traditional Italian methods."
+  },
+  {
+    "id": "0sx3126",
+    "name": "0SX3126",
+    "image": "media/DRY PRODUCTS/DE CECCO  foto  prodotti/0SX3126 - 63126Q-10.jpg",
+    "category": "pasta-rice-flour",
+    "description": "High-quality 0sx3126 made from the finest durum wheat for perfect texture."
+  },
+  {
+    "id": "0sx3129",
+    "name": "0SX3129",
+    "image": "media/DRY PRODUCTS/DE CECCO  foto  prodotti/0SX3129 - 63129Q-09.jpg",
+    "category": "pasta-rice-flour",
+    "description": "Premium 0sx3129 crafted using traditional Italian methods."
+  },
+  {
+    "id": "0ua2112",
+    "name": "0UA2112",
+    "image": "media/DRY PRODUCTS/DE CECCO  foto  prodotti/0UA2112 - 29112-06.jpg",
+    "category": "pasta-rice-flour",
+    "description": "Authentic 0ua2112 ideal for creating delicious Italian dishes."
+  },
+  {
+    "id": "0ud2100",
+    "name": "0UD2100",
+    "image": "media/DRY PRODUCTS/DE CECCO  foto  prodotti/0UD2100 - 26100-16.jpg",
+    "category": "pasta-rice-flour",
+    "description": "High-quality 0ud2100 made from the finest durum wheat for perfect texture."
+  },
+  {
+    "id": "0un2107",
+    "name": "0UN2107",
+    "image": "media/DRY PRODUCTS/DE CECCO  foto  prodotti/0UN2107 - 61107M-04.jpg",
+    "category": "pasta-rice-flour",
+    "description": "High-quality 0un2107 made from the finest durum wheat for perfect texture."
+  },
+  {
+    "id": "0un2108",
+    "name": "0UN2108",
+    "image": "media/DRY PRODUCTS/DE CECCO  foto  prodotti/0UN2108 - 61108M-04.jpg",
+    "category": "pasta-rice-flour",
+    "description": "Authentic 0un2108 ideal for creating delicious Italian dishes."
+  },
+  {
+    "id": "0uw4303",
+    "name": "0UW4303",
+    "image": "media/DRY PRODUCTS/DE CECCO  foto  prodotti/0UW4303 - 61303N-05.jpg",
+    "category": "pasta-rice-flour",
+    "description": "Authentic 0uw4303 ideal for creating delicious Italian dishes."
+  },
+  {
+    "id": "0uw4305",
+    "name": "0UW4305",
+    "image": "media/DRY PRODUCTS/DE CECCO  foto  prodotti/0UW4305 - 61305N-04.jpg",
+    "category": "pasta-rice-flour",
+    "description": "High-quality 0uw4305 made from the finest durum wheat for perfect texture."
+  },
+  {
+    "id": "0xa2114",
+    "name": "0XA2114",
+    "image": "media/DRY PRODUCTS/DE CECCO  foto  prodotti/0XA2114 - 27114-21.jpg",
+    "category": "pasta-rice-flour",
+    "description": "High-quality 0xa2114 made from the finest durum wheat for perfect texture."
+  },
+  {
+    "id": "1kg-doppio-zero",
+    "name": "1KG DOPPIO ZERO",
+    "image": "media/DRY PRODUCTS/CAPUTO PICTURES/1KG DOPPIO ZERO.png",
+    "category": "pasta-rice-flour",
+    "description": "High-quality 1kg doppio zero made from the finest durum wheat for perfect texture."
+  },
+  {
+    "id": "1kg-pizzeria",
+    "name": "1KG PIZZERIA",
+    "image": "media/DRY PRODUCTS/CAPUTO PICTURES/1KG PIZZERIA.png",
+    "category": "pasta-rice-flour",
+    "description": "Authentic 1kg pizzeria ideal for creating delicious Italian dishes."
+  },
+  {
+    "id": "25kg-nuvola-super",
+    "name": "25KG NUVOLA SUPER",
+    "image": "media/DRY PRODUCTS/CAPUTO PICTURES/25KG NUVOLA SUPER.png",
+    "category": "pasta-rice-flour",
+    "description": "Premium 25kg nuvola super crafted using traditional Italian methods."
+  },
+  {
+    "id": "25kg-pizzeria",
+    "name": "25KG PIZZERIA",
+    "image": "media/DRY PRODUCTS/CAPUTO PICTURES/25KG PIZZERIA.png",
+    "category": "pasta-rice-flour",
+    "description": "Premium 25kg pizzeria crafted using traditional Italian methods."
+  },
+  {
+    "id": "25kg-saccorosso",
+    "name": "25KG SACCOROSSO",
+    "image": "media/DRY PRODUCTS/CAPUTO PICTURES/25KG SACCOROSSO.png",
+    "category": "pasta-rice-flour",
+    "description": "Premium 25kg saccorosso crafted using traditional Italian methods."
+  },
+  {
+    "id": "5kg-aria",
+    "name": "5KG ARIA",
+    "image": "media/DRY PRODUCTS/CAPUTO PICTURES/5KG ARIA.png",
+    "category": "pasta-rice-flour",
+    "description": "Authentic 5kg aria ideal for creating delicious Italian dishes."
+  },
+  {
+    "id": "5kg-integrale",
+    "name": "5KG INTEGRALE",
+    "image": "media/DRY PRODUCTS/CAPUTO PICTURES/5KG INTEGRALE.png",
+    "category": "pasta-rice-flour",
+    "description": "Premium 5kg integrale crafted using traditional Italian methods."
+  },
+  {
+    "id": "5kg-manitoba-oro",
+    "name": "5KG MANITOBA ORO",
+    "image": "media/DRY PRODUCTS/CAPUTO PICTURES/5KG MANITOBA ORO.png",
+    "category": "pasta-rice-flour",
+    "description": "Premium 5kg manitoba oro crafted using traditional Italian methods."
+  },
+  {
+    "id": "5kg-nuvola",
+    "name": "5KG NUVOLA",
+    "image": "media/DRY PRODUCTS/CAPUTO PICTURES/5KG NUVOLA.png",
+    "category": "pasta-rice-flour",
+    "description": "High-quality 5kg nuvola made from the finest durum wheat for perfect texture."
+  },
+  {
+    "id": "5kg-pizzeria",
+    "name": "5KG PIZZERIA",
+    "image": "media/DRY PRODUCTS/CAPUTO PICTURES/5KG PIZZERIA.png",
+    "category": "pasta-rice-flour",
+    "description": "Premium 5kg pizzeria crafted using traditional Italian methods."
+  },
+  {
+    "id": "5kg-saccorosso",
+    "name": "5KG SACCOROSSO",
+    "image": "media/DRY PRODUCTS/CAPUTO PICTURES/5KG SACCOROSSO.png",
+    "category": "pasta-rice-flour",
+    "description": "High-quality 5kg saccorosso made from the finest durum wheat for perfect texture."
+  },
+  {
+    "id": "5kg-tipo-1",
+    "name": "5KG TIPO 1",
+    "image": "media/DRY PRODUCTS/CAPUTO PICTURES/5KG TIPO 1.png",
+    "category": "pasta-rice-flour",
+    "description": "Premium 5kg tipo 1 crafted using traditional Italian methods."
+  },
+  {
+    "id": "5sg1911-1",
+    "name": "5SG1911 1",
+    "image": "media/DRY PRODUCTS/DE CECCO  foto  prodotti/5SG1911_1.jpg",
+    "category": "pasta-rice-flour",
+    "description": "Premium 5sg1911 1 crafted using traditional Italian methods."
+  },
+  {
+    "id": "5sg3913-1",
+    "name": "5SG3913 1",
+    "image": "media/DRY PRODUCTS/DE CECCO  foto  prodotti/5SG3913_1.jpg",
+    "category": "pasta-rice-flour",
+    "description": "Authentic 5sg3913 1 ideal for creating delicious Italian dishes."
+  },
+  {
+    "id": "5sg4914-1",
+    "name": "5SG4914 1",
+    "image": "media/DRY PRODUCTS/DE CECCO  foto  prodotti/5SG4914_1.jpg",
+    "category": "pasta-rice-flour",
+    "description": "High-quality 5sg4914 1 made from the finest durum wheat for perfect texture."
+  },
+  {
+    "id": "5sg6916-1",
+    "name": "5SG6916 1",
+    "image": "media/DRY PRODUCTS/DE CECCO  foto  prodotti/5SG6916_1.jpg",
+    "category": "pasta-rice-flour",
+    "description": "Authentic 5sg6916 1 ideal for creating delicious Italian dishes."
+  },
+  {
+    "id": "acm2900-1",
+    "name": "ACM2900 1",
+    "image": "media/DRY PRODUCTS/DE CECCO  foto  prodotti/ACM2900_1.jpg",
+    "category": "pasta-rice-flour",
+    "description": "Premium acm2900 1 crafted using traditional Italian methods."
+  },
+  {
+    "id": "cous001-couscous",
+    "name": "COUS001 COUSCOUS",
+    "image": "media/DRY PRODUCTS/DE CECCO  foto  prodotti/COUS001-COUSCOUS-04.jpg",
+    "category": "pasta-rice-flour",
+    "description": "Premium cous001 couscous crafted using traditional Italian methods."
+  },
+  {
+    "id": "fioreglut-pizza-e-pane",
+    "name": "FIOREGLUT PIZZA E PANE",
+    "image": "media/DRY PRODUCTS/CAPUTO PICTURES/FIOREGLUT PIZZA E PANE.png",
+    "category": "pasta-rice-flour",
+    "description": "High-quality fioreglut pizza e pane made from the finest durum wheat for perfect texture."
+  },
+  {
+    "id": "gn20gn1-gnocchi-500g",
+    "name": "GN20GN1 GNOCCHI 500G",
+    "image": "media/DRY PRODUCTS/DE CECCO  foto  prodotti/GN20GN1 - GNOCCHI 500G.jpg",
+    "category": "pasta-rice-flour",
+    "description": "Authentic gn20gn1 gnocchi 500g ideal for creating delicious Italian dishes."
+  },
+  {
+    "id": "gn20gn1-gnocchi-500g-expo",
+    "name": "GN20GN1 GNOCCHI 500G EXPO",
+    "image": "media/DRY PRODUCTS/DE CECCO  foto  prodotti/GN20GN1 - GNOCCHI 500G - EXPO.jpg",
+    "category": "pasta-rice-flour",
+    "description": "Authentic gn20gn1 gnocchi 500g expo ideal for creating delicious Italian dishes."
+  },
+  {
+    "id": "gn20gn2-chicche-500g",
+    "name": "GN20GN2 CHICCHE 500G",
+    "image": "media/DRY PRODUCTS/DE CECCO  foto  prodotti/GN20GN2 - CHICCHE 500G.jpg",
+    "category": "pasta-rice-flour",
+    "description": "High-quality gn20gn2 chicche 500g made from the finest durum wheat for perfect texture."
+  },
+  {
+    "id": "gn20gn2-chicche-500g-expo",
+    "name": "GN20GN2 CHICCHE 500G EXPO",
+    "image": "media/DRY PRODUCTS/DE CECCO  foto  prodotti/GN20GN2 - CHICCHE 500G - EXPO.jpg",
+    "category": "pasta-rice-flour",
+    "description": "Premium gn20gn2 chicche 500g expo crafted using traditional Italian methods."
+  },
+  {
+    "id": "gn24gn1-gnocchi-di-patate-2kg",
+    "name": "GN24GN1 GNOCCHI DI PATATE 2Kg",
+    "image": "media/DRY PRODUCTS/DE CECCO  foto  prodotti/GN24GN1 - GNOCCHI DI PATATE 2Kg.jpg",
+    "category": "pasta-rice-flour",
+    "description": "High-quality gn24gn1 gnocchi di patate 2kg made from the finest durum wheat for perfect texture."
+  },
+  {
+    "id": "gn60sg1-gnocchi-di-patate-fresche-senza-glutine-500g",
+    "name": "GN60SG1 GNOCCHI DI PATATE FRESCHE SENZA GLUTINE 500G",
+    "image": "media/DRY PRODUCTS/DE CECCO  foto  prodotti/GN60SG1 - GNOCCHI DI PATATE FRESCHE SENZA GLUTINE 500G.jpg",
+    "category": "pasta-rice-flour",
+    "description": "Premium gn60sg1 gnocchi di patate fresche senza glutine 500g crafted using traditional Italian methods."
+  },
+  {
+    "id": "gn60sg1-gnocchi-di-patate-fresche-senza-glutine-500g-expo",
+    "name": "GN60SG1 GNOCCHI DI PATATE FRESCHE SENZA GLUTINE 500G EXPO",
+    "image": "media/DRY PRODUCTS/DE CECCO  foto  prodotti/GN60SG1 - GNOCCHI DI PATATE FRESCHE SENZA GLUTINE 500G - EXPO.jpg",
+    "category": "pasta-rice-flour",
+    "description": "Premium gn60sg1 gnocchi di patate fresche senza glutine 500g expo crafted using traditional Italian methods."
+  },
+  {
+    "id": "ilboschetto-bos-sp0008-pasta-spaghetti-40gr",
+    "name": "IlBoschetto BOS SP0008 Pasta&Spaghetti 40gr",
+    "image": "media/DRY PRODUCTS/BOSCHETTO PICS/IlBoschetto_BOS-SP0008 Pasta&Spaghetti 40gr.png",
+    "category": "pasta-rice-flour",
+    "description": "High-quality ilboschetto bos sp0008 pasta&spaghetti 40gr made from the finest durum wheat for perfect texture."
+  },
+  {
+    "id": "lievito-100g",
+    "name": "LIEVITO 100G",
+    "image": "media/DRY PRODUCTS/CAPUTO PICTURES/LIEVITO 100G.png",
+    "category": "pasta-rice-flour",
+    "description": "Authentic lievito 100g ideal for creating delicious Italian dishes."
+  },
+  {
+    "id": "lievito-500g",
+    "name": "LIEVITO 500G",
+    "image": "media/DRY PRODUCTS/CAPUTO PICTURES/LIEVITO 500G.png",
+    "category": "pasta-rice-flour",
+    "description": "Authentic lievito 500g ideal for creating delicious Italian dishes."
+  },
+  {
+    "id": "pa10985-1",
+    "name": "PA10985 1",
+    "image": "media/DRY PRODUCTS/DE CECCO  foto  prodotti/PA10985_1.jpg",
+    "category": "pasta-rice-flour",
+    "description": "Premium pa10985 1 crafted using traditional Italian methods."
+  },
+  {
+    "id": "po22950-polenta",
+    "name": "PO22950 POLENTA",
+    "image": "media/DRY PRODUCTS/DE CECCO  foto  prodotti/PO22950-POLENTA-07.jpg",
+    "category": "pasta-rice-flour",
+    "description": "Authentic po22950 polenta ideal for creating delicious Italian dishes."
+  },
+  {
+    "id": "qsx0002",
+    "name": "QSX0002",
+    "image": "media/DRY PRODUCTS/DE CECCO  foto  prodotti/QSX0002 - 60002Q-06.jpg",
+    "category": "pasta-rice-flour",
+    "description": "High-quality qsx0002 made from the finest durum wheat for perfect texture."
+  },
+  {
+    "id": "qsx0009",
+    "name": "QSX0009",
+    "image": "media/DRY PRODUCTS/DE CECCO  foto  prodotti/QSX0009 - 60009Q-05.jpg",
+    "category": "pasta-rice-flour",
+    "description": "High-quality qsx0009 made from the finest durum wheat for perfect texture."
+  },
+  {
+    "id": "qsx0051",
+    "name": "QSX0051",
+    "image": "media/DRY PRODUCTS/DE CECCO  foto  prodotti/QSX0051 - 60051Q-04.jpg",
+    "category": "pasta-rice-flour",
+    "description": "Premium qsx0051 crafted using traditional Italian methods."
+  },
+  {
+    "id": "qsx0074",
+    "name": "QSX0074",
+    "image": "media/DRY PRODUCTS/DE CECCO  foto  prodotti/QSX0074 - 60074Q-06.jpg",
+    "category": "pasta-rice-flour",
+    "description": "High-quality qsx0074 made from the finest durum wheat for perfect texture."
+  },
+  {
+    "id": "qsx0168",
+    "name": "QSX0168",
+    "image": "media/DRY PRODUCTS/DE CECCO  foto  prodotti/QSX0168 - 60168Q-04.jpg",
+    "category": "pasta-rice-flour",
+    "description": "Authentic qsx0168 ideal for creating delicious Italian dishes."
+  },
+  {
+    "id": "qsx0181",
+    "name": "QSX0181",
+    "image": "media/DRY PRODUCTS/DE CECCO  foto  prodotti/QSX0181 - 60181Q-04.jpg",
+    "category": "pasta-rice-flour",
+    "description": "Authentic qsx0181 ideal for creating delicious Italian dishes."
+  },
+  {
+    "id": "qsx0188",
+    "name": "QSX0188",
+    "image": "media/DRY PRODUCTS/DE CECCO  foto  prodotti/QSX0188 - 60188Q-02.jpg",
+    "category": "pasta-rice-flour",
+    "description": "Premium qsx0188 crafted using traditional Italian methods."
+  },
+  {
+    "id": "qsx4024",
+    "name": "QSX4024",
+    "image": "media/DRY PRODUCTS/DE CECCO  foto  prodotti/QSX4024 - 65024Q-06.jpg",
+    "category": "pasta-rice-flour",
+    "description": "High-quality qsx4024 made from the finest durum wheat for perfect texture."
+  },
+  {
+    "id": "qsxe007",
+    "name": "QSXE007",
+    "image": "media/DRY PRODUCTS/DE CECCO  foto  prodotti/QSXE007 - 60007QE-05.jpg",
+    "category": "pasta-rice-flour",
+    "description": "High-quality qsxe007 made from the finest durum wheat for perfect texture."
+  },
+  {
+    "id": "qsxe011",
+    "name": "QSXE011",
+    "image": "media/DRY PRODUCTS/DE CECCO  foto  prodotti/QSXE011 - 60011QE-05.jpg",
+    "category": "pasta-rice-flour",
+    "description": "Authentic qsxe011 ideal for creating delicious Italian dishes."
+  },
+  {
+    "id": "qsxe012",
+    "name": "QSXE012",
+    "image": "media/DRY PRODUCTS/DE CECCO  foto  prodotti/QSXE012 - 60012QE-05.jpg",
+    "category": "pasta-rice-flour",
+    "description": "High-quality qsxe012 made from the finest durum wheat for perfect texture."
+  },
+  {
+    "id": "qsxe015",
+    "name": "QSXE015",
+    "image": "media/DRY PRODUCTS/DE CECCO  foto  prodotti/QSXE015 - 60015QE-04.jpg",
+    "category": "pasta-rice-flour",
+    "description": "Authentic qsxe015 ideal for creating delicious Italian dishes."
+  },
+  {
+    "id": "qsxe024",
+    "name": "QSXE024",
+    "image": "media/DRY PRODUCTS/DE CECCO  foto  prodotti/QSXE024 - 60024QE-05.jpg",
+    "category": "pasta-rice-flour",
+    "description": "High-quality qsxe024 made from the finest durum wheat for perfect texture."
+  },
+  {
+    "id": "qsxe034",
+    "name": "QSXE034",
+    "image": "media/DRY PRODUCTS/DE CECCO  foto  prodotti/QSXE034 - 60034QE-05.jpg",
+    "category": "pasta-rice-flour",
+    "description": "High-quality qsxe034 made from the finest durum wheat for perfect texture."
+  },
+  {
+    "id": "qsxe041",
+    "name": "QSXE041",
+    "image": "media/DRY PRODUCTS/DE CECCO  foto  prodotti/QSXE041 - 60041QE-04.jpg",
+    "category": "pasta-rice-flour",
+    "description": "High-quality qsxe041 made from the finest durum wheat for perfect texture."
+  },
+  {
+    "id": "qsxe050",
+    "name": "QSXE050",
+    "image": "media/DRY PRODUCTS/DE CECCO  foto  prodotti/QSXE050 - 60050QE-05.jpg",
+    "category": "pasta-rice-flour",
+    "description": "High-quality qsxe050 made from the finest durum wheat for perfect texture."
+  },
+  {
+    "id": "qsxe088",
+    "name": "QSXE088",
+    "image": "media/DRY PRODUCTS/DE CECCO  foto  prodotti/QSXE088 - 60088QE-05.jpg",
+    "category": "pasta-rice-flour",
+    "description": "Authentic qsxe088 ideal for creating delicious Italian dishes."
+  },
+  {
+    "id": "qsxe091",
+    "name": "QSXE091",
+    "image": "media/DRY PRODUCTS/DE CECCO  foto  prodotti/QSXE091 - 60091QE-05.jpg",
+    "category": "pasta-rice-flour",
+    "description": "High-quality qsxe091 made from the finest durum wheat for perfect texture."
+  },
+  {
+    "id": "qsxe093",
+    "name": "QSXE093",
+    "image": "media/DRY PRODUCTS/DE CECCO  foto  prodotti/QSXE093 - 60093QE-05.jpg",
+    "category": "pasta-rice-flour",
+    "description": "High-quality qsxe093 made from the finest durum wheat for perfect texture."
+  },
+  {
+    "id": "qsxf007",
+    "name": "QSXF007",
+    "image": "media/DRY PRODUCTS/DE CECCO  foto  prodotti/QSXF007 - 65007QE-05.jpg",
+    "category": "pasta-rice-flour",
+    "description": "Premium qsxf007 crafted using traditional Italian methods."
+  },
+  {
+    "id": "qsxf012",
+    "name": "QSXF012",
+    "image": "media/DRY PRODUCTS/DE CECCO  foto  prodotti/QSXF012 - 65012QE-05.jpg",
+    "category": "pasta-rice-flour",
+    "description": "Authentic qsxf012 ideal for creating delicious Italian dishes."
+  },
+  {
+    "id": "qsxf034",
+    "name": "QSXF034",
+    "image": "media/DRY PRODUCTS/DE CECCO  foto  prodotti/QSXF034 - 65034QE-05.jpg",
+    "category": "pasta-rice-flour",
+    "description": "High-quality qsxf034 made from the finest durum wheat for perfect texture."
+  },
+  {
+    "id": "qsxf041",
+    "name": "QSXF041",
+    "image": "media/DRY PRODUCTS/DE CECCO  foto  prodotti/QSXF041 - 65041QE-05.jpg",
+    "category": "pasta-rice-flour",
+    "description": "Premium qsxf041 crafted using traditional Italian methods."
+  },
+  {
+    "id": "se16921-1",
+    "name": "SE16921 1",
+    "image": "media/DRY PRODUCTS/DE CECCO  foto  prodotti/SE16921_1.jpg",
+    "category": "pasta-rice-flour",
+    "description": "Premium se16921 1 crafted using traditional Italian methods."
+  },
+  {
+    "id": "sr26919-1",
+    "name": "SR26919 1",
+    "image": "media/DRY PRODUCTS/DE CECCO  foto  prodotti/SR26919_1.jpg",
+    "category": "pasta-rice-flour",
+    "description": "Authentic sr26919 1 ideal for creating delicious Italian dishes."
+  },
+  {
+    "id": "053869-sugo-roma-cirio",
+    "name": "053869 Sugo Roma Cirio",
+    "image": "media/DRY PRODUCTS/CIRIO PICS 2025/053869 sugo roma cirio.jpg",
     "category": "sauces-condiments",
-    "published": true
+    "description": "Premium 053869 sugo roma cirio made with carefully selected ingredients."
   },
   {
-    "title": "Prosciutto di Parma DOP",
-    "description": "Italian dry-cured ham aged for 18 months. Delicate, sweet flavor with a silky texture that melts on the tongue.",
-    "image": "https://images.unsplash.com/photo-1544025162-d76694265947?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-    "category": "cheese-cold-cuts",
-    "published": true
+    "id": "053870-sugo-napoli-cirio-tr-12x340g",
+    "name": "053870 Sugo Napoli Cirio Tr 12x340g",
+    "image": "media/DRY PRODUCTS/CIRIO PICS 2025/053870 sugo napoli cirio tr 12x340g.jpg",
+    "category": "sauces-condiments",
+    "description": "Premium 053870 sugo napoli cirio tr 12x340g made with carefully selected ingredients."
   },
   {
-    "title": "Roquefort AOP Blue Cheese",
-    "description": "Traditional French blue cheese made from sheep's milk. Creamy texture with a sharp, tangy flavor and distinctive blue veining.",
-    "image": "https://images.unsplash.com/photo-1559561853-08451507cbe7?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-    "category": "cheese-cold-cuts",
-    "published": true
+    "id": "053871-sugo-bologna-cirio-12x340-trk",
+    "name": "053871 Sugo Bologna Cirio 12x340 Trk",
+    "image": "media/DRY PRODUCTS/CIRIO PICS 2025/053871 sugo bologna cirio 12x340 trk.jpg",
+    "category": "sauces-condiments",
+    "description": "Traditional 053871 sugo bologna cirio 12x340 trk bringing genuine Italian flavors to your table."
   },
   {
-    "title": "Spanish Jamón Ibérico Bellota",
-    "description": "Premium acorn-fed Iberian ham from Spain. Complex nutty flavor with marbled fat that creates an exceptional taste experience.",
-    "image": "https://images.unsplash.com/photo-1572464740-63958bce1ad9?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-    "category": "cheese-cold-cuts",
-    "published": true
+    "id": "053872-sugo-parma-cirio-12x340g",
+    "name": "053872 Sugo Parma Cirio 12x340g",
+    "image": "media/DRY PRODUCTS/CIRIO PICS 2025/053872 sugo parma cirio 12x340g.jpg",
+    "category": "sauces-condiments",
+    "description": "Authentic 053872 sugo parma cirio 12x340g perfect for enhancing your culinary creations."
   },
   {
-    "title": "Tagliatelle all'Uovo",
-    "description": "Fresh egg pasta ribbons from Emilia-Romagna. Made with semolina flour and farm-fresh eggs for authentic Italian taste.",
-    "image": "https://images.unsplash.com/photo-1551183053-bf91a1d81141?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-    "category": "pasta-rice-flour",
-    "published": true
+    "id": "053873-sugo-genova-cirio-12x340g-trk",
+    "name": "053873 Sugo Genova Cirio 12x340g Trk",
+    "image": "media/DRY PRODUCTS/CIRIO PICS 2025/053873 sugo genova cirio 12x340g trk.jpg",
+    "category": "sauces-condiments",
+    "description": "Traditional 053873 sugo genova cirio 12x340g trk bringing genuine Italian flavors to your table."
   },
   {
-    "title": "Tipo 00 Flour Caputo",
-    "description": "Finely milled Italian flour perfect for pizza and bread making. Soft texture with excellent gluten development.",
-    "image": "https://images.unsplash.com/photo-1574323347407-f5e1ad6d020b?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-    "category": "pasta-rice-flour",
-    "published": true
+    "id": "053874-sugo-calabria-cirio-12x340gr",
+    "name": "053874 Sugo Calabria Cirio 12x340gr",
+    "image": "media/DRY PRODUCTS/CIRIO PICS 2025/053874 sugo calabria cirio 12x340gr.jpg",
+    "category": "sauces-condiments",
+    "description": "Premium 053874 sugo calabria cirio 12x340gr made with carefully selected ingredients."
+  },
+  {
+    "id": "1000-gr-25-almond-cantuccini",
+    "name": "1000 Gr 25� Almond Cantuccini",
+    "image": "media/DRY PRODUCTS/BELLI PICS/1000 gr 25� Almond cantuccini.jpg",
+    "category": "sauces-condiments",
+    "description": "Premium 1000 gr 25� almond cantuccini made with carefully selected ingredients."
+  },
+  {
+    "id": "150-g-cioccobelli-bag-hd-300-dpi",
+    "name": "150 G CioccoBelli Bag HD 300 DPI",
+    "image": "media/DRY PRODUCTS/BELLI PICS/150 g CioccoBelli bag HD 300 DPI.jpg",
+    "category": "sauces-condiments",
+    "description": "Authentic 150 g cioccobelli bag hd 300 dpi perfect for enhancing your culinary creations."
+  },
+  {
+    "id": "159016-a-parodi-tonno-trancio-oo-230g-png",
+    "name": "159016 A. Parodi Tonno Trancio OO 230g PNG",
+    "image": "media/DRY PRODUCTS/ANGELO PARODI/159016 A. Parodi Tonno Trancio OO 230g_PNG.png",
+    "category": "sauces-condiments",
+    "description": "Authentic 159016 a. parodi tonno trancio oo 230g png perfect for enhancing your culinary creations."
+  },
+  {
+    "id": "159025-a-parodi-fil-tonno-naturale-195g-png",
+    "name": "159025 A. Parodi Fil. Tonno Naturale 195g PNG",
+    "image": "media/DRY PRODUCTS/ANGELO PARODI/159025 A. Parodi Fil. Tonno Naturale 195g_PNG.png",
+    "category": "sauces-condiments",
+    "description": "Premium 159025 a. parodi fil. tonno naturale 195g png made with carefully selected ingredients."
+  },
+  {
+    "id": "159030-a-parodi-fil-tonno-oo-vv-425g-jpg",
+    "name": "159030 A. Parodi Fil. Tonno OO VV 425g JPG",
+    "image": "media/DRY PRODUCTS/ANGELO PARODI/159030 A. Parodi Fil. Tonno OO VV 425g_JPG.jpg",
+    "category": "sauces-condiments",
+    "description": "Authentic 159030 a. parodi fil. tonno oo vv 425g jpg perfect for enhancing your culinary creations."
+  },
+  {
+    "id": "225005-a-parodi-fil-sgombro-oo-125g-png",
+    "name": "225005 A. Parodi Fil. Sgombro OO 125g PNG",
+    "image": "media/DRY PRODUCTS/ANGELO PARODI/225005 A. Parodi Fil. Sgombro OO 125g_PNG.png",
+    "category": "sauces-condiments",
+    "description": "Traditional 225005 a. parodi fil. sgombro oo 125g png bringing genuine Italian flavors to your table."
+  },
+  {
+    "id": "225085-a-parodi-fil-sgombro-naturale-vv-150g-png",
+    "name": "225085 A. Parodi Fil. Sgombro Naturale VV 150g PNG",
+    "image": "media/DRY PRODUCTS/ANGELO PARODI/225085 A. Parodi Fil. Sgombro Naturale VV 150g_PNG.png",
+    "category": "sauces-condiments",
+    "description": "Authentic 225085 a. parodi fil. sgombro naturale vv 150g png perfect for enhancing your culinary creations."
+  },
+  {
+    "id": "250-gr-20-almond-cantuccini-igp-box-hd-300-dpi",
+    "name": "250 Gr 20� Almond Cantuccini IGP Box HD 300 DPI",
+    "image": "media/DRY PRODUCTS/BELLI PICS/250 gr 20� Almond cantuccini  IGP box-HD 300 DPI.jpg",
+    "category": "sauces-condiments",
+    "description": "Traditional 250 gr 20� almond cantuccini igp box hd 300 dpi bringing genuine Italian flavors to your table."
+  },
+  {
+    "id": "250-gr-20-almond-igp-cantuccini-gift-box-bordeaux-1",
+    "name": "250 GR 20� ALMOND IGP CANTUCCINI GIFT BOX BORDEAUX 1",
+    "image": "media/DRY PRODUCTS/BELLI PICS/250 GR 20� ALMOND IGP CANTUCCINI -  GIFT BOX BORDEAUX 1.jpg",
+    "category": "sauces-condiments",
+    "description": "Premium 250 gr 20� almond igp cantuccini gift box bordeaux 1 made with carefully selected ingredients."
+  },
+  {
+    "id": "250-gr-25-almond-cantuccini-pgi-tubo",
+    "name": "250 Gr 25� Almond Cantuccini PGI Tubo",
+    "image": "media/DRY PRODUCTS/BELLI PICS/250 gr 25� Almond Cantuccini PGI tubo - 300 DPI.jpg",
+    "category": "sauces-condiments",
+    "description": "Authentic 250 gr 25� almond cantuccini pgi tubo perfect for enhancing your culinary creations."
+  },
+  {
+    "id": "251006-a-parodi-sardine-portoghesi-oo-120g-png",
+    "name": "251006 A. Parodi Sardine Portoghesi OO 120g PNG",
+    "image": "media/DRY PRODUCTS/ANGELO PARODI/251006 A. Parodi Sardine Portoghesi OO 120g_PNG.png",
+    "category": "sauces-condiments",
+    "description": "Premium 251006 a. parodi sardine portoghesi oo 120g png made with carefully selected ingredients."
+  },
+  {
+    "id": "251026-a-parodi-sardine-piccanti-oo-120g-png",
+    "name": "251026 A. Parodi Sardine Piccanti OO 120g PNG",
+    "image": "media/DRY PRODUCTS/ANGELO PARODI/251026 A. Parodi Sardine Piccanti OO 120g_PNG.png",
+    "category": "sauces-condiments",
+    "description": "Traditional 251026 a. parodi sardine piccanti oo 120g png bringing genuine Italian flavors to your table."
+  },
+  {
+    "id": "251028-a-parodi-fil-sardine-senza-pelle-e-spine-oo-105g-png",
+    "name": "251028 A. Parodi Fil. Sardine Senza Pelle E Spine OO 105g PNG",
+    "image": "media/DRY PRODUCTS/ANGELO PARODI/251028 A. Parodi Fil. Sardine Senza Pelle e Spine OO 105g_PNG.png",
+    "category": "sauces-condiments",
+    "description": "Premium 251028 a. parodi fil. sardine senza pelle e spine oo 105g png made with carefully selected ingredients."
+  },
+  {
+    "id": "35865-cirio-passata-3kg",
+    "name": "35865 Cirio Passata 3kg",
+    "image": "media/DRY PRODUCTS/CIRIO PICS 2025/35865 Cirio_Passata_3kg.jpg",
+    "category": "sauces-condiments",
+    "description": "Traditional 35865 cirio passata 3kg bringing genuine Italian flavors to your table."
+  },
+  {
+    "id": "38338-bag-box2x5kg-cuor-di-pelato-front",
+    "name": "38338 Bag Box2x5kg Cuor Di Pelato FRONT",
+    "image": "media/DRY PRODUCTS/CIRIO PICS 2025/38338 Bag_Box2x5kg_Cuor_Di_Pelato_FRONT.jpg",
+    "category": "sauces-condiments",
+    "description": "Premium 38338 bag box2x5kg cuor di pelato front made with carefully selected ingredients."
+  },
+  {
+    "id": "38665-bag-box-cirio-pizzasauce-2x5kg-front",
+    "name": "38665 Bag Box Cirio Pizzasauce 2x5kg FRONT",
+    "image": "media/DRY PRODUCTS/CIRIO PICS 2025/38665 Bag_Box_Cirio_Pizzasauce_2x5kg_FRONT.jpg",
+    "category": "sauces-condiments",
+    "description": "Traditional 38665 bag box cirio pizzasauce 2x5kg front bringing genuine Italian flavors to your table."
+  },
+  {
+    "id": "3d-pet-500-cannamela-erbe-aromatiche-provenza-jpg",
+    "name": "3D PET 500 CANNAMELA ERBE AROMATICHE PROVENZA Jpg",
+    "image": "media/DRY PRODUCTS/CANNAMELA PICS/3D PET 500 CANNAMELA ERBE AROMATICHE PROVENZA_jpg.jpg",
+    "category": "sauces-condiments",
+    "description": "Traditional 3d pet 500 cannamela erbe aromatiche provenza jpg bringing genuine Italian flavors to your table."
+  },
+  {
+    "id": "3d-pet-500-cannamela-origano-foglie-jpg",
+    "name": "3D PET 500 CANNAMELA ORIGANO FOGLIE Jpg",
+    "image": "media/DRY PRODUCTS/CANNAMELA PICS/3D PET 500 CANNAMELA ORIGANO FOGLIE_jpg.jpg",
+    "category": "sauces-condiments",
+    "description": "Premium 3d pet 500 cannamela origano foglie jpg made with carefully selected ingredients."
+  },
+  {
+    "id": "3d-pet-500-cannamela-pepe-nero-grani-jpg",
+    "name": "3D PET 500 CANNAMELA PEPE NERO GRANI Jpg",
+    "image": "media/DRY PRODUCTS/CANNAMELA PICS/3D PET 500 CANNAMELA PEPE NERO GRANI_jpg.jpg",
+    "category": "sauces-condiments",
+    "description": "Premium 3d pet 500 cannamela pepe nero grani jpg made with carefully selected ingredients."
+  },
+  {
+    "id": "3d-pet-500-cannamela-sale-dell-himalaya-jpg",
+    "name": "3D PET 500 CANNAMELA SALE DELL' HIMALAYA Jpg",
+    "image": "media/DRY PRODUCTS/CANNAMELA PICS/3D PET 500 CANNAMELA SALE DELL' HIMALAYA_jpg.jpg",
+    "category": "sauces-condiments",
+    "description": "Traditional 3d pet 500 cannamela sale dell' himalaya jpg bringing genuine Italian flavors to your table."
+  },
+  {
+    "id": "3d-pet-750-cannamela-basilico-foglie",
+    "name": "3D PET 750 CANNAMELA BASILICO FOGLIE",
+    "image": "media/DRY PRODUCTS/CANNAMELA PICS/3D PET 750 CANNAMELA BASILICO FOGLIE.jpg",
+    "category": "sauces-condiments",
+    "description": "Traditional 3d pet 750 cannamela basilico foglie bringing genuine Italian flavors to your table."
+  },
+  {
+    "id": "3d-pet-750-cannamela-peperoncino-frantumato",
+    "name": "3D PET 750 CANNAMELA PEPERONCINO FRANTUMATO",
+    "image": "media/DRY PRODUCTS/CANNAMELA PICS/3D PET 750 CANNAMELA PEPERONCINO FRANTUMATO.jpg",
+    "category": "sauces-condiments",
+    "description": "Premium 3d pet 750 cannamela peperoncino frantumato made with carefully selected ingredients."
+  },
+  {
+    "id": "3d-vasetti-twist-off-cann-pepe-verde-750",
+    "name": "3d Vasetti Twist Off Cann.Pepe Verde 750",
+    "image": "media/DRY PRODUCTS/CANNAMELA PICS/3d Vasetti twist off cann.pepe verde 750.jpg",
+    "category": "sauces-condiments",
+    "description": "Authentic 3d vasetti twist off cann.pepe verde 750 perfect for enhancing your culinary creations."
+  },
+  {
+    "id": "41348-bag-box-cirio-cuor-di-pomodoro-2x5kg-multilingue-front",
+    "name": "41348 Bag Box Cirio Cuor Di Pomodoro 2x5kg Multilingue FRONT",
+    "image": "media/DRY PRODUCTS/CIRIO PICS 2025/41348 Bag_Box_Cirio_Cuor_di_Pomodoro_2x5kg_Multilingue_FRONT.jpg",
+    "category": "sauces-condiments",
+    "description": "Premium 41348 bag box cirio cuor di pomodoro 2x5kg multilingue front made with carefully selected ingredients."
+  },
+  {
+    "id": "42558-cirio-pizza-sauce-3kg-multilingue-front",
+    "name": "42558 Cirio Pizza Sauce 3kg Multilingue FRONT",
+    "image": "media/DRY PRODUCTS/CIRIO PICS 2025/42558_Cirio_Pizza_Sauce_3kg_Multilingue_FRONT.jpg",
+    "category": "sauces-condiments",
+    "description": "Authentic 42558 cirio pizza sauce 3kg multilingue front perfect for enhancing your culinary creations."
+  },
+  {
+    "id": "44018-cirio-la-gustosa-3kg",
+    "name": "44018 Cirio La Gustosa 3kg",
+    "image": "media/DRY PRODUCTS/CIRIO PICS 2025/44018 Cirio_La_Gustosa_3kg_.jpg",
+    "category": "sauces-condiments",
+    "description": "Traditional 44018 cirio la gustosa 3kg bringing genuine Italian flavors to your table."
+  },
+  {
+    "id": "44971-front-1-",
+    "name": "44971 FRONT (1)",
+    "image": "media/DRY PRODUCTS/CIRIO PICS 2025/44971 FRONT (1).jpg",
+    "category": "sauces-condiments",
+    "description": "Traditional 44971 front (1) bringing genuine Italian flavors to your table."
+  },
+  {
+    "id": "45662-cirio-pelati-3kg-front-1-",
+    "name": "45662 Cirio Pelati 3kg FRONT (1)",
+    "image": "media/DRY PRODUCTS/CIRIO PICS 2025/45662 Cirio_Pelati_3kg_FRONT (1).jpg",
+    "category": "sauces-condiments",
+    "description": "Authentic 45662 cirio pelati 3kg front (1) perfect for enhancing your culinary creations."
+  },
+  {
+    "id": "53860-cirio-pomodorini-400g-front",
+    "name": "53860 Cirio Pomodorini 400g FRONT",
+    "image": "media/DRY PRODUCTS/CIRIO PICS 2025/53860 Cirio_Pomodorini_400g FRONT.jpg",
+    "category": "sauces-condiments",
+    "description": "Authentic 53860 cirio pomodorini 400g front perfect for enhancing your culinary creations."
+  },
+  {
+    "id": "53862-cirio-passata-verace-700g-front",
+    "name": "53862 Cirio Passata Verace 700g FRONT",
+    "image": "media/DRY PRODUCTS/CIRIO PICS 2025/53862 Cirio_Passata_Verace_700g_ FRONT.jpg",
+    "category": "sauces-condiments",
+    "description": "Premium 53862 cirio passata verace 700g front made with carefully selected ingredients."
+  },
+  {
+    "id": "53863-pizzassimo-390g-front",
+    "name": "53863 Pizzassimo 390g FRONT",
+    "image": "media/DRY PRODUCTS/CIRIO PICS 2025/53863 pizzassimo_390g FRONT.jpg",
+    "category": "sauces-condiments",
+    "description": "Premium 53863 pizzassimo 390g front made with carefully selected ingredients."
+  },
+  {
+    "id": "54073-cirio-pelati-400g-en-front",
+    "name": "54073 Cirio Pelati 400g EN FRONT",
+    "image": "media/DRY PRODUCTS/CIRIO PICS 2025/54073 Cirio_Pelati_400g_EN_FRONT.jpg",
+    "category": "sauces-condiments",
+    "description": "Authentic 54073 cirio pelati 400g en front perfect for enhancing your culinary creations."
+  },
+  {
+    "id": "54080-cirio-polpa-400g-natural-dubai-front",
+    "name": "54080 Cirio Polpa 400g Natural DUBAI FRONT",
+    "image": "media/DRY PRODUCTS/CIRIO PICS 2025/54080 Cirio_Polpa_400g_Natural_DUBAI_FRONT.jpg",
+    "category": "sauces-condiments",
+    "description": "Authentic 54080 cirio polpa 400g natural dubai front perfect for enhancing your culinary creations."
+  },
+  {
+    "id": "boschi1961-bos-ol0011-italico-100-italiano-750ml",
+    "name": "Boschi1961 BOS OL0011 Italico 100� Italiano 750ml",
+    "image": "media/DRY PRODUCTS/BOSCHETTO PICS/Boschi1961_BOS-OL0011 Italico 100� Italiano 750ml.png",
+    "category": "sauces-condiments",
+    "description": "Premium boschi1961 bos ol0011 italico 100� italiano 750ml made with carefully selected ingredients."
+  },
+  {
+    "id": "boschi1961-bos-ol0029-infusolio-basil-250ml",
+    "name": "Boschi1961 BOS OL0029 Infusolio Basil 250ml",
+    "image": "media/DRY PRODUCTS/BOSCHETTO PICS/Boschi1961_BOS-OL0029 Infusolio Basil 250ml.png",
+    "category": "sauces-condiments",
+    "description": "Premium boschi1961 bos ol0029 infusolio basil 250ml made with carefully selected ingredients."
+  },
+  {
+    "id": "boschi1961-bos-ol0030-infusolio-chili-pepper-250ml",
+    "name": "Boschi1961 BOS OL0030 Infusolio Chili Pepper 250ml",
+    "image": "media/DRY PRODUCTS/BOSCHETTO PICS/Boschi1961_BOS-OL0030 Infusolio Chili Pepper 250ml.png",
+    "category": "sauces-condiments",
+    "description": "Premium boschi1961 bos ol0030 infusolio chili pepper 250ml made with carefully selected ingredients."
+  },
+  {
+    "id": "boschi1961-bos-ol0031-infusolio-garlic-250ml",
+    "name": "Boschi1961 BOS OL0031 Infusolio Garlic 250ml",
+    "image": "media/DRY PRODUCTS/BOSCHETTO PICS/Boschi1961_BOS-OL0031 Infusolio Garlic 250ml.png",
+    "category": "sauces-condiments",
+    "description": "Premium boschi1961 bos ol0031 infusolio garlic 250ml made with carefully selected ingredients."
+  },
+  {
+    "id": "boschi1961-bos-ol0032-infusolio-italian-herbs-250ml",
+    "name": "Boschi1961 BOS OL0032 Infusolio Italian Herbs 250ml",
+    "image": "media/DRY PRODUCTS/BOSCHETTO PICS/Boschi1961_BOS-OL0032 Infusolio Italian Herbs 250ml.png",
+    "category": "sauces-condiments",
+    "description": "Authentic boschi1961 bos ol0032 infusolio italian herbs 250ml perfect for enhancing your culinary creations."
+  },
+  {
+    "id": "boschi1961-bos-ol0033-infusolio-lemon-250ml",
+    "name": "Boschi1961 BOS OL0033 Infusolio Lemon 250ml",
+    "image": "media/DRY PRODUCTS/BOSCHETTO PICS/Boschi1961_BOS-OL0033 Infusolio Lemon 250ml.png",
+    "category": "sauces-condiments",
+    "description": "Traditional boschi1961 bos ol0033 infusolio lemon 250ml bringing genuine Italian flavors to your table."
+  },
+  {
+    "id": "boschi1961-bos-ol0034-infusolio-truffle-250ml",
+    "name": "Boschi1961 BOS OL0034 Infusolio Truffle 250ml",
+    "image": "media/DRY PRODUCTS/BOSCHETTO PICS/Boschi1961_BOS-OL0034 Infusolio Truffle 250ml.png",
+    "category": "sauces-condiments",
+    "description": "Authentic boschi1961 bos ol0034 infusolio truffle 250ml perfect for enhancing your culinary creations."
+  },
+  {
+    "id": "boschi1961-bos-ol0035-infusolio-lemon-200ml",
+    "name": "Boschi1961 BOS OL0035 Infusolio Lemon 200ml",
+    "image": "media/DRY PRODUCTS/BOSCHETTO PICS/Boschi1961_BOS-OL0035 Infusolio Lemon 200ml.png",
+    "category": "sauces-condiments",
+    "description": "Authentic boschi1961 bos ol0035 infusolio lemon 200ml perfect for enhancing your culinary creations."
+  },
+  {
+    "id": "boschi1961-bos-ol0036-infusolio-chili-pepper-200ml",
+    "name": "Boschi1961 BOS OL0036 Infusolio Chili Pepper 200ml",
+    "image": "media/DRY PRODUCTS/BOSCHETTO PICS/Boschi1961_BOS-OL0036 Infusolio Chili Pepper 200ml.png",
+    "category": "sauces-condiments",
+    "description": "Traditional boschi1961 bos ol0036 infusolio chili pepper 200ml bringing genuine Italian flavors to your table."
+  },
+  {
+    "id": "boschi1961-bos-ol0037-infusolio-garlic-200ml",
+    "name": "Boschi1961 BOS OL0037 Infusolio Garlic 200ml",
+    "image": "media/DRY PRODUCTS/BOSCHETTO PICS/Boschi1961_BOS-OL0037 Infusolio Garlic 200ml.png",
+    "category": "sauces-condiments",
+    "description": "Traditional boschi1961 bos ol0037 infusolio garlic 200ml bringing genuine Italian flavors to your table."
+  },
+  {
+    "id": "boschi1961-bos-ol0038-infusolio-lemon-200ml",
+    "name": "Boschi1961 BOS OL0038 Infusolio Lemon 200ml",
+    "image": "media/DRY PRODUCTS/BOSCHETTO PICS/Boschi1961_BOS-OL0038 Infusolio Lemon 200ml.png",
+    "category": "sauces-condiments",
+    "description": "Authentic boschi1961 bos ol0038 infusolio lemon 200ml perfect for enhancing your culinary creations."
+  },
+  {
+    "id": "boschi1961-bos-ol0039-infusolio-rosemary-200ml",
+    "name": "Boschi1961 BOS OL0039 Infusolio Rosemary 200ml",
+    "image": "media/DRY PRODUCTS/BOSCHETTO PICS/Boschi1961_BOS-OL0039 Infusolio Rosemary 200ml.png",
+    "category": "sauces-condiments",
+    "description": "Traditional boschi1961 bos ol0039 infusolio rosemary 200ml bringing genuine Italian flavors to your table."
+  },
+  {
+    "id": "boschi1961-bos-ol0040-infusolio-truffle-200ml",
+    "name": "Boschi1961 BOS OL0040 Infusolio Truffle 200ml",
+    "image": "media/DRY PRODUCTS/BOSCHETTO PICS/Boschi1961_BOS-OL0040 Infusolio Truffle 200ml.png",
+    "category": "sauces-condiments",
+    "description": "Authentic boschi1961 bos ol0040 infusolio truffle 200ml perfect for enhancing your culinary creations."
+  },
+  {
+    "id": "callipo-filetti-di-sgombro-g-125-olio-oliva-astuccio-new",
+    "name": "Callipo Filetti Di Sgombro G.125 Olio Oliva Astuccio New",
+    "image": "media/DRY PRODUCTS/CALLIPO PICS/Callipo Filetti di Sgombro g.125 olio oliva astuccio - New.jpg",
+    "category": "sauces-condiments",
+    "description": "Premium callipo filetti di sgombro g.125 olio oliva astuccio new made with carefully selected ingredients."
+  },
+  {
+    "id": "callipo-filetti-di-sgombro-g-195-olio-oliva-vaso-vetro",
+    "name": "Callipo Filetti Di Sgombro G.195 Olio Oliva Vaso Vetro",
+    "image": "media/DRY PRODUCTS/CALLIPO PICS/Callipo Filetti di Sgombro g.195 olio oliva vaso vetro.png",
+    "category": "sauces-condiments",
+    "description": "Premium callipo filetti di sgombro g.195 olio oliva vaso vetro made with carefully selected ingredients."
+  },
+  {
+    "id": "callipo-filetti-di-tonno-g-550-olio-oliva-vaso-vetro",
+    "name": "Callipo Filetti Di Tonno G.550 Olio Oliva Vaso Vetro",
+    "image": "media/DRY PRODUCTS/CALLIPO PICS/Callipo Filetti di Tonno g.550 olio oliva vaso vetro.jpg",
+    "category": "sauces-condiments",
+    "description": "Premium callipo filetti di tonno g.550 olio oliva vaso vetro made with carefully selected ingredients."
+  },
+  {
+    "id": "callipo-filetti-di-ventresca-g-200-olio-oliva-vaso-vetro",
+    "name": "Callipo Filetti Di Ventresca G.200 Olio Oliva Vaso Vetro",
+    "image": "media/DRY PRODUCTS/CALLIPO PICS/Callipo Filetti di Ventresca g.200 olio oliva vaso vetro.jpg",
+    "category": "sauces-condiments",
+    "description": "Authentic callipo filetti di ventresca g.200 olio oliva vaso vetro perfect for enhancing your culinary creations."
+  },
+  {
+    "id": "callipo-filetti-tonno-olio-evo-bio-vaso-vetro",
+    "name": "Callipo Filetti Tonno Olio Evo BIO Vaso Vetro",
+    "image": "media/DRY PRODUCTS/CALLIPO PICS/Callipo Filetti Tonno Olio Evo BIO vaso vetro.png",
+    "category": "sauces-condiments",
+    "description": "Premium callipo filetti tonno olio evo bio vaso vetro made with carefully selected ingredients."
+  },
+  {
+    "id": "callipo-tonno-g-160-naturale-vetro",
+    "name": "Callipo Tonno G.160 Naturale Vetro",
+    "image": "media/DRY PRODUCTS/CALLIPO PICS/Callipo Tonno g.160 naturale vetro .png",
+    "category": "sauces-condiments",
+    "description": "Traditional callipo tonno g.160 naturale vetro bringing genuine Italian flavors to your table."
+  },
+  {
+    "id": "callipo-tonno-g-160-olio-oliva-vetro",
+    "name": "Callipo Tonno G.160 Olio Oliva Vetro",
+    "image": "media/DRY PRODUCTS/CALLIPO PICS/Callipo Tonno g.160 olio oliva vetro .jpg",
+    "category": "sauces-condiments",
+    "description": "Authentic callipo tonno g.160 olio oliva vetro perfect for enhancing your culinary creations."
+  },
+  {
+    "id": "callipo-tonno-g-600-olio-oliva-scatola",
+    "name": "Callipo Tonno G.600 Olio Oliva Scatola",
+    "image": "media/DRY PRODUCTS/CALLIPO PICS/Callipo Tonno g.600 olio oliva scatola.jpg",
+    "category": "sauces-condiments",
+    "description": "Traditional callipo tonno g.600 olio oliva scatola bringing genuine Italian flavors to your table."
+  },
+  {
+    "id": "callipo-trancetti-di-tonno-g-170-al-tartufo-urbani-vaso-vetro",
+    "name": "Callipo Trancetti Di Tonno G.170 Al Tartufo Urbani Vaso Vetro",
+    "image": "media/DRY PRODUCTS/CALLIPO PICS/Callipo Trancetti di Tonno g.170 al Tartufo Urbani vaso vetro.jpg",
+    "category": "sauces-condiments",
+    "description": "Authentic callipo trancetti di tonno g.170 al tartufo urbani vaso vetro perfect for enhancing your culinary creations."
+  },
+  {
+    "id": "callipo-trancetti-di-tonno-g-170-con-peperoncino-fresco-di-calabria-vaso-vetro",
+    "name": "Callipo Trancetti Di Tonno G.170 Con Peperoncino Fresco Di Calabria Vaso Vetro",
+    "image": "media/DRY PRODUCTS/CALLIPO PICS/Callipo Trancetti di Tonno g.170 con peperoncino fresco di Calabria vaso vetro.jpg",
+    "category": "sauces-condiments",
+    "description": "Authentic callipo trancetti di tonno g.170 con peperoncino fresco di calabria vaso vetro perfect for enhancing your culinary creations."
+  },
+  {
+    "id": "callipo-trancetti-di-tonno-g-170-olio-oliva-vaso-vetro",
+    "name": "Callipo Trancetti Di Tonno G.170 Olio Oliva Vaso Vetro",
+    "image": "media/DRY PRODUCTS/CALLIPO PICS/Callipo Trancetti di Tonno g.170 olio oliva vaso vetro.png",
+    "category": "sauces-condiments",
+    "description": "Traditional callipo trancetti di tonno g.170 olio oliva vaso vetro bringing genuine Italian flavors to your table."
+  },
+  {
+    "id": "callipo-trancetti-di-tonno-g-550-olio-oliva-vaso-vetro",
+    "name": "Callipo Trancetti Di Tonno G.550 Olio Oliva Vaso Vetro",
+    "image": "media/DRY PRODUCTS/CALLIPO PICS/Callipo Trancetti di Tonno g.550 olio oliva vaso vetro.png",
+    "category": "sauces-condiments",
+    "description": "Premium callipo trancetti di tonno g.550 olio oliva vaso vetro made with carefully selected ingredients."
+  },
+  {
+    "id": "cannamela-basilico-foglie",
+    "name": "CANNAMELA BASILICO FOGLIE",
+    "image": "media/DRY PRODUCTS/CANNAMELA PICS/CANNAMELA BASILICO FOGLIE.png",
+    "category": "sauces-condiments",
+    "description": "Authentic cannamela basilico foglie perfect for enhancing your culinary creations."
+  },
+  {
+    "id": "cannamela-erbe-di-provenza",
+    "name": "CANNAMELA ERBE DI PROVENZA",
+    "image": "media/DRY PRODUCTS/CANNAMELA PICS/CANNAMELA ERBE DI PROVENZA.png",
+    "category": "sauces-condiments",
+    "description": "Authentic cannamela erbe di provenza perfect for enhancing your culinary creations."
+  },
+  {
+    "id": "cannamela-origano-foglie",
+    "name": "CANNAMELA ORIGANO FOGLIE",
+    "image": "media/DRY PRODUCTS/CANNAMELA PICS/CANNAMELA ORIGANO FOGLIE.png",
+    "category": "sauces-condiments",
+    "description": "Premium cannamela origano foglie made with carefully selected ingredients."
+  },
+  {
+    "id": "cannamela-pepe-bianco-macinato",
+    "name": "CANNAMELA PEPE BIANCO MACINATO",
+    "image": "media/DRY PRODUCTS/CANNAMELA PICS/CANNAMELA PEPE BIANCO MACINATO.png",
+    "category": "sauces-condiments",
+    "description": "Premium cannamela pepe bianco macinato made with carefully selected ingredients."
+  },
+  {
+    "id": "cannamela-peperoncini-frantumati",
+    "name": "CANNAMELA PEPERONCINI FRANTUMATI",
+    "image": "media/DRY PRODUCTS/CANNAMELA PICS/CANNAMELA PEPERONCINI FRANTUMATI.png",
+    "category": "sauces-condiments",
+    "description": "Premium cannamela peperoncini frantumati made with carefully selected ingredients."
+  },
+  {
+    "id": "cannamela-peperoncini-piccoli",
+    "name": "CANNAMELA PEPERONCINI PICCOLI",
+    "image": "media/DRY PRODUCTS/CANNAMELA PICS/CANNAMELA PEPERONCINI PICCOLI.png",
+    "category": "sauces-condiments",
+    "description": "Authentic cannamela peperoncini piccoli perfect for enhancing your culinary creations."
+  },
+  {
+    "id": "cannamela-rosmarino-foglie",
+    "name": "CANNAMELA ROSMARINO FOGLIE",
+    "image": "media/DRY PRODUCTS/CANNAMELA PICS/CANNAMELA ROSMARINO FOGLIE.png",
+    "category": "sauces-condiments",
+    "description": "Traditional cannamela rosmarino foglie bringing genuine Italian flavors to your table."
+  },
+  {
+    "id": "cannamela-rosmarino-frantumato",
+    "name": "CANNAMELA ROSMARINO FRANTUMATO",
+    "image": "media/DRY PRODUCTS/CANNAMELA PICS/CANNAMELA ROSMARINO FRANTUMATO.png",
+    "category": "sauces-condiments",
+    "description": "Authentic cannamela rosmarino frantumato perfect for enhancing your culinary creations."
+  },
+  {
+    "id": "cc-dattrgiallo-naturale350g-qrcode",
+    "name": "CC Dattrgiallo Naturale350g QRcode",
+    "image": "media/DRY PRODUCTS/COSICOME PICS/CC_dattrgiallo-naturale350g_QRcode.jpg",
+    "category": "sauces-condiments",
+    "description": "Premium cc dattrgiallo naturale350g qrcode made with carefully selected ingredients."
+  },
+  {
+    "id": "cirio-polpa-finissima-400g-gold-edition",
+    "name": "Cirio Polpa Finissima 400g Gold Edition",
+    "image": "media/DRY PRODUCTS/CIRIO PICS 2025/Cirio_Polpa_Finissima_400g_Gold_Edition.jpg",
+    "category": "sauces-condiments",
+    "description": "Traditional cirio polpa finissima 400g gold edition bringing genuine Italian flavors to your table."
+  },
+  {
+    "id": "confettura-arance-bio-8370-fazio2019",
+    "name": "Confettura Arance Bio 8370 Fazio2019",
+    "image": "media/DRY PRODUCTS/CALLIPO PICS/confettura arance bio_8370 - Fazio2019.jpg",
+    "category": "sauces-condiments",
+    "description": "Premium confettura arance bio 8370 fazio2019 made with carefully selected ingredients."
+  },
+  {
+    "id": "confettura-fragola-e-melograno-g-280-vaso-vetro",
+    "name": "Confettura Fragola E Melograno G.280 Vaso Vetro",
+    "image": "media/DRY PRODUCTS/CALLIPO PICS/Confettura Fragola e melograno g.280 vaso vetro.png",
+    "category": "sauces-condiments",
+    "description": "Traditional confettura fragola e melograno g.280 vaso vetro bringing genuine Italian flavors to your table."
+  },
+  {
+    "id": "confettura-limone-e-zenzero-bio-g-280-vaso-vetro",
+    "name": "Confettura Limone E Zenzero BIO G.280 Vaso Vetro",
+    "image": "media/DRY PRODUCTS/CALLIPO PICS/Confettura Limone e Zenzero BIO g.280 vaso vetro.png",
+    "category": "sauces-condiments",
+    "description": "Premium confettura limone e zenzero bio g.280 vaso vetro made with carefully selected ingredients."
+  },
+  {
+    "id": "da0721-cipolline-280g",
+    "name": "DA0721 Cipolline 280g",
+    "image": "media/DRY PRODUCTS/D'AMICO PICS/DA0721_Cipolline_280g.png",
+    "category": "sauces-condiments",
+    "description": "Premium da0721 cipolline 280g made with carefully selected ingredients."
+  },
+  {
+    "id": "da120419-pomodori-secchi-1100g-busta",
+    "name": "DA120419 Pomodori Secchi 1100g Busta",
+    "image": "media/DRY PRODUCTS/D'AMICO PICS/DA120419_Pomodori_Secchi_1100g_Busta.png",
+    "category": "sauces-condiments",
+    "description": "Premium da120419 pomodori secchi 1100g busta made with carefully selected ingredients."
+  },
+  {
+    "id": "da2517-carciofi-alla-romana-con-gambo",
+    "name": "DA2517 Carciofi Alla Romana Con Gambo",
+    "image": "media/DRY PRODUCTS/D'AMICO PICS/DA2517_Carciofi_alla_Romana_con_Gambo.png",
+    "category": "sauces-condiments",
+    "description": "Authentic da2517 carciofi alla romana con gambo perfect for enhancing your culinary creations."
+  },
+  {
+    "id": "da31441-pesto-alla-genovese-130g",
+    "name": "DA31441 Pesto Alla Genovese 130g",
+    "image": "media/DRY PRODUCTS/D'AMICO PICS/DA31441_Pesto_alla_Genovese_130g.png",
+    "category": "sauces-condiments",
+    "description": "Authentic da31441 pesto alla genovese 130g perfect for enhancing your culinary creations."
+  },
+  {
+    "id": "da31521-pesto-di-pistacchio-130g",
+    "name": "DA31521 Pesto Di Pistacchio 130g",
+    "image": "media/DRY PRODUCTS/D'AMICO PICS/DA31521_Pesto_di_Pistacchio_130g.png",
+    "category": "sauces-condiments",
+    "description": "Traditional da31521 pesto di pistacchio 130g bringing genuine Italian flavors to your table."
+  },
+  {
+    "id": "da315871-salsa-tartufata-130g",
+    "name": "DA315871 Salsa Tartufata 130g",
+    "image": "media/DRY PRODUCTS/D'AMICO PICS/DA315871_Salsa_Tartufata_130g.png",
+    "category": "sauces-condiments",
+    "description": "Traditional da315871 salsa tartufata 130g bringing genuine Italian flavors to your table."
+  },
+  {
+    "id": "da413-pomodori-secchi-2900g",
+    "name": "DA413 Pomodori Secchi 2900g",
+    "image": "media/DRY PRODUCTS/D'AMICO PICS/DA413_Pomodori_Secchi_2900g.png",
+    "category": "sauces-condiments",
+    "description": "Premium da413 pomodori secchi 2900g made with carefully selected ingredients."
+  },
+  {
+    "id": "da533-carciofi-tagliati-2900g",
+    "name": "DA533 Carciofi Tagliati 2900g",
+    "image": "media/DRY PRODUCTS/D'AMICO PICS/DA533_Carciofi_Tagliati_2900g.png",
+    "category": "sauces-condiments",
+    "description": "Authentic da533 carciofi tagliati 2900g perfect for enhancing your culinary creations."
+  },
+  {
+    "id": "da5872-salsa-tartufata-500g",
+    "name": "DA5872 Salsa Tartufata 500g",
+    "image": "media/DRY PRODUCTS/D'AMICO PICS/DA5872_Salsa_Tartufata_500g.png",
+    "category": "sauces-condiments",
+    "description": "Premium da5872 salsa tartufata 500g made with carefully selected ingredients."
+  },
+  {
+    "id": "da711-cetriolini-mini-300g",
+    "name": "DA711 Cetriolini Mini 300g",
+    "image": "media/DRY PRODUCTS/D'AMICO PICS/DA711_Cetriolini_Mini_300g.png",
+    "category": "sauces-condiments",
+    "description": "Premium da711 cetriolini mini 300g made with carefully selected ingredients."
+  },
+  {
+    "id": "da716-cetriolini-1000g",
+    "name": "DA716 Cetriolini 1000g",
+    "image": "media/DRY PRODUCTS/D'AMICO PICS/DA716_Cetriolini_1000g.png",
+    "category": "sauces-condiments",
+    "description": "Premium da716 cetriolini 1000g made with carefully selected ingredients."
+  },
+  {
+    "id": "da7411-pomodori-secchi-alla-calabrese-280g",
+    "name": "DA7411 Pomodori Secchi Alla Calabrese 280g",
+    "image": "media/DRY PRODUCTS/D'AMICO PICS/DA7411_Pomodori_secchi_alla_Calabrese_280g.png",
+    "category": "sauces-condiments",
+    "description": "Traditional da7411 pomodori secchi alla calabrese 280g bringing genuine Italian flavors to your table."
+  },
+  {
+    "id": "da7831-aglio-alla-marchigiana-280g",
+    "name": "DA7831 Aglio Alla Marchigiana 280g",
+    "image": "media/DRY PRODUCTS/D'AMICO PICS/DA7831_Aglio_alla_Marchigiana_280g.png",
+    "category": "sauces-condiments",
+    "description": "Traditional da7831 aglio alla marchigiana 280g bringing genuine Italian flavors to your table."
+  },
+  {
+    "id": "da7891-frutti-del-cappero-290g",
+    "name": "DA7891 Frutti Del Cappero 290g",
+    "image": "media/DRY PRODUCTS/D'AMICO PICS/DA7891_Frutti_del_Cappero_290g.png",
+    "category": "sauces-condiments",
+    "description": "Authentic da7891 frutti del cappero 290g perfect for enhancing your culinary creations."
+  },
+  {
+    "id": "da801-capperi-di-roccia-piccoli-n7-200g",
+    "name": "DA801 Capperi Di Roccia Piccoli N7 200g",
+    "image": "media/DRY PRODUCTS/D'AMICO PICS/DA801_Capperi_di_Roccia_Piccoli_n7_200g.png",
+    "category": "sauces-condiments",
+    "description": "Premium da801 capperi di roccia piccoli n7 200g made with carefully selected ingredients."
+  },
+  {
+    "id": "da812-capperi-aceto-9-560g",
+    "name": "DA812 Capperi Aceto 9 560g",
+    "image": "media/DRY PRODUCTS/D'AMICO PICS/DA812_Capperi_Aceto_9_560g.png",
+    "category": "sauces-condiments",
+    "description": "Premium da812 capperi aceto 9 560g made with carefully selected ingredients."
+  },
+  {
+    "id": "europa-tuna-salad-fagioli",
+    "name": "Europa Tuna Salad Fagioli",
+    "image": "media/DRY PRODUCTS/CALLIPO PICS/Europa Tuna Salad Fagioli.jpg",
+    "category": "sauces-condiments",
+    "description": "Premium europa tuna salad fagioli made with carefully selected ingredients."
+  },
+  {
+    "id": "europa-tuna-salad-mais",
+    "name": "Europa Tuna Salad Mais",
+    "image": "media/DRY PRODUCTS/CALLIPO PICS/Europa Tuna Salad_Mais.jpg",
+    "category": "sauces-condiments",
+    "description": "Premium europa tuna salad mais made with carefully selected ingredients."
+  },
+  {
+    "id": "europa-tuna-salad-quinoa",
+    "name": "Europa Tuna Salad Quinoa",
+    "image": "media/DRY PRODUCTS/CALLIPO PICS/Europa Tuna Salad Quinoa.jpg",
+    "category": "sauces-condiments",
+    "description": "Premium europa tuna salad quinoa made with carefully selected ingredients."
+  },
+  {
+    "id": "figs-jam-280gr-",
+    "name": "Figs Jam 280gr.",
+    "image": "media/DRY PRODUCTS/CALLIPO PICS/Figs Jam 280gr..jpg",
+    "category": "sauces-condiments",
+    "description": "Premium figs jam 280gr. made with carefully selected ingredients."
+  },
+  {
+    "id": "gg-dattgiallo-acqua800g-2021",
+    "name": "GG Dattgiallo Acqua800g 2021",
+    "image": "media/DRY PRODUCTS/COSICOME PICS/GG_dattgiallo-acqua800g_2021.jpg",
+    "category": "sauces-condiments",
+    "description": "Premium gg dattgiallo acqua800g 2021 made with carefully selected ingredients."
+  },
+  {
+    "id": "gg-dattrosso-acqua800g-2021-rgb",
+    "name": "GG Dattrosso Acqua800g 2021 RGB",
+    "image": "media/DRY PRODUCTS/COSICOME PICS/GG_dattrosso-acqua800g_2021-RGB.jpg",
+    "category": "sauces-condiments",
+    "description": "Premium gg dattrosso acqua800g 2021 rgb made with carefully selected ingredients."
+  },
+  {
+    "id": "ilboschetto-bos-sp0001-arrabbiata-45gr",
+    "name": "IlBoschetto BOS SP0001 Arrabbiata 45gr",
+    "image": "media/DRY PRODUCTS/BOSCHETTO PICS/IlBoschetto_BOS-SP0001 Arrabbiata 45gr.png",
+    "category": "sauces-condiments",
+    "description": "Authentic ilboschetto bos sp0001 arrabbiata 45gr perfect for enhancing your culinary creations."
+  },
+  {
+    "id": "ilboschetto-bos-sp0002-beef-43gr",
+    "name": "IlBoschetto BOS SP0002 Beef 43gr",
+    "image": "media/DRY PRODUCTS/BOSCHETTO PICS/IlBoschetto_BOS-SP0002 Beef 43gr.png",
+    "category": "sauces-condiments",
+    "description": "Authentic ilboschetto bos sp0002 beef 43gr perfect for enhancing your culinary creations."
+  },
+  {
+    "id": "ilboschetto-bos-sp0003-poultry-55gr",
+    "name": "IlBoschetto BOS SP0003 Poultry 55gr",
+    "image": "media/DRY PRODUCTS/BOSCHETTO PICS/IlBoschetto_BOS-SP0003 Poultry 55gr.png",
+    "category": "sauces-condiments",
+    "description": "Premium ilboschetto bos sp0003 poultry 55gr made with carefully selected ingredients."
+  },
+  {
+    "id": "ilboschetto-bos-sp0004-salads-caprese-42gr",
+    "name": "IlBoschetto BOS SP0004 Salads&Caprese 42gr",
+    "image": "media/DRY PRODUCTS/BOSCHETTO PICS/IlBoschetto_BOS-SP0004 Salads&Caprese 42gr.png",
+    "category": "sauces-condiments",
+    "description": "Traditional ilboschetto bos sp0004 salads&caprese 42gr bringing genuine Italian flavors to your table."
+  },
+  {
+    "id": "ilboschetto-bos-sp0005-fish-seafood-47gr",
+    "name": "IlBoschetto BOS SP0005 Fish&Seafood 47gr",
+    "image": "media/DRY PRODUCTS/BOSCHETTO PICS/IlBoschetto_BOS-SP0005 Fish&Seafood 47gr.png",
+    "category": "sauces-condiments",
+    "description": "Premium ilboschetto bos sp0005 fish&seafood 47gr made with carefully selected ingredients."
+  },
+  {
+    "id": "ilboschetto-bos-sp0006-potatoes-47gr",
+    "name": "IlBoschetto BOS SP0006 Potatoes 47gr",
+    "image": "media/DRY PRODUCTS/BOSCHETTO PICS/IlBoschetto_BOS-SP0006 Potatoes 47gr.png",
+    "category": "sauces-condiments",
+    "description": "Traditional ilboschetto bos sp0006 potatoes 47gr bringing genuine Italian flavors to your table."
+  },
+  {
+    "id": "ilboschetto-bos-sp0007-hot-potatoes-50gr",
+    "name": "IlBoschetto BOS SP0007 Hot Potatoes 50gr",
+    "image": "media/DRY PRODUCTS/BOSCHETTO PICS/IlBoschetto_BOS-SP0007 Hot Potatoes 50gr.png",
+    "category": "sauces-condiments",
+    "description": "Traditional ilboschetto bos sp0007 hot potatoes 50gr bringing genuine Italian flavors to your table."
+  },
+  {
+    "id": "ilboschetto-bos-sp0009-veggie-55gr",
+    "name": "IlBoschetto BOS SP0009 Veggie 55gr",
+    "image": "media/DRY PRODUCTS/BOSCHETTO PICS/IlBoschetto_BOS-SP0009 Veggie 55gr.png",
+    "category": "sauces-condiments",
+    "description": "Authentic ilboschetto bos sp0009 veggie 55gr perfect for enhancing your culinary creations."
+  },
+  {
+    "id": "ilboschetto-bos-sp0010-american-bbq-85gr",
+    "name": "IlBoschetto BOS SP0010 American BBQ 85gr",
+    "image": "media/DRY PRODUCTS/BOSCHETTO PICS/IlBoschetto_BOS-SP0010 American BBQ 85gr.png",
+    "category": "sauces-condiments",
+    "description": "Premium ilboschetto bos sp0010 american bbq 85gr made with carefully selected ingredients."
+  },
+  {
+    "id": "ilboschetto-bos-sp0012-tuscan-bbq-35gr",
+    "name": "IlBoschetto BOS SP0012 Tuscan BBQ 35gr",
+    "image": "media/DRY PRODUCTS/BOSCHETTO PICS/IlBoschetto_BOS-SP0012 Tuscan BBQ 35gr.png",
+    "category": "sauces-condiments",
+    "description": "Premium ilboschetto bos sp0012 tuscan bbq 35gr made with carefully selected ingredients."
+  },
+  {
+    "id": "ilboschetto-bos-sp0014-mexican-bbq-80gr",
+    "name": "IlBoschetto BOS SP0014 Mexican BBQ 80gr",
+    "image": "media/DRY PRODUCTS/BOSCHETTO PICS/IlBoschetto_BOS-SP0014 Mexican BBQ 80gr.png",
+    "category": "sauces-condiments",
+    "description": "Traditional ilboschetto bos sp0014 mexican bbq 80gr bringing genuine Italian flavors to your table."
+  },
+  {
+    "id": "ilboschetto-bos-sp0023-garlic-55gr",
+    "name": "IlBoschetto BOS SP0023 Garlic 55gr",
+    "image": "media/DRY PRODUCTS/BOSCHETTO PICS/IlBoschetto_BOS-SP0023 Garlic 55gr.png",
+    "category": "sauces-condiments",
+    "description": "Authentic ilboschetto bos sp0023 garlic 55gr perfect for enhancing your culinary creations."
+  },
+  {
+    "id": "ilboschetto-bos-sp0026-cinnamon-40gr",
+    "name": "IlBoschetto BOS SP0026 Cinnamon 40gr",
+    "image": "media/DRY PRODUCTS/BOSCHETTO PICS/IlBoschetto_BOS-SP0026 Cinnamon 40gr.png",
+    "category": "sauces-condiments",
+    "description": "Traditional ilboschetto bos sp0026 cinnamon 40gr bringing genuine Italian flavors to your table."
+  },
+  {
+    "id": "ilboschetto-bos-sp0027-onion-50gr",
+    "name": "IlBoschetto BOS SP0027 Onion 50gr",
+    "image": "media/DRY PRODUCTS/BOSCHETTO PICS/IlBoschetto_BOS-SP0027 Onion 50gr.png",
+    "category": "sauces-condiments",
+    "description": "Authentic ilboschetto bos sp0027 onion 50gr perfect for enhancing your culinary creations."
+  },
+  {
+    "id": "ilboschetto-bos-sp0028-turmeric-50gr",
+    "name": "IlBoschetto BOS SP0028 Turmeric 50gr",
+    "image": "media/DRY PRODUCTS/BOSCHETTO PICS/IlBoschetto_BOS-SP0028 Turmeric 50gr.png",
+    "category": "sauces-condiments",
+    "description": "Premium ilboschetto bos sp0028 turmeric 50gr made with carefully selected ingredients."
+  },
+  {
+    "id": "ilboschetto-bos-sp0029-curry-45gr",
+    "name": "IlBoschetto BOS SP0029 Curry 45gr",
+    "image": "media/DRY PRODUCTS/BOSCHETTO PICS/IlBoschetto_BOS-SP0029 Curry 45gr.png",
+    "category": "sauces-condiments",
+    "description": "Premium ilboschetto bos sp0029 curry 45gr made with carefully selected ingredients."
+  },
+  {
+    "id": "ilboschetto-bos-sp0036-nutmeg-45gr",
+    "name": "IlBoschetto BOS SP0036 Nutmeg 45gr",
+    "image": "media/DRY PRODUCTS/BOSCHETTO PICS/IlBoschetto_BOS-SP0036 Nutmeg 45gr.png",
+    "category": "sauces-condiments",
+    "description": "Traditional ilboschetto bos sp0036 nutmeg 45gr bringing genuine Italian flavors to your table."
+  },
+  {
+    "id": "ilboschetto-bos-sp0037-oregano-12gr",
+    "name": "IlBoschetto BOS SP0037 Oregano 12gr",
+    "image": "media/DRY PRODUCTS/BOSCHETTO PICS/IlBoschetto_BOS-SP0037 Oregano 12gr.png",
+    "category": "sauces-condiments",
+    "description": "Authentic ilboschetto bos sp0037 oregano 12gr perfect for enhancing your culinary creations."
+  },
+  {
+    "id": "ilboschetto-bos-sp0039-paprika-45gr",
+    "name": "IlBoschetto BOS SP0039 Paprika 45gr",
+    "image": "media/DRY PRODUCTS/BOSCHETTO PICS/IlBoschetto_BOS-SP0039 Paprika 45gr.png",
+    "category": "sauces-condiments",
+    "description": "Traditional ilboschetto bos sp0039 paprika 45gr bringing genuine Italian flavors to your table."
+  },
+  {
+    "id": "ilboschetto-bos-sp0042-ground-black-pepper-50gr",
+    "name": "IlBoschetto BOS SP0042 Ground Black Pepper 50gr",
+    "image": "media/DRY PRODUCTS/BOSCHETTO PICS/IlBoschetto_BOS-SP0042 Ground Black Pepper 50gr.png",
+    "category": "sauces-condiments",
+    "description": "Premium ilboschetto bos sp0042 ground black pepper 50gr made with carefully selected ingredients."
+  },
+  {
+    "id": "ilboschetto-bos-sp0044-crushed-chili-pepper-35gr",
+    "name": "IlBoschetto BOS SP0044 Crushed Chili Pepper 35gr",
+    "image": "media/DRY PRODUCTS/BOSCHETTO PICS/IlBoschetto_BOS-SP0044 Crushed Chili Pepper 35gr.png",
+    "category": "sauces-condiments",
+    "description": "Premium ilboschetto bos sp0044 crushed chili pepper 35gr made with carefully selected ingredients."
+  },
+  {
+    "id": "ilboschetto-bos-sp0045-ground-chili-pepper-50gr",
+    "name": "IlBoschetto BOS SP0045 Ground Chili Pepper 50gr",
+    "image": "media/DRY PRODUCTS/BOSCHETTO PICS/IlBoschetto_BOS-SP0045 Ground Chili Pepper 50gr.png",
+    "category": "sauces-condiments",
+    "description": "Traditional ilboschetto bos sp0045 ground chili pepper 50gr bringing genuine Italian flavors to your table."
+  },
+  {
+    "id": "ilboschetto-bos-sp0050-ginger-30gr",
+    "name": "IlBoschetto BOS SP0050 Ginger 30gr",
+    "image": "media/DRY PRODUCTS/BOSCHETTO PICS/IlBoschetto_BOS-SP0050 Ginger 30gr.png",
+    "category": "sauces-condiments",
+    "description": "Traditional ilboschetto bos sp0050 ginger 30gr bringing genuine Italian flavors to your table."
+  },
+  {
+    "id": "ilboschetto-bos-sp0091-arrabbiata-120gr",
+    "name": "IlBoschetto BOS SP0091 Arrabbiata 120GR",
+    "image": "media/DRY PRODUCTS/BOSCHETTO PICS/IlBoschetto - BOS-SP0091 Arrabbiata 120GR.png",
+    "category": "sauces-condiments",
+    "description": "Traditional ilboschetto bos sp0091 arrabbiata 120gr bringing genuine Italian flavors to your table."
+  },
+  {
+    "id": "ilboschetto-bos-sp0092-black-pepper-70gr",
+    "name": "IlBoschetto BOS SP0092 Black Pepper 70GR",
+    "image": "media/DRY PRODUCTS/BOSCHETTO PICS/IlBoschetto - BOS-SP0092 Black Pepper 70GR.png",
+    "category": "sauces-condiments",
+    "description": "Authentic ilboschetto bos sp0092 black pepper 70gr perfect for enhancing your culinary creations."
+  },
+  {
+    "id": "ilboschetto-bos-sp0093-grigliata-100gr",
+    "name": "IlBoschetto BOS SP0093 Grigliata 100GR",
+    "image": "media/DRY PRODUCTS/BOSCHETTO PICS/IlBoschetto - BOS-SP0093 Grigliata 100GR.png",
+    "category": "sauces-condiments",
+    "description": "Authentic ilboschetto bos sp0093 grigliata 100gr perfect for enhancing your culinary creations."
+  },
+  {
+    "id": "ilboschetto-bos-sp0095-pepato-120gr",
+    "name": "IlBoschetto BOS SP0095 Pepato 120GR",
+    "image": "media/DRY PRODUCTS/BOSCHETTO PICS/IlBoschetto - BOS-SP0095 Pepato 120GR.png",
+    "category": "sauces-condiments",
+    "description": "Traditional ilboschetto bos sp0095 pepato 120gr bringing genuine Italian flavors to your table."
+  },
+  {
+    "id": "ilboschetto-bos-sp0096-mixed-peppercorns-55gr",
+    "name": "IlBoschetto BOS SP0096 Mixed Peppercorns 55GR",
+    "image": "media/DRY PRODUCTS/BOSCHETTO PICS/IlBoschetto - BOS-SP0096 Mixed Peppercorns 55GR.png",
+    "category": "sauces-condiments",
+    "description": "Authentic ilboschetto bos sp0096 mixed peppercorns 55gr perfect for enhancing your culinary creations."
+  },
+  {
+    "id": "ilboschetto-bos-sp0097-sea-salt-140gr",
+    "name": "IlBoschetto BOS SP0097 Sea Salt 140GR",
+    "image": "media/DRY PRODUCTS/BOSCHETTO PICS/IlBoschetto - BOS-SP0097 Sea Salt 140GR.png",
+    "category": "sauces-condiments",
+    "description": "Premium ilboschetto bos sp0097 sea salt 140gr made with carefully selected ingredients."
+  },
+  {
+    "id": "ilboschetto-bos-sp0098-vegetariano-120gr",
+    "name": "IlBoschetto BOS SP0098 Vegetariano 120GR",
+    "image": "media/DRY PRODUCTS/BOSCHETTO PICS/IlBoschetto - BOS-SP0098 Vegetariano 120GR.png",
+    "category": "sauces-condiments",
+    "description": "Premium ilboschetto bos sp0098 vegetariano 120gr made with carefully selected ingredients."
+  },
+  {
+    "id": "ilboschetto-bos-sp0099-arrabbiata-250gr",
+    "name": "IlBoschetto BOS SP0099 Arrabbiata 250GR",
+    "image": "media/DRY PRODUCTS/BOSCHETTO PICS/IlBoschetto - BOS-SP0099 Arrabbiata 250GR.png",
+    "category": "sauces-condiments",
+    "description": "Traditional ilboschetto bos sp0099 arrabbiata 250gr bringing genuine Italian flavors to your table."
+  },
+  {
+    "id": "ilboschetto-bos-sp0100-black-pepper-150gr",
+    "name": "IlBoschetto BOS SP0100 Black Pepper 150GR",
+    "image": "media/DRY PRODUCTS/BOSCHETTO PICS/IlBoschetto - BOS-SP0100 Black Pepper 150GR.png",
+    "category": "sauces-condiments",
+    "description": "Traditional ilboschetto bos sp0100 black pepper 150gr bringing genuine Italian flavors to your table."
+  },
+  {
+    "id": "ilboschetto-bos-sp0101-grigliata-250gr",
+    "name": "IlBoschetto BOS SP0101 Grigliata 250GR",
+    "image": "media/DRY PRODUCTS/BOSCHETTO PICS/IlBoschetto - BOS-SP0101 Grigliata 250GR.png",
+    "category": "sauces-condiments",
+    "description": "Traditional ilboschetto bos sp0101 grigliata 250gr bringing genuine Italian flavors to your table."
+  },
+  {
+    "id": "ilboschetto-bos-sp0103-pepato-250gr",
+    "name": "IlBoschetto BOS SP0103 Pepato 250GR",
+    "image": "media/DRY PRODUCTS/BOSCHETTO PICS/IlBoschetto - BOS-SP0103 Pepato 250GR.png",
+    "category": "sauces-condiments",
+    "description": "Authentic ilboschetto bos sp0103 pepato 250gr perfect for enhancing your culinary creations."
+  },
+  {
+    "id": "ilboschetto-bos-sp0104-mix-peppercorns-160gr",
+    "name": "IlBoschetto BOS SP0104 Mix Peppercorns 160GR",
+    "image": "media/DRY PRODUCTS/BOSCHETTO PICS/IlBoschetto - BOS-SP0104 Mix Peppercorns 160GR.png",
+    "category": "sauces-condiments",
+    "description": "Premium ilboschetto bos sp0104 mix peppercorns 160gr made with carefully selected ingredients."
+  },
+  {
+    "id": "ilboschetto-bos-sp0105-himalaya-salt-280gr",
+    "name": "IlBoschetto BOS SP0105 Himalaya Salt 280GR",
+    "image": "media/DRY PRODUCTS/BOSCHETTO PICS/IlBoschetto - BOS-SP0105 Himalaya Salt 280GR.png",
+    "category": "sauces-condiments",
+    "description": "Authentic ilboschetto bos sp0105 himalaya salt 280gr perfect for enhancing your culinary creations."
+  },
+  {
+    "id": "ilboschetto-bos-sp0106-sea-salt-280gr",
+    "name": "IlBoschetto BOS SP0106 Sea Salt 280GR",
+    "image": "media/DRY PRODUCTS/BOSCHETTO PICS/IlBoschetto - BOS-SP0106 Sea Salt 280GR.png",
+    "category": "sauces-condiments",
+    "description": "Premium ilboschetto bos sp0106 sea salt 280gr made with carefully selected ingredients."
+  },
+  {
+    "id": "ilboschetto-bos-sp0107-vegetariano-250gr",
+    "name": "IlBoschetto BOS SP0107 Vegetariano 250GR",
+    "image": "media/DRY PRODUCTS/BOSCHETTO PICS/IlBoschetto - BOS-SP0107 Vegetariano 250GR.png",
+    "category": "sauces-condiments",
+    "description": "Premium ilboschetto bos sp0107 vegetariano 250gr made with carefully selected ingredients."
+  },
+  {
+    "id": "ilboschetto-bos-sp0177-cumin-38gr",
+    "name": "IlBoschetto BOS SP0177 Cumin 38gr",
+    "image": "media/DRY PRODUCTS/BOSCHETTO PICS/IlBoschetto_BOS-SP0177 Cumin 38gr.png",
+    "category": "sauces-condiments",
+    "description": "Traditional ilboschetto bos sp0177 cumin 38gr bringing genuine Italian flavors to your table."
+  },
+  {
+    "id": "ilboschetto-bos-sp0180-cajun-bbq-75gr",
+    "name": "IlBoschetto BOS SP0180 Cajun BBQ 75gr",
+    "image": "media/DRY PRODUCTS/BOSCHETTO PICS/IlBoschetto_BOS-SP0180 Cajun BBQ  75gr.png",
+    "category": "sauces-condiments",
+    "description": "Authentic ilboschetto bos sp0180 cajun bbq 75gr perfect for enhancing your culinary creations."
+  },
+  {
+    "id": "ilboschetto-bos-sp0181-pizza-22gr",
+    "name": "IlBoschetto BOS SP0181 Pizza 22gr",
+    "image": "media/DRY PRODUCTS/BOSCHETTO PICS/IlBoschetto_BOS-SP0181 Pizza 22gr.png",
+    "category": "sauces-condiments",
+    "description": "Traditional ilboschetto bos sp0181 pizza 22gr bringing genuine Italian flavors to your table."
+  },
+  {
+    "id": "ilboschetto-bos-sp0182-spg-bbq-65gr",
+    "name": "IlBoschetto BOS SP0182 SPG BBQ 65gr",
+    "image": "media/DRY PRODUCTS/BOSCHETTO PICS/IlBoschetto_BOS-SP0182 SPG BBQ 65gr.png",
+    "category": "sauces-condiments",
+    "description": "Traditional ilboschetto bos sp0182 spg bbq 65gr bringing genuine Italian flavors to your table."
+  },
+  {
+    "id": "nduja-di-spilinga-8381-fazio2019-tal-copia",
+    "name": "Nduja Di Spilinga 8381 Fazio2019 TAL Copia",
+    "image": "media/DRY PRODUCTS/CALLIPO PICS/nduja di spilinga_8381 - Fazio2019_TAL copia.jpg",
+    "category": "sauces-condiments",
+    "description": "Premium nduja di spilinga 8381 fazio2019 tal copia made with carefully selected ingredients."
+  },
+  {
+    "id": "red-onion-jam-280gr-",
+    "name": "Red Onion Jam 280gr.",
+    "image": "media/DRY PRODUCTS/CALLIPO PICS/Red Onion Jam 280gr..jpg",
+    "category": "sauces-condiments",
+    "description": "Traditional red onion jam 280gr. bringing genuine Italian flavors to your table."
+  },
+  {
+    "id": "riserva-callipo-filetti-di-tonno-g-200-olio-oliva-vaso-vetro",
+    "name": "Riserva Callipo Filetti Di Tonno G.200 Olio Oliva Vaso Vetro",
+    "image": "media/DRY PRODUCTS/CALLIPO PICS/Riserva Callipo Filetti di Tonno g.200 olio oliva vaso vetro.jpg",
+    "category": "sauces-condiments",
+    "description": "Premium riserva callipo filetti di tonno g.200 olio oliva vaso vetro made with carefully selected ingredients."
+  },
+  {
+    "id": "riserva-callipo-filetti-tonno-g-820-astuccio-",
+    "name": "Riserva Callipo Filetti Tonno G. 820 Astuccio.",
+    "image": "media/DRY PRODUCTS/CALLIPO PICS/Riserva Callipo Filetti Tonno g. 820 Astuccio..jpg",
+    "category": "sauces-condiments",
+    "description": "Authentic riserva callipo filetti tonno g. 820 astuccio. perfect for enhancing your culinary creations."
+  },
+  {
+    "id": "riserva-callipo-filetti-tonno-g-820-legno",
+    "name": "Riserva Callipo Filetti Tonno G.820 Legno",
+    "image": "media/DRY PRODUCTS/CALLIPO PICS/Riserva Callipo Filetti Tonno g.820 Legno.jpg",
+    "category": "sauces-condiments",
+    "description": "Authentic riserva callipo filetti tonno g.820 legno perfect for enhancing your culinary creations."
+  },
+  {
+    "id": "tpm-salerosa",
+    "name": "TPM Salerosa",
+    "image": "media/DRY PRODUCTS/CANNAMELA PICS/TPM-salerosa.jpg",
+    "category": "sauces-condiments",
+    "description": "Premium tpm salerosa made with carefully selected ingredients."
+  },
+  {
+    "id": "25-almond-cantuccini-la-dolce-vita-tin-box-400-gr",
+    "name": "25� ALMOND CANTUCCINI 'LA DOLCE VITA' TIN BOX 400 GR",
+    "image": "media/DRY PRODUCTS/BELLI PICS/25� ALMOND CANTUCCINI 'LA DOLCE VITA' TIN BOX 400 GR.jpg",
+    "category": "sweets-snacks",
+    "description": "Authentic 25� almond cantuccini 'la dolce vita' tin box 400 gr perfect for indulgent moments."
   }
 ]
