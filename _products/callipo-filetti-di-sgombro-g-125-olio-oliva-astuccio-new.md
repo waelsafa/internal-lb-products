@@ -1,12 +1,15 @@
 ---
-title: "Callipo Filetti Di Sgombro G.125 Olio Oliva Astuccio New"
-image: "media/DRY PRODUCTS/CALLIPO PICS/Callipo Filetti di Sgombro g.125 olio oliva astuccio - New.jpg"
-category: "sauces-condiments"
-description: "Premium callipo filetti di sgombro g.125 olio oliva astuccio new made with carefully selected ingredients."
+id: callipo-filetti-di-sgombro-g-125-olio-oliva-astuccio-new
+name: "Callipo Filetti Di Sgombro G.125 Olio Oliva Astuccio New"
+image: media/FISH PRODUCTS/CALLIPO PICS/Callipo Filetti di Sgombro g.125 olio oliva astuccio - New.jpg
+category: antipasti
+description: "Traditional Italian antipasti featuring the finest preserved vegetables, seafood, and gourmet appetizers."
+brand: "CALLIPO"
 ---
 
 # Callipo Filetti Di Sgombro G.125 Olio Oliva Astuccio New
 
-Premium callipo filetti di sgombro g.125 olio oliva astuccio new made with carefully selected ingredients.
+Traditional Italian antipasti featuring the finest preserved vegetables, seafood, and gourmet appetizers.
 
-**Category:** Sauces Condiments
+**Category:** Antipasti
+**Brand:** CALLIPO

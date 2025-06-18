@@ -1,12 +1,15 @@
 ---
-title: "IlBoschetto BOS SP0107 Vegetariano 250GR"
-image: "media/DRY PRODUCTS/BOSCHETTO PICS/IlBoschetto - BOS-SP0107 Vegetariano 250GR.png"
-category: "sauces-condiments"
-description: "Premium ilboschetto bos sp0107 vegetariano 250gr made with carefully selected ingredients."
+id: ilboschetto-bos-sp0107-vegetariano-250gr
+name: "Ilboschetto Bos Sp0107 Vegetariano 250gr"
+image: media/4 SAUCES CONDIMENTS/BOSCHETTO PICS/IlBoschetto - BOS-SP0107 Vegetariano 250GR.png
+category: sauces-condiments
+description: "Authentic Italian sauces and condiments made with traditional recipes and the finest ingredients."
+brand: "BOSCHETTO"
 ---
 
-# IlBoschetto BOS SP0107 Vegetariano 250GR
+# Ilboschetto Bos Sp0107 Vegetariano 250gr
 
-Premium ilboschetto bos sp0107 vegetariano 250gr made with carefully selected ingredients.
+Authentic Italian sauces and condiments made with traditional recipes and the finest ingredients.
 
 **Category:** Sauces Condiments
+**Brand:** BOSCHETTO

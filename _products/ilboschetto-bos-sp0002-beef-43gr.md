@@ -1,12 +1,15 @@
 ---
-title: "IlBoschetto BOS SP0002 Beef 43gr"
-image: "media/DRY PRODUCTS/BOSCHETTO PICS/IlBoschetto_BOS-SP0002 Beef 43gr.png"
-category: "sauces-condiments"
-description: "Authentic ilboschetto bos sp0002 beef 43gr perfect for enhancing your culinary creations."
+id: ilboschetto-bos-sp0002-beef-43gr
+name: "Ilboschetto Bos Sp0002 Beef 43gr"
+image: media/4 SAUCES CONDIMENTS/BOSCHETTO PICS/IlBoschetto_BOS-SP0002 Beef 43gr.png
+category: sauces-condiments
+description: "Authentic Italian sauces and condiments made with traditional recipes and the finest ingredients."
+brand: "BOSCHETTO"
 ---
 
-# IlBoschetto BOS SP0002 Beef 43gr
+# Ilboschetto Bos Sp0002 Beef 43gr
 
-Authentic ilboschetto bos sp0002 beef 43gr perfect for enhancing your culinary creations.
+Authentic Italian sauces and condiments made with traditional recipes and the finest ingredients.
 
 **Category:** Sauces Condiments
+**Brand:** BOSCHETTO

@@ -1,12 +1,15 @@
 ---
-title: "IlBoschetto BOS SP0044 Crushed Chili Pepper 35gr"
-image: "media/DRY PRODUCTS/BOSCHETTO PICS/IlBoschetto_BOS-SP0044 Crushed Chili Pepper 35gr.png"
-category: "sauces-condiments"
-description: "Premium ilboschetto bos sp0044 crushed chili pepper 35gr made with carefully selected ingredients."
+id: ilboschetto-bos-sp0044-crushed-chili-pepper-35gr
+name: "Ilboschetto Bos Sp0044 Crushed Chili Pepper 35gr"
+image: media/4 SAUCES CONDIMENTS/BOSCHETTO PICS/IlBoschetto_BOS-SP0044 Crushed Chili Pepper 35gr.png
+category: sauces-condiments
+description: "Authentic Italian sauces and condiments made with traditional recipes and the finest ingredients."
+brand: "BOSCHETTO"
 ---
 
-# IlBoschetto BOS SP0044 Crushed Chili Pepper 35gr
+# Ilboschetto Bos Sp0044 Crushed Chili Pepper 35gr
 
-Premium ilboschetto bos sp0044 crushed chili pepper 35gr made with carefully selected ingredients.
+Authentic Italian sauces and condiments made with traditional recipes and the finest ingredients.
 
 **Category:** Sauces Condiments
+**Brand:** BOSCHETTO

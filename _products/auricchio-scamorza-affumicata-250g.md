@@ -1,12 +1,15 @@
 ---
-title: "Auricchio Scamorza Affumicata 250g"
-image: "media/FRESH PRODUCTS/RE291/Auricchio Scamorza Affumicata 250g.jpg"
-category: "cheese-cold-cuts"
-description: "Traditional auricchio scamorza affumicata 250g made with time-honored methods and finest ingredients."
+id: auricchio-scamorza-affumicata-250g
+name: "Auricchio Scamorza Affumicata 250g"
+image: media/1 CHEESE AND COLD CUTS/AURICCHIO PICS/RE291/Auricchio Scamorza Affumicata 250g.jpg
+category: cheese-cold-cuts
+description: "Premium artisanal cheese and cold cuts, carefully selected for their exceptional quality and authentic Italian taste."
+brand: "RE291"
 ---
 
 # Auricchio Scamorza Affumicata 250g
 
-Traditional auricchio scamorza affumicata 250g made with time-honored methods and finest ingredients.
+Premium artisanal cheese and cold cuts, carefully selected for their exceptional quality and authentic Italian taste.
 
 **Category:** Cheese Cold Cuts
+**Brand:** RE291

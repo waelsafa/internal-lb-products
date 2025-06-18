@@ -1,12 +1,15 @@
 ---
-title: "Auricchio BURRATA 125 Gr"
-image: "media/FRESH PRODUCTS/AU5125/Auricchio BURRATA 125 gr.jpg"
-category: "cheese-cold-cuts"
-description: "Traditional auricchio burrata 125 gr made with time-honored methods and finest ingredients."
+id: auricchio-burrata-125-gr
+name: "Auricchio Burrata 125 Gr"
+image: media/1 CHEESE AND COLD CUTS/AURICCHIO PICS/AU5125/Auricchio BURRATA 125 gr.jpg
+category: cheese-cold-cuts
+description: "Premium artisanal cheese and cold cuts, carefully selected for their exceptional quality and authentic Italian taste."
+brand: "AU5125"
 ---
 
-# Auricchio BURRATA 125 Gr
+# Auricchio Burrata 125 Gr
 
-Traditional auricchio burrata 125 gr made with time-honored methods and finest ingredients.
+Premium artisanal cheese and cold cuts, carefully selected for their exceptional quality and authentic Italian taste.
 
 **Category:** Cheese Cold Cuts
+**Brand:** AU5125

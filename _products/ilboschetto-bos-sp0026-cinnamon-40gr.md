@@ -1,12 +1,15 @@
 ---
-title: "IlBoschetto BOS SP0026 Cinnamon 40gr"
-image: "media/DRY PRODUCTS/BOSCHETTO PICS/IlBoschetto_BOS-SP0026 Cinnamon 40gr.png"
-category: "sauces-condiments"
-description: "Traditional ilboschetto bos sp0026 cinnamon 40gr bringing genuine Italian flavors to your table."
+id: ilboschetto-bos-sp0026-cinnamon-40gr
+name: "Ilboschetto Bos Sp0026 Cinnamon 40gr"
+image: media/4 SAUCES CONDIMENTS/BOSCHETTO PICS/IlBoschetto_BOS-SP0026 Cinnamon 40gr.png
+category: sauces-condiments
+description: "Authentic Italian sauces and condiments made with traditional recipes and the finest ingredients."
+brand: "BOSCHETTO"
 ---
 
-# IlBoschetto BOS SP0026 Cinnamon 40gr
+# Ilboschetto Bos Sp0026 Cinnamon 40gr
 
-Traditional ilboschetto bos sp0026 cinnamon 40gr bringing genuine Italian flavors to your table.
+Authentic Italian sauces and condiments made with traditional recipes and the finest ingredients.
 
 **Category:** Sauces Condiments
+**Brand:** BOSCHETTO

@@ -1,12 +1,15 @@
 ---
-title: "CANNAMELA ROSMARINO FRANTUMATO"
-image: "media/DRY PRODUCTS/CANNAMELA PICS/CANNAMELA ROSMARINO FRANTUMATO.png"
-category: "sauces-condiments"
-description: "Authentic cannamela rosmarino frantumato perfect for enhancing your culinary creations."
+id: cannamela-rosmarino-frantumato
+name: "Cannamela Rosmarino Frantumato"
+image: media/4 SAUCES CONDIMENTS/LEONARDI PICTURES/CANNAMELA PICS/CANNAMELA ROSMARINO FRANTUMATO.png
+category: sauces-condiments
+description: "Authentic Italian sauces and condiments made with traditional recipes and the finest ingredients."
+brand: "CANNAMELA"
 ---
 
-# CANNAMELA ROSMARINO FRANTUMATO
+# Cannamela Rosmarino Frantumato
 
-Authentic cannamela rosmarino frantumato perfect for enhancing your culinary creations.
+Authentic Italian sauces and condiments made with traditional recipes and the finest ingredients.
 
 **Category:** Sauces Condiments
+**Brand:** CANNAMELA

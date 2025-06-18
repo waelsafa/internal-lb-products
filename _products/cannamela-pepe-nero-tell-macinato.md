@@ -1,12 +1,15 @@
 ---
-title: "CANNAMELA PEPE NERO TELL. MACINATO"
-image: "media/DRY PRODUCTS/CANNAMELA PICS/CANNAMELA PEPE NERO TELL. MACINATO.png"
-category: "coffee-tea"
-description: "Authentic cannamela pepe nero tell. macinato bringing traditional taste to your daily ritual."
+id: cannamela-pepe-nero-tell-macinato
+name: "Cannamela Pepe Nero Tell. Macinato"
+image: media/4 SAUCES CONDIMENTS/LEONARDI PICTURES/CANNAMELA PICS/CANNAMELA PEPE NERO TELL. MACINATO.png
+category: sauces-condiments
+description: "Authentic Italian sauces and condiments made with traditional recipes and the finest ingredients."
+brand: "CANNAMELA"
 ---
 
-# CANNAMELA PEPE NERO TELL. MACINATO
+# Cannamela Pepe Nero Tell. Macinato
 
-Authentic cannamela pepe nero tell. macinato bringing traditional taste to your daily ritual.
+Authentic Italian sauces and condiments made with traditional recipes and the finest ingredients.
 
-**Category:** Coffee Tea
+**Category:** Sauces Condiments
+**Brand:** CANNAMELA

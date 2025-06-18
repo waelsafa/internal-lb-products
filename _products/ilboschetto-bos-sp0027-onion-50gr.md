@@ -1,12 +1,15 @@
 ---
-title: "IlBoschetto BOS SP0027 Onion 50gr"
-image: "media/DRY PRODUCTS/BOSCHETTO PICS/IlBoschetto_BOS-SP0027 Onion 50gr.png"
-category: "sauces-condiments"
-description: "Authentic ilboschetto bos sp0027 onion 50gr perfect for enhancing your culinary creations."
+id: ilboschetto-bos-sp0027-onion-50gr
+name: "Ilboschetto Bos Sp0027 Onion 50gr"
+image: media/4 SAUCES CONDIMENTS/BOSCHETTO PICS/IlBoschetto_BOS-SP0027 Onion 50gr.png
+category: sauces-condiments
+description: "Authentic Italian sauces and condiments made with traditional recipes and the finest ingredients."
+brand: "BOSCHETTO"
 ---
 
-# IlBoschetto BOS SP0027 Onion 50gr
+# Ilboschetto Bos Sp0027 Onion 50gr
 
-Authentic ilboschetto bos sp0027 onion 50gr perfect for enhancing your culinary creations.
+Authentic Italian sauces and condiments made with traditional recipes and the finest ingredients.
 
 **Category:** Sauces Condiments
+**Brand:** BOSCHETTO

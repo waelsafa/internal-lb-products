@@ -1,12 +1,15 @@
 ---
-title: "IlBoschetto BOS SP0050 Ginger 30gr"
-image: "media/DRY PRODUCTS/BOSCHETTO PICS/IlBoschetto_BOS-SP0050 Ginger 30gr.png"
-category: "sauces-condiments"
-description: "Traditional ilboschetto bos sp0050 ginger 30gr bringing genuine Italian flavors to your table."
+id: ilboschetto-bos-sp0050-ginger-30gr
+name: "Ilboschetto Bos Sp0050 Ginger 30gr"
+image: media/4 SAUCES CONDIMENTS/BOSCHETTO PICS/IlBoschetto_BOS-SP0050 Ginger 30gr.png
+category: sauces-condiments
+description: "Authentic Italian sauces and condiments made with traditional recipes and the finest ingredients."
+brand: "BOSCHETTO"
 ---
 
-# IlBoschetto BOS SP0050 Ginger 30gr
+# Ilboschetto Bos Sp0050 Ginger 30gr
 
-Traditional ilboschetto bos sp0050 ginger 30gr bringing genuine Italian flavors to your table.
+Authentic Italian sauces and condiments made with traditional recipes and the finest ingredients.
 
 **Category:** Sauces Condiments
+**Brand:** BOSCHETTO

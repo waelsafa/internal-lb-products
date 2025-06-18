@@ -1,12 +1,15 @@
 ---
-title: "IlBoschetto BOS SP0036 Nutmeg 45gr"
-image: "media/DRY PRODUCTS/BOSCHETTO PICS/IlBoschetto_BOS-SP0036 Nutmeg 45gr.png"
-category: "sauces-condiments"
-description: "Traditional ilboschetto bos sp0036 nutmeg 45gr bringing genuine Italian flavors to your table."
+id: ilboschetto-bos-sp0036-nutmeg-45gr
+name: "Ilboschetto Bos Sp0036 Nutmeg 45gr"
+image: media/4 SAUCES CONDIMENTS/BOSCHETTO PICS/IlBoschetto_BOS-SP0036 Nutmeg 45gr.png
+category: sauces-condiments
+description: "Authentic Italian sauces and condiments made with traditional recipes and the finest ingredients."
+brand: "BOSCHETTO"
 ---
 
-# IlBoschetto BOS SP0036 Nutmeg 45gr
+# Ilboschetto Bos Sp0036 Nutmeg 45gr
 
-Traditional ilboschetto bos sp0036 nutmeg 45gr bringing genuine Italian flavors to your table.
+Authentic Italian sauces and condiments made with traditional recipes and the finest ingredients.
 
 **Category:** Sauces Condiments
+**Brand:** BOSCHETTO

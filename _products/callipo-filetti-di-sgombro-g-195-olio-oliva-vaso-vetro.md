@@ -1,12 +1,15 @@
 ---
-title: "Callipo Filetti Di Sgombro G.195 Olio Oliva Vaso Vetro"
-image: "media/DRY PRODUCTS/CALLIPO PICS/Callipo Filetti di Sgombro g.195 olio oliva vaso vetro.png"
-category: "sauces-condiments"
-description: "Premium callipo filetti di sgombro g.195 olio oliva vaso vetro made with carefully selected ingredients."
+id: callipo-filetti-di-sgombro-g-195-olio-oliva-vaso-vetro
+name: "Callipo Filetti Di Sgombro G.195 Olio Oliva Vaso Vetro"
+image: media/FISH PRODUCTS/CALLIPO PICS/Callipo Filetti di Sgombro g.195 olio oliva vaso vetro.png
+category: antipasti
+description: "Traditional Italian antipasti featuring the finest preserved vegetables, seafood, and gourmet appetizers."
+brand: "CALLIPO"
 ---
 
 # Callipo Filetti Di Sgombro G.195 Olio Oliva Vaso Vetro
 
-Premium callipo filetti di sgombro g.195 olio oliva vaso vetro made with carefully selected ingredients.
+Traditional Italian antipasti featuring the finest preserved vegetables, seafood, and gourmet appetizers.
 
-**Category:** Sauces Condiments
+**Category:** Antipasti
+**Brand:** CALLIPO

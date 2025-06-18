@@ -1,12 +1,15 @@
 ---
-title: "CANNAMELA PAPRIKA FORTE"
-image: "media/DRY PRODUCTS/CANNAMELA PICS/CANNAMELA PAPRIKA FORTE.png"
-category: "coffee-tea"
-description: "Premium cannamela paprika forte with rich aroma and exceptional flavor profile."
+id: cannamela-paprika-forte
+name: "Cannamela Paprika Forte"
+image: media/4 SAUCES CONDIMENTS/LEONARDI PICTURES/CANNAMELA PICS/CANNAMELA PAPRIKA FORTE.png
+category: sauces-condiments
+description: "Authentic Italian sauces and condiments made with traditional recipes and the finest ingredients."
+brand: "CANNAMELA"
 ---
 
-# CANNAMELA PAPRIKA FORTE
+# Cannamela Paprika Forte
 
-Premium cannamela paprika forte with rich aroma and exceptional flavor profile.
+Authentic Italian sauces and condiments made with traditional recipes and the finest ingredients.
 
-**Category:** Coffee Tea
+**Category:** Sauces Condiments
+**Brand:** CANNAMELA

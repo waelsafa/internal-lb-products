@@ -1,12 +1,15 @@
 ---
-title: "CANNAMELA ORIGANO FOGLIE"
-image: "media/DRY PRODUCTS/CANNAMELA PICS/CANNAMELA ORIGANO FOGLIE.png"
-category: "sauces-condiments"
-description: "Premium cannamela origano foglie made with carefully selected ingredients."
+id: cannamela-origano-foglie
+name: "Cannamela Origano Foglie"
+image: media/4 SAUCES CONDIMENTS/LEONARDI PICTURES/CANNAMELA PICS/CANNAMELA ORIGANO FOGLIE.png
+category: sauces-condiments
+description: "Authentic Italian sauces and condiments made with traditional recipes and the finest ingredients."
+brand: "CANNAMELA"
 ---
 
-# CANNAMELA ORIGANO FOGLIE
+# Cannamela Origano Foglie
 
-Premium cannamela origano foglie made with carefully selected ingredients.
+Authentic Italian sauces and condiments made with traditional recipes and the finest ingredients.
 
 **Category:** Sauces Condiments
+**Brand:** CANNAMELA

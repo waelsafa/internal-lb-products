@@ -1,12 +1,15 @@
 ---
-title: "Confettura Arance Bio 8370 Fazio2019"
-image: "media/DRY PRODUCTS/CALLIPO PICS/confettura arance bio_8370 - Fazio2019.jpg"
-category: "sauces-condiments"
-description: "Premium confettura arance bio 8370 fazio2019 made with carefully selected ingredients."
+id: confettura-arance-bio-8370-fazio2019
+name: "Confettura Arance Bio 8370 Fazio2019"
+image: media/FISH PRODUCTS/CALLIPO PICS/confettura arance bio_8370 - Fazio2019.jpg
+category: antipasti
+description: "Traditional Italian antipasti featuring the finest preserved vegetables, seafood, and gourmet appetizers."
+brand: "CALLIPO"
 ---
 
 # Confettura Arance Bio 8370 Fazio2019
 
-Premium confettura arance bio 8370 fazio2019 made with carefully selected ingredients.
+Traditional Italian antipasti featuring the finest preserved vegetables, seafood, and gourmet appetizers.
 
-**Category:** Sauces Condiments
+**Category:** Antipasti
+**Brand:** CALLIPO

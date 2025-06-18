@@ -1,12 +1,15 @@
 ---
-title: "Boschi1961 BOS OL0038 Infusolio Lemon 200ml"
-image: "media/DRY PRODUCTS/BOSCHETTO PICS/Boschi1961_BOS-OL0038 Infusolio Lemon 200ml.png"
-category: "sauces-condiments"
-description: "Authentic boschi1961 bos ol0038 infusolio lemon 200ml perfect for enhancing your culinary creations."
+id: boschi1961-bos-ol0038-infusolio-lemon-200ml
+name: "Boschi1961 Bos Ol0038 Infusolio Lemon 200ml"
+image: media/4 SAUCES CONDIMENTS/BOSCHETTO PICS/Boschi1961_BOS-OL0038 Infusolio Lemon 200ml.png
+category: sauces-condiments
+description: "Authentic Italian sauces and condiments made with traditional recipes and the finest ingredients."
+brand: "BOSCHETTO"
 ---
 
-# Boschi1961 BOS OL0038 Infusolio Lemon 200ml
+# Boschi1961 Bos Ol0038 Infusolio Lemon 200ml
 
-Authentic boschi1961 bos ol0038 infusolio lemon 200ml perfect for enhancing your culinary creations.
+Authentic Italian sauces and condiments made with traditional recipes and the finest ingredients.
 
 **Category:** Sauces Condiments
+**Brand:** BOSCHETTO

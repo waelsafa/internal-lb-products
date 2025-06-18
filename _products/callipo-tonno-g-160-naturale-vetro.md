@@ -1,12 +1,15 @@
 ---
-title: "Callipo Tonno G.160 Naturale Vetro"
-image: "media/DRY PRODUCTS/CALLIPO PICS/Callipo Tonno g.160 naturale vetro .png"
-category: "sauces-condiments"
-description: "Traditional callipo tonno g.160 naturale vetro bringing genuine Italian flavors to your table."
+id: callipo-tonno-g-160-naturale-vetro
+name: "Callipo Tonno G.160 Naturale Vetro"
+image: media/FISH PRODUCTS/CALLIPO PICS/Callipo Tonno g.160 naturale vetro .png
+category: antipasti
+description: "Traditional Italian antipasti featuring the finest preserved vegetables, seafood, and gourmet appetizers."
+brand: "CALLIPO"
 ---
 
 # Callipo Tonno G.160 Naturale Vetro
 
-Traditional callipo tonno g.160 naturale vetro bringing genuine Italian flavors to your table.
+Traditional Italian antipasti featuring the finest preserved vegetables, seafood, and gourmet appetizers.
 
-**Category:** Sauces Condiments
+**Category:** Antipasti
+**Brand:** CALLIPO

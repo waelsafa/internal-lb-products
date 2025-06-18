@@ -1,12 +1,15 @@
 ---
-title: "CANNAMELA ROSMARINO FOGLIE"
-image: "media/DRY PRODUCTS/CANNAMELA PICS/CANNAMELA ROSMARINO FOGLIE.png"
-category: "sauces-condiments"
-description: "Traditional cannamela rosmarino foglie bringing genuine Italian flavors to your table."
+id: cannamela-rosmarino-foglie
+name: "Cannamela Rosmarino Foglie"
+image: media/4 SAUCES CONDIMENTS/LEONARDI PICTURES/CANNAMELA PICS/CANNAMELA ROSMARINO FOGLIE.png
+category: sauces-condiments
+description: "Authentic Italian sauces and condiments made with traditional recipes and the finest ingredients."
+brand: "CANNAMELA"
 ---
 
-# CANNAMELA ROSMARINO FOGLIE
+# Cannamela Rosmarino Foglie
 
-Traditional cannamela rosmarino foglie bringing genuine Italian flavors to your table.
+Authentic Italian sauces and condiments made with traditional recipes and the finest ingredients.
 
 **Category:** Sauces Condiments
+**Brand:** CANNAMELA

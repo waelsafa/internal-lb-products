@@ -1,12 +1,15 @@
 ---
-title: "Auricchio PROVOLONE CLASSICO 200gr"
-image: "media/FRESH PRODUCTS/AU50G2B/Auricchio PROVOLONE CLASSICO 200gr.jpg"
-category: "cheese-cold-cuts"
-description: "Traditional auricchio provolone classico 200gr made with time-honored methods and finest ingredients."
+id: auricchio-provolone-classico-200gr
+name: "Auricchio Provolone Classico 200gr"
+image: media/1 CHEESE AND COLD CUTS/AURICCHIO PICS/AU50G2B/Auricchio PROVOLONE CLASSICO 200gr.jpg
+category: cheese-cold-cuts
+description: "Premium artisanal cheese and cold cuts, carefully selected for their exceptional quality and authentic Italian taste."
+brand: "AU50G2B"
 ---
 
-# Auricchio PROVOLONE CLASSICO 200gr
+# Auricchio Provolone Classico 200gr
 
-Traditional auricchio provolone classico 200gr made with time-honored methods and finest ingredients.
+Premium artisanal cheese and cold cuts, carefully selected for their exceptional quality and authentic Italian taste.
 
 **Category:** Cheese Cold Cuts
+**Brand:** AU50G2B

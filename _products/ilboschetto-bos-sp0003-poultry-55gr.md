@@ -1,12 +1,15 @@
 ---
-title: "IlBoschetto BOS SP0003 Poultry 55gr"
-image: "media/DRY PRODUCTS/BOSCHETTO PICS/IlBoschetto_BOS-SP0003 Poultry 55gr.png"
-category: "sauces-condiments"
-description: "Premium ilboschetto bos sp0003 poultry 55gr made with carefully selected ingredients."
+id: ilboschetto-bos-sp0003-poultry-55gr
+name: "Ilboschetto Bos Sp0003 Poultry 55gr"
+image: media/4 SAUCES CONDIMENTS/BOSCHETTO PICS/IlBoschetto_BOS-SP0003 Poultry 55gr.png
+category: sauces-condiments
+description: "Authentic Italian sauces and condiments made with traditional recipes and the finest ingredients."
+brand: "BOSCHETTO"
 ---
 
-# IlBoschetto BOS SP0003 Poultry 55gr
+# Ilboschetto Bos Sp0003 Poultry 55gr
 
-Premium ilboschetto bos sp0003 poultry 55gr made with carefully selected ingredients.
+Authentic Italian sauces and condiments made with traditional recipes and the finest ingredients.
 
 **Category:** Sauces Condiments
+**Brand:** BOSCHETTO

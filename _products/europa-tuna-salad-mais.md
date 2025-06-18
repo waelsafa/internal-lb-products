@@ -1,12 +1,15 @@
 ---
-title: "Europa Tuna Salad Mais"
-image: "media/DRY PRODUCTS/CALLIPO PICS/Europa Tuna Salad_Mais.jpg"
-category: "sauces-condiments"
-description: "Premium europa tuna salad mais made with carefully selected ingredients."
+id: europa-tuna-salad-mais
+name: "Europa Tuna Salad Mais"
+image: media/FISH PRODUCTS/CALLIPO PICS/Europa Tuna Salad_Mais.jpg
+category: antipasti
+description: "Traditional Italian antipasti featuring the finest preserved vegetables, seafood, and gourmet appetizers."
+brand: "CALLIPO"
 ---
 
 # Europa Tuna Salad Mais
 
-Premium europa tuna salad mais made with carefully selected ingredients.
+Traditional Italian antipasti featuring the finest preserved vegetables, seafood, and gourmet appetizers.
 
-**Category:** Sauces Condiments
+**Category:** Antipasti
+**Brand:** CALLIPO

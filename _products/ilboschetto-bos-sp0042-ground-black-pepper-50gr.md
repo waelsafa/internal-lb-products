@@ -1,12 +1,15 @@
 ---
-title: "IlBoschetto BOS SP0042 Ground Black Pepper 50gr"
-image: "media/DRY PRODUCTS/BOSCHETTO PICS/IlBoschetto_BOS-SP0042 Ground Black Pepper 50gr.png"
-category: "sauces-condiments"
-description: "Premium ilboschetto bos sp0042 ground black pepper 50gr made with carefully selected ingredients."
+id: ilboschetto-bos-sp0042-ground-black-pepper-50gr
+name: "Ilboschetto Bos Sp0042 Ground Black Pepper 50gr"
+image: media/4 SAUCES CONDIMENTS/BOSCHETTO PICS/IlBoschetto_BOS-SP0042 Ground Black Pepper 50gr.png
+category: sauces-condiments
+description: "Authentic Italian sauces and condiments made with traditional recipes and the finest ingredients."
+brand: "BOSCHETTO"
 ---
 
-# IlBoschetto BOS SP0042 Ground Black Pepper 50gr
+# Ilboschetto Bos Sp0042 Ground Black Pepper 50gr
 
-Premium ilboschetto bos sp0042 ground black pepper 50gr made with carefully selected ingredients.
+Authentic Italian sauces and condiments made with traditional recipes and the finest ingredients.
 
 **Category:** Sauces Condiments
+**Brand:** BOSCHETTO

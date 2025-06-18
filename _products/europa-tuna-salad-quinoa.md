@@ -1,12 +1,15 @@
 ---
-title: "Europa Tuna Salad Quinoa"
-image: "media/DRY PRODUCTS/CALLIPO PICS/Europa Tuna Salad Quinoa.jpg"
-category: "sauces-condiments"
-description: "Premium europa tuna salad quinoa made with carefully selected ingredients."
+id: europa-tuna-salad-quinoa
+name: "Europa Tuna Salad Quinoa"
+image: media/FISH PRODUCTS/CALLIPO PICS/Europa Tuna Salad Quinoa.jpg
+category: antipasti
+description: "Traditional Italian antipasti featuring the finest preserved vegetables, seafood, and gourmet appetizers."
+brand: "CALLIPO"
 ---
 
 # Europa Tuna Salad Quinoa
 
-Premium europa tuna salad quinoa made with carefully selected ingredients.
+Traditional Italian antipasti featuring the finest preserved vegetables, seafood, and gourmet appetizers.
 
-**Category:** Sauces Condiments
+**Category:** Antipasti
+**Brand:** CALLIPO

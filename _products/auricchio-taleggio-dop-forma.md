@@ -1,12 +1,15 @@
 ---
-title: "Auricchio TALEGGIO DOP Forma"
-image: "media/FRESH PRODUCTS/AU0900/Auricchio TALEGGIO DOP Forma.jpg"
-category: "cheese-cold-cuts"
-description: "Artisanal auricchio taleggio dop forma offering rich flavors and superior texture."
+id: auricchio-taleggio-dop-forma
+name: "Auricchio Taleggio Dop Forma"
+image: media/1 CHEESE AND COLD CUTS/AURICCHIO PICS/AU0900/Auricchio TALEGGIO DOP Forma.jpg
+category: cheese-cold-cuts
+description: "Premium artisanal cheese and cold cuts, carefully selected for their exceptional quality and authentic Italian taste."
+brand: "AU0900"
 ---
 
-# Auricchio TALEGGIO DOP Forma
+# Auricchio Taleggio Dop Forma
 
-Artisanal auricchio taleggio dop forma offering rich flavors and superior texture.
+Premium artisanal cheese and cold cuts, carefully selected for their exceptional quality and authentic Italian taste.
 
 **Category:** Cheese Cold Cuts
+**Brand:** AU0900

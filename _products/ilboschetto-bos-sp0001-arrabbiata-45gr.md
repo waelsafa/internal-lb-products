@@ -1,12 +1,15 @@
 ---
-title: "IlBoschetto BOS SP0001 Arrabbiata 45gr"
-image: "media/DRY PRODUCTS/BOSCHETTO PICS/IlBoschetto_BOS-SP0001 Arrabbiata 45gr.png"
-category: "sauces-condiments"
-description: "Authentic ilboschetto bos sp0001 arrabbiata 45gr perfect for enhancing your culinary creations."
+id: ilboschetto-bos-sp0001-arrabbiata-45gr
+name: "Ilboschetto Bos Sp0001 Arrabbiata 45gr"
+image: media/4 SAUCES CONDIMENTS/BOSCHETTO PICS/IlBoschetto_BOS-SP0001 Arrabbiata 45gr.png
+category: sauces-condiments
+description: "Authentic Italian sauces and condiments made with traditional recipes and the finest ingredients."
+brand: "BOSCHETTO"
 ---
 
-# IlBoschetto BOS SP0001 Arrabbiata 45gr
+# Ilboschetto Bos Sp0001 Arrabbiata 45gr
 
-Authentic ilboschetto bos sp0001 arrabbiata 45gr perfect for enhancing your culinary creations.
+Authentic Italian sauces and condiments made with traditional recipes and the finest ingredients.
 
 **Category:** Sauces Condiments
+**Brand:** BOSCHETTO

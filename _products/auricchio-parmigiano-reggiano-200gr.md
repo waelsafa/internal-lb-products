@@ -1,12 +1,15 @@
 ---
-title: "Auricchio PARMIGIANO REGGIANO 200gr"
-image: "media/FRESH PRODUCTS/AUE84G/Auricchio PARMIGIANO REGGIANO  200gr.jpg"
-category: "cheese-cold-cuts"
-description: "Artisanal auricchio parmigiano reggiano 200gr offering rich flavors and superior texture."
+id: auricchio-parmigiano-reggiano-200gr
+name: "Auricchio Parmigiano Reggiano 200gr"
+image: media/1 CHEESE AND COLD CUTS/AURICCHIO PICS/AUE84G/Auricchio PARMIGIANO REGGIANO  200gr.jpg
+category: cheese-cold-cuts
+description: "Premium artisanal cheese and cold cuts, carefully selected for their exceptional quality and authentic Italian taste."
+brand: "AUE84G"
 ---
 
-# Auricchio PARMIGIANO REGGIANO 200gr
+# Auricchio Parmigiano Reggiano 200gr
 
-Artisanal auricchio parmigiano reggiano 200gr offering rich flavors and superior texture.
+Premium artisanal cheese and cold cuts, carefully selected for their exceptional quality and authentic Italian taste.
 
 **Category:** Cheese Cold Cuts
+**Brand:** AUE84G

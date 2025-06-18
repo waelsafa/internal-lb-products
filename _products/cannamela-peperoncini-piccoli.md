@@ -1,12 +1,15 @@
 ---
-title: "CANNAMELA PEPERONCINI PICCOLI"
-image: "media/DRY PRODUCTS/CANNAMELA PICS/CANNAMELA PEPERONCINI PICCOLI.png"
-category: "sauces-condiments"
-description: "Authentic cannamela peperoncini piccoli perfect for enhancing your culinary creations."
+id: cannamela-peperoncini-piccoli
+name: "Cannamela Peperoncini Piccoli"
+image: media/4 SAUCES CONDIMENTS/LEONARDI PICTURES/CANNAMELA PICS/CANNAMELA PEPERONCINI PICCOLI.png
+category: sauces-condiments
+description: "Authentic Italian sauces and condiments made with traditional recipes and the finest ingredients."
+brand: "CANNAMELA"
 ---
 
-# CANNAMELA PEPERONCINI PICCOLI
+# Cannamela Peperoncini Piccoli
 
-Authentic cannamela peperoncini piccoli perfect for enhancing your culinary creations.
+Authentic Italian sauces and condiments made with traditional recipes and the finest ingredients.
 
 **Category:** Sauces Condiments
+**Brand:** CANNAMELA

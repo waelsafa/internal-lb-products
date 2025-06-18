@@ -1,12 +1,15 @@
 ---
-title: "CANNAMELA ERBE DI PROVENZA"
-image: "media/DRY PRODUCTS/CANNAMELA PICS/CANNAMELA ERBE DI PROVENZA.png"
-category: "sauces-condiments"
-description: "Authentic cannamela erbe di provenza perfect for enhancing your culinary creations."
+id: cannamela-erbe-di-provenza
+name: "Cannamela Erbe Di Provenza"
+image: media/4 SAUCES CONDIMENTS/LEONARDI PICTURES/CANNAMELA PICS/CANNAMELA ERBE DI PROVENZA.png
+category: sauces-condiments
+description: "Authentic Italian sauces and condiments made with traditional recipes and the finest ingredients."
+brand: "CANNAMELA"
 ---
 
-# CANNAMELA ERBE DI PROVENZA
+# Cannamela Erbe Di Provenza
 
-Authentic cannamela erbe di provenza perfect for enhancing your culinary creations.
+Authentic Italian sauces and condiments made with traditional recipes and the finest ingredients.
 
 **Category:** Sauces Condiments
+**Brand:** CANNAMELA

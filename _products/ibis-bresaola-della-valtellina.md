@@ -1,12 +1,15 @@
 ---
-title: "IBIS Bresaola Della Valtellina"
-image: "media/FRESH PRODUCTS/0341073 - IBIS - bresaola della valtellina.jpg"
-category: "cheese-cold-cuts"
-description: "Artisanal ibis bresaola della valtellina offering rich flavors and superior texture."
+id: ibis-bresaola-della-valtellina
+name: "Ibis Bresaola Della Valtellina"
+image: media/1 CHEESE AND COLD CUTS/IBIS/0341073 - IBIS - bresaola della valtellina.jpg
+category: cheese-cold-cuts
+description: "Premium artisanal cheese and cold cuts, carefully selected for their exceptional quality and authentic Italian taste."
+brand: "IBIS"
 ---
 
-# IBIS Bresaola Della Valtellina
+# Ibis Bresaola Della Valtellina
 
-Artisanal ibis bresaola della valtellina offering rich flavors and superior texture.
+Premium artisanal cheese and cold cuts, carefully selected for their exceptional quality and authentic Italian taste.
 
 **Category:** Cheese Cold Cuts
+**Brand:** IBIS

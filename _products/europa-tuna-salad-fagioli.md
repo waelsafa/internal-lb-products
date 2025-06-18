@@ -1,12 +1,15 @@
 ---
-title: "Europa Tuna Salad Fagioli"
-image: "media/DRY PRODUCTS/CALLIPO PICS/Europa Tuna Salad Fagioli.jpg"
-category: "sauces-condiments"
-description: "Premium europa tuna salad fagioli made with carefully selected ingredients."
+id: europa-tuna-salad-fagioli
+name: "Europa Tuna Salad Fagioli"
+image: media/FISH PRODUCTS/CALLIPO PICS/Europa Tuna Salad Fagioli.jpg
+category: antipasti
+description: "Traditional Italian antipasti featuring the finest preserved vegetables, seafood, and gourmet appetizers."
+brand: "CALLIPO"
 ---
 
 # Europa Tuna Salad Fagioli
 
-Premium europa tuna salad fagioli made with carefully selected ingredients.
+Traditional Italian antipasti featuring the finest preserved vegetables, seafood, and gourmet appetizers.
 
-**Category:** Sauces Condiments
+**Category:** Antipasti
+**Brand:** CALLIPO

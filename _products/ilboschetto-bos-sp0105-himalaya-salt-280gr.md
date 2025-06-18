@@ -1,12 +1,15 @@
 ---
-title: "IlBoschetto BOS SP0105 Himalaya Salt 280GR"
-image: "media/DRY PRODUCTS/BOSCHETTO PICS/IlBoschetto - BOS-SP0105 Himalaya Salt 280GR.png"
-category: "sauces-condiments"
-description: "Authentic ilboschetto bos sp0105 himalaya salt 280gr perfect for enhancing your culinary creations."
+id: ilboschetto-bos-sp0105-himalaya-salt-280gr
+name: "Ilboschetto Bos Sp0105 Himalaya Salt 280gr"
+image: media/4 SAUCES CONDIMENTS/BOSCHETTO PICS/IlBoschetto - BOS-SP0105 Himalaya Salt 280GR.png
+category: sauces-condiments
+description: "Authentic Italian sauces and condiments made with traditional recipes and the finest ingredients."
+brand: "BOSCHETTO"
 ---
 
-# IlBoschetto BOS SP0105 Himalaya Salt 280GR
+# Ilboschetto Bos Sp0105 Himalaya Salt 280gr
 
-Authentic ilboschetto bos sp0105 himalaya salt 280gr perfect for enhancing your culinary creations.
+Authentic Italian sauces and condiments made with traditional recipes and the finest ingredients.
 
 **Category:** Sauces Condiments
+**Brand:** BOSCHETTO

@@ -1,12 +1,15 @@
 ---
-title: "CANNAMELA PEPE NERO TELL. GRANI"
-image: "media/DRY PRODUCTS/CANNAMELA PICS/CANNAMELA PEPE NERO TELL. GRANI.png"
-category: "coffee-tea"
-description: "Authentic cannamela pepe nero tell. grani bringing traditional taste to your daily ritual."
+id: cannamela-pepe-nero-tell-grani
+name: "Cannamela Pepe Nero Tell. Grani"
+image: media/4 SAUCES CONDIMENTS/LEONARDI PICTURES/CANNAMELA PICS/CANNAMELA PEPE NERO TELL. GRANI.png
+category: sauces-condiments
+description: "Authentic Italian sauces and condiments made with traditional recipes and the finest ingredients."
+brand: "CANNAMELA"
 ---
 
-# CANNAMELA PEPE NERO TELL. GRANI
+# Cannamela Pepe Nero Tell. Grani
 
-Authentic cannamela pepe nero tell. grani bringing traditional taste to your daily ritual.
+Authentic Italian sauces and condiments made with traditional recipes and the finest ingredients.
 
-**Category:** Coffee Tea
+**Category:** Sauces Condiments
+**Brand:** CANNAMELA

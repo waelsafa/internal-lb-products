@@ -1,12 +1,15 @@
 ---
-title: "Callipo Tonno G.600 Olio Oliva Scatola"
-image: "media/DRY PRODUCTS/CALLIPO PICS/Callipo Tonno g.600 olio oliva scatola.jpg"
-category: "sauces-condiments"
-description: "Traditional callipo tonno g.600 olio oliva scatola bringing genuine Italian flavors to your table."
+id: callipo-tonno-g-600-olio-oliva-scatola
+name: "Callipo Tonno G.600 Olio Oliva Scatola"
+image: media/FISH PRODUCTS/CALLIPO PICS/Callipo Tonno g.600 olio oliva scatola.jpg
+category: antipasti
+description: "Traditional Italian antipasti featuring the finest preserved vegetables, seafood, and gourmet appetizers."
+brand: "CALLIPO"
 ---
 
 # Callipo Tonno G.600 Olio Oliva Scatola
 
-Traditional callipo tonno g.600 olio oliva scatola bringing genuine Italian flavors to your table.
+Traditional Italian antipasti featuring the finest preserved vegetables, seafood, and gourmet appetizers.
 
-**Category:** Sauces Condiments
+**Category:** Antipasti
+**Brand:** CALLIPO

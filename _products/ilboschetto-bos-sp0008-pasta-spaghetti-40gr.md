@@ -1,12 +1,15 @@
 ---
-title: "IlBoschetto BOS SP0008 Pasta&Spaghetti 40gr"
-image: "media/DRY PRODUCTS/BOSCHETTO PICS/IlBoschetto_BOS-SP0008 Pasta&Spaghetti 40gr.png"
-category: "pasta-rice-flour"
-description: "High-quality ilboschetto bos sp0008 pasta&spaghetti 40gr made from the finest durum wheat for perfect texture."
+id: ilboschetto-bos-sp0008-pasta-spaghetti-40gr
+name: "Ilboschetto Bos Sp0008 Pasta&spaghetti 40gr"
+image: media/4 SAUCES CONDIMENTS/BOSCHETTO PICS/IlBoschetto_BOS-SP0008 Pasta&Spaghetti 40gr.png
+category: sauces-condiments
+description: "Authentic Italian sauces and condiments made with traditional recipes and the finest ingredients."
+brand: "BOSCHETTO"
 ---
 
-# IlBoschetto BOS SP0008 Pasta&Spaghetti 40gr
+# Ilboschetto Bos Sp0008 Pasta&spaghetti 40gr
 
-High-quality ilboschetto bos sp0008 pasta&spaghetti 40gr made from the finest durum wheat for perfect texture.
+Authentic Italian sauces and condiments made with traditional recipes and the finest ingredients.
 
-**Category:** Pasta Rice Flour
+**Category:** Sauces Condiments
+**Brand:** BOSCHETTO

@@ -1,12 +1,15 @@
 ---
-title: "Confettura Limone E Zenzero BIO G.280 Vaso Vetro"
-image: "media/DRY PRODUCTS/CALLIPO PICS/Confettura Limone e Zenzero BIO g.280 vaso vetro.png"
-category: "sauces-condiments"
-description: "Premium confettura limone e zenzero bio g.280 vaso vetro made with carefully selected ingredients."
+id: confettura-limone-e-zenzero-bio-g-280-vaso-vetro
+name: "Confettura Limone E Zenzero Bio G.280 Vaso Vetro"
+image: media/FISH PRODUCTS/CALLIPO PICS/Confettura Limone e Zenzero BIO g.280 vaso vetro.png
+category: antipasti
+description: "Traditional Italian antipasti featuring the finest preserved vegetables, seafood, and gourmet appetizers."
+brand: "CALLIPO"
 ---
 
-# Confettura Limone E Zenzero BIO G.280 Vaso Vetro
+# Confettura Limone E Zenzero Bio G.280 Vaso Vetro
 
-Premium confettura limone e zenzero bio g.280 vaso vetro made with carefully selected ingredients.
+Traditional Italian antipasti featuring the finest preserved vegetables, seafood, and gourmet appetizers.
 
-**Category:** Sauces Condiments
+**Category:** Antipasti
+**Brand:** CALLIPO

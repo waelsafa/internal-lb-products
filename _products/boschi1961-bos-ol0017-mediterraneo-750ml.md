@@ -1,12 +1,15 @@
 ---
-title: "Boschi1961 BOS OL0017 Mediterraneo 750ml"
-image: "media/DRY PRODUCTS/BOSCHETTO PICS/Boschi1961_BOS-OL0017 Mediterraneo 750ml.png"
-category: "coffee-tea"
-description: "Authentic boschi1961 bos ol0017 mediterraneo 750ml bringing traditional taste to your daily ritual."
+id: boschi1961-bos-ol0017-mediterraneo-750ml
+name: "Boschi1961 Bos Ol0017 Mediterraneo 750ml"
+image: media/4 SAUCES CONDIMENTS/BOSCHETTO PICS/Boschi1961_BOS-OL0017 Mediterraneo 750ml.png
+category: sauces-condiments
+description: "Authentic Italian sauces and condiments made with traditional recipes and the finest ingredients."
+brand: "BOSCHETTO"
 ---
 
-# Boschi1961 BOS OL0017 Mediterraneo 750ml
+# Boschi1961 Bos Ol0017 Mediterraneo 750ml
 
-Authentic boschi1961 bos ol0017 mediterraneo 750ml bringing traditional taste to your daily ritual.
+Authentic Italian sauces and condiments made with traditional recipes and the finest ingredients.
 
-**Category:** Coffee Tea
+**Category:** Sauces Condiments
+**Brand:** BOSCHETTO

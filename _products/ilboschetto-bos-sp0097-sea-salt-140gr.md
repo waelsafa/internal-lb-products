@@ -1,12 +1,15 @@
 ---
-title: "IlBoschetto BOS SP0097 Sea Salt 140GR"
-image: "media/DRY PRODUCTS/BOSCHETTO PICS/IlBoschetto - BOS-SP0097 Sea Salt 140GR.png"
-category: "sauces-condiments"
-description: "Premium ilboschetto bos sp0097 sea salt 140gr made with carefully selected ingredients."
+id: ilboschetto-bos-sp0097-sea-salt-140gr
+name: "Ilboschetto Bos Sp0097 Sea Salt 140gr"
+image: media/4 SAUCES CONDIMENTS/BOSCHETTO PICS/IlBoschetto - BOS-SP0097 Sea Salt 140GR.png
+category: sauces-condiments
+description: "Authentic Italian sauces and condiments made with traditional recipes and the finest ingredients."
+brand: "BOSCHETTO"
 ---
 
-# IlBoschetto BOS SP0097 Sea Salt 140GR
+# Ilboschetto Bos Sp0097 Sea Salt 140gr
 
-Premium ilboschetto bos sp0097 sea salt 140gr made with carefully selected ingredients.
+Authentic Italian sauces and condiments made with traditional recipes and the finest ingredients.
 
 **Category:** Sauces Condiments
+**Brand:** BOSCHETTO

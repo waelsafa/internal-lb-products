@@ -1,12 +1,15 @@
 ---
-title: "IlBoschetto BOS SP0104 Mix Peppercorns 160GR"
-image: "media/DRY PRODUCTS/BOSCHETTO PICS/IlBoschetto - BOS-SP0104 Mix Peppercorns 160GR.png"
-category: "sauces-condiments"
-description: "Premium ilboschetto bos sp0104 mix peppercorns 160gr made with carefully selected ingredients."
+id: ilboschetto-bos-sp0104-mix-peppercorns-160gr
+name: "Ilboschetto Bos Sp0104 Mix Peppercorns 160gr"
+image: media/4 SAUCES CONDIMENTS/BOSCHETTO PICS/IlBoschetto - BOS-SP0104 Mix Peppercorns 160GR.png
+category: sauces-condiments
+description: "Authentic Italian sauces and condiments made with traditional recipes and the finest ingredients."
+brand: "BOSCHETTO"
 ---
 
-# IlBoschetto BOS SP0104 Mix Peppercorns 160GR
+# Ilboschetto Bos Sp0104 Mix Peppercorns 160gr
 
-Premium ilboschetto bos sp0104 mix peppercorns 160gr made with carefully selected ingredients.
+Authentic Italian sauces and condiments made with traditional recipes and the finest ingredients.
 
 **Category:** Sauces Condiments
+**Brand:** BOSCHETTO

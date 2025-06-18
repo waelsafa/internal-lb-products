@@ -1,12 +1,15 @@
 ---
-title: "IlBoschetto BOS SP0004 Salads&Caprese 42gr"
-image: "media/DRY PRODUCTS/BOSCHETTO PICS/IlBoschetto_BOS-SP0004 Salads&Caprese 42gr.png"
-category: "sauces-condiments"
-description: "Traditional ilboschetto bos sp0004 salads&caprese 42gr bringing genuine Italian flavors to your table."
+id: ilboschetto-bos-sp0004-salads-caprese-42gr
+name: "Ilboschetto Bos Sp0004 Salads&caprese 42gr"
+image: media/4 SAUCES CONDIMENTS/BOSCHETTO PICS/IlBoschetto_BOS-SP0004 Salads&Caprese 42gr.png
+category: sauces-condiments
+description: "Authentic Italian sauces and condiments made with traditional recipes and the finest ingredients."
+brand: "BOSCHETTO"
 ---
 
-# IlBoschetto BOS SP0004 Salads&Caprese 42gr
+# Ilboschetto Bos Sp0004 Salads&caprese 42gr
 
-Traditional ilboschetto bos sp0004 salads&caprese 42gr bringing genuine Italian flavors to your table.
+Authentic Italian sauces and condiments made with traditional recipes and the finest ingredients.
 
 **Category:** Sauces Condiments
+**Brand:** BOSCHETTO

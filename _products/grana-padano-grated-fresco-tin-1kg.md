@@ -1,12 +1,15 @@
 ---
-title: "GRANA PADANO Grated Fresco Tin 1Kg"
-image: "media/FRESH PRODUCTS/AU4100/GRANA PADANO Grated Fresco tin 1Kg.jpg"
-category: "cheese-cold-cuts"
-description: "Artisanal grana padano grated fresco tin 1kg offering rich flavors and superior texture."
+id: grana-padano-grated-fresco-tin-1kg
+name: "Grana Padano Grated Fresco Tin 1kg"
+image: media/1 CHEESE AND COLD CUTS/AURICCHIO PICS/AU4100/GRANA PADANO Grated Fresco tin 1Kg.jpg
+category: cheese-cold-cuts
+description: "Premium artisanal cheese and cold cuts, carefully selected for their exceptional quality and authentic Italian taste."
+brand: "AU4100"
 ---
 
-# GRANA PADANO Grated Fresco Tin 1Kg
+# Grana Padano Grated Fresco Tin 1kg
 
-Artisanal grana padano grated fresco tin 1kg offering rich flavors and superior texture.
+Premium artisanal cheese and cold cuts, carefully selected for their exceptional quality and authentic Italian taste.
 
 **Category:** Cheese Cold Cuts
+**Brand:** AU4100
