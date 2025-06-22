@@ -179,10 +179,9 @@ header {
   font-family: 'Roboto', sans-serif;
   transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
   overflow: hidden;
-  border: 1px solid rgba(32, 157, 80, 0.08);
+  border: 1px solid #e0e0e0;
   position: relative;
   height: 320px;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
 }
 
 @media(max-width: 720px) {
@@ -422,26 +421,22 @@ footer {
     margin-top: 20px;
     column-fill: auto;
   }
-  
-  .product-card {
+    .product-card {
     display: inline-block;
     width: 100%;
     margin-bottom: 16px;
     break-inside: avoid;
     border-radius: 12px;
     overflow: hidden;
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+    border: 1px solid #e0e0e0;
     height: auto;
-    vertical-align: top;
   }
-  
-  .product-card img {
+    .product-card img {
     width: 100%;
     height: auto;
-    object-fit: contain;
+    object-fit: cover;
     border-radius: 12px;
     display: block;
-    max-height: none;
   }
   
   .filters-container {
@@ -501,6 +496,7 @@ footer {
     column-gap: 12px;
     margin-top: 20px;
     padding: 0 10px;
+    column-fill: auto;
   }
   
   .product-card {
@@ -510,7 +506,7 @@ footer {
     break-inside: avoid;
     border-radius: 16px;
     overflow: hidden;
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    border: 1px solid #e0e0e0;
     height: auto;
   }
   

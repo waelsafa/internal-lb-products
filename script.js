@@ -47,7 +47,6 @@ document.addEventListener("DOMContentLoaded", function () {
       `;
     }
   }
-
   function displayProducts() {
     const startIndex = (currentPage - 1) * productsPerPage;
     const endIndex = startIndex + productsPerPage;
@@ -64,21 +63,22 @@ document.addEventListener("DOMContentLoaded", function () {
       return;
     }
 
-    productsToShow.forEach((product, index) => {
+    // Create all cards first
+    const cardHTML = productsToShow.map((product, index) => {
       if (!product.image) {
         console.warn('Skipping product due to missing image:', product);
-        return;
+        return '';
       }
       
-      const card = document.createElement("div");
-      card.classList.add("product-card", "fade-in");
-      card.style.animationDelay = `${index * 0.1}s`;
-
-      card.innerHTML = `
-        <img src="${product.image}" alt="${product.name}" loading="lazy" onerror="this.src='data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIwIiBoZWlnaHQ9IjMyMCIgdmlld0JveD0iMCAwIDMyMCAzMjAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHJlY3Qgd2lkdGg9IjMyMCIgaGVpZ2h0PSIzMjAiIGZpbGw9IiNmNGY0ZjQiLz48cGF0aCBkPSJNMTYwIDEwMGMtMTYuNTcgMC0zMCAxMy40My0zMCAzMHMxMy40MyAzMCAzMCAzMCAzMC0xMy40MyAzMC0zMC0xMy40My0zMC0zMC0zMHptMCA0MGMtNS41MiAwLTEwLTQuNDgtMTAtMTBzNC40OC0xMCAxMC0xMCAxMCA0LjQ4IDEwIDEwLTQuNDggMTAtMTAgMTB6bTAtNjBjLTMzLjE0IDAtNjAgMjYuODYtNjAgNjBzMjYuODYgNjAgNjAgNjAgNjAtMjYuODYgNjAtNjAtMjYuODYtNjAtNjAtNjB6bTAgMTAwYy0yMi4wOSAwLTQwLTE3LjkxLTQwLTQwczE3LjkxLTQwIDQwLTQwIDQwIDE3LjkxIDQwIDQwLTE3LjkxIDQwLTQwIDQweiIgZmlsbD0iIzk5OTk5OSIvPjwvc3ZnPg=='" />
+      return `
+        <div class="product-card fade-in" style="animation-delay: ${index * 0.1}s;">
+          <img src="${product.image}" alt="${product.name}" loading="lazy" onerror="this.src='data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIwIiBoZWlnaHQ9IjMyMCIgdmlld0JveD0iMCAwIDMyMCAzMjAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHJlY3Qgd2lkdGg9IjMyMCIgaGVpZ2h0PSIzMjAiIGZpbGw9IiNmNGY0ZjQiLz48cGF0aCBkPSJNMTYwIDEwMGMtMTYuNTcgMC0zMCAxMy40My0zMCAzMHMxMy40MyAzMCAzMCAzMCAzMC0xMy40MyAzMC0zMC0xMy40My0zMC0zMC0zMHptMCA0MGMtNS41MiAwLTEwLTQuNDgtMTAtMTBzNC40OC0xMCAxMC0xMCAxMCA0LjQ4IDEwIDEwLTQuNDggMTAtMTAgMTB6bTAtNjBjLTMzLjE0IDAtNjAgMjYuODYtNjAgNjBzMjYuODYgNjAgNjAgNjAgNjAtMjYuODYgNjAtNjAtMjYuODYtNjAtNjAtNjB6bTAgMTAwYy0yMi4wOSAwLTQwLTE3LjkxLTQwLTQwczE3LjkxLTQwIDQwLTQwIDQwIDE3LjkxIDQwIDQwLTE3LjkxIDQwLTQwIDQweiIgZmlsbD0iIzk5OTk5OSIvPjwvc3ZnPg=='" />
+        </div>
       `;
-      productGrid.appendChild(card);
-    });
+    }).filter(html => html !== '').join('');
+
+    // Set all HTML at once for better masonry layout
+    productGrid.innerHTML = cardHTML;
   }
 
   function updatePagination() {
