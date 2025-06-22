@@ -107,7 +107,6 @@ header {
 }
 
 .filter-button {
-  padding: 16px 24px;
   border: 2px solid var(--sage-green);
   background: var(--pure-white);
   color: var(--text-medium);
@@ -375,11 +374,13 @@ footer {
 /* Responsive Design */
 @media (max-width: 1024px) {
   .filters-grid {
-    grid-template-columns: repeat(4, 1fr);
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
     grid-template-areas: 
-      "btn1 btn2 btn3 btn4"
-      "btn5 btn6 btn7 btn8";
-    gap: 14px;
+      "btn1 btn2"
+      "btn3 btn4"
+      "btn5 btn6"
+      "btn7 btn8";
   }
   
   .product-grid {
@@ -395,14 +396,8 @@ footer {
     .tagline {
     font-size: 1.1rem;
   }
-    .filters-grid {
-    grid-template-columns: repeat(2, 1fr);
-    grid-template-areas: initial;
-    gap: 16px;
-  }
   
   .filter-button {
-    padding: 18px 8px;
     font-size: 14px;
     height: auto;
     min-height: 64px;
@@ -453,7 +448,6 @@ footer {
   }
   
   .filter-button {
-    padding: 20px 16px;
     font-size: 16px;
     height: auto;
     min-height: 60px;
