@@ -184,6 +184,12 @@ header {
   height: 320px;
 }
 
+@media(max-width: 720px) {
+  .product-card {
+    height: auto;
+  }
+}
+
 .product-card::before {
   content: '';
   position: absolute;
@@ -375,7 +381,7 @@ footer {
 @media (max-width: 1024px) {
   .filters-grid {
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(2, 1fr);
     grid-template-areas: 
       "btn1 btn2"
       "btn3 btn4"
@@ -443,8 +449,13 @@ footer {
     font-size: 1rem;
   }
     .filters-grid {
-    grid-template-columns: 1fr;
-    gap: 14px;
+        grid-template-areas:
+        "btn1 btn2"
+        "btn3 btn4"
+        "btn5 btn6"
+        "btn7 btn8";
+        gap: 14px;
+        grid-template-columns: repeat(2, 1fr);
   }
   
   .filter-button {
@@ -459,7 +470,7 @@ footer {
   }
   
   .product-grid {
-    grid-template-columns: 1fr;
+    grid-template-columns: repeat(2, 1fr);
   }
   
   .filters-container {
