@@ -391,8 +391,8 @@ footer {
   }
   
   .product-grid {
-    grid-template-columns: repeat(3, 1fr);
-    gap: 28px;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 24px;
   }
 }
 
@@ -420,6 +420,7 @@ footer {
     columns: 2;
     column-gap: 16px;
     margin-top: 20px;
+    column-fill: auto;
   }
   
   .product-card {
@@ -431,14 +432,16 @@ footer {
     overflow: hidden;
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
     height: auto;
+    vertical-align: top;
   }
   
   .product-card img {
     width: 100%;
     height: auto;
-    object-fit: cover;
+    object-fit: contain;
     border-radius: 12px;
     display: block;
+    max-height: none;
   }
   
   .filters-container {
