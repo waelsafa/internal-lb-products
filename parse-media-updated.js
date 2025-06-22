@@ -14,7 +14,9 @@ const categoryMapping = {
     'olive', 'olives', 'antipasto', 'antipasti', 'bruschetta', 'taralli',
     'grissini', 'crackers', 'marinated', 'pickled', 'preserved', 'artichoke',
     'sun dried', 'tomato', 'pepper', 'eggplant', 'zucchini', 'capers',
-    'anchovies', 'tuna', 'sardines', 'fish', 'seafood', 'callipo', 'parodi', 'zarotti'
+    'anchovies', 'tuna', 'sardines', 'fish', 'seafood', 'callipo', 'parodi', 'zarotti',
+    'truffle', 'tartufo', 'carciofi', 'capperi', 'pomodori', 'cetriolini',
+    'cipolline', 'aglio', 'pesto', 'salsa', 'damico', 'urbani'
   ],
   'sauces-condiments': [
     'sauce', 'condiment', 'pesto', 'vinegar', 'oil', 'olive oil', 'balsamic',
@@ -54,7 +56,8 @@ function determineCategory(filename, brand, folderPath) {
   if (lowerFolderPath.includes('cheese') || lowerFolderPath.includes('cold cuts')) {
     return 'cheese-cold-cuts';
   }
-  if (lowerFolderPath.includes('fish') || lowerFolderPath.includes('seafood')) {
+  if (lowerFolderPath.includes('fish') || lowerFolderPath.includes('seafood') || 
+      lowerFolderPath.includes('antipasti') || lowerFolderPath.includes('truffle')) {
     return 'antipasti';
   }
   if (lowerFolderPath.includes('sauce') || lowerFolderPath.includes('condiment')) {
