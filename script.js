@@ -22,24 +22,73 @@ document.addEventListener("DOMContentLoaded", function () {
     products.forEach((product, index) => {
       if (index < 5) {
         console.log(`Product ${index}:`, {
-          name: product.name,
+          title: product.title,
           category: product.category,
-          subcategory: product.subcategory
+          image: product.image
         });
       }
       
       const category = product.category;
-      let subcategory = product.subcategory;
+      let subcategory = null;
+      
+      // Extract subcategory from image path
+      if (product.image) {
+        const imagePath = product.image;
+        
+        // Extract brand from image path patterns
+        if (imagePath.includes('AURICCHIO')) {
+          subcategory = 'AURICCHIO';
+        } else if (imagePath.includes('CENTRAL CHEESE')) {
+          subcategory = 'CENTRAL CHEESE';
+        } else if (imagePath.includes('MALDERA')) {
+          subcategory = 'MALDERA';
+        } else if (imagePath.includes('IBIS')) {
+          subcategory = 'IBIS';
+        } else if (imagePath.includes('LEVONI')) {
+          subcategory = 'LEVONI';
+        } else if (imagePath.includes('CAPUTO')) {
+          subcategory = 'CAPUTO';
+        } else if (imagePath.includes('DE CECCO')) {
+          subcategory = 'DE CECCO';
+        } else if (imagePath.includes('PAGANI')) {
+          subcategory = 'PAGANI';
+        } else if (imagePath.includes('RUSTICHELLA')) {
+          subcategory = 'RUSTICHELLA D\'ABRUZZO';
+        } else if (imagePath.includes('SCOTTI')) {
+          subcategory = 'SCOTTI';
+        } else if (imagePath.includes('BOSCHETTO')) {
+          subcategory = 'BOSCHETTO';
+        } else if (imagePath.includes('CANNAMELA')) {
+          subcategory = 'CANNAMELA';
+        } else if (imagePath.includes('LEONARDI')) {
+          subcategory = 'LEONARDI';
+        } else if (imagePath.includes('PONTI')) {
+          subcategory = 'PONTI';
+        } else if (imagePath.includes('BELLI')) {
+          subcategory = 'BELLI';
+        } else if (imagePath.includes('MARIO FONGO')) {
+          subcategory = 'MARIO FONGO';
+        } else if (imagePath.includes('NOVI')) {
+          subcategory = 'NOVI';
+        } else if (imagePath.includes('PANEALBA') || imagePath.includes('CAMPIELLO')) {
+          subcategory = 'PANEALBA - CAMPIELLO';
+        } else if (imagePath.includes('ANGELO PARODI')) {
+          subcategory = 'ANGELO PARODI';
+        } else if (imagePath.includes('CALLIPO')) {
+          subcategory = 'CALLIPO';
+        } else if (imagePath.includes('ZAROTTI')) {
+          subcategory = 'ZAROTTI';
+        } else if (imagePath.includes('D\'AMICO') || imagePath.includes('DAMICO')) {
+          subcategory = 'D\'AMICO';
+        } else if (imagePath.includes('URBANI')) {
+          subcategory = 'URBANI';
+        }
+      }
       
       // Skip products without subcategory
       if (!subcategory) {
-        console.warn('Product missing subcategory:', product);
+        console.warn('Could not determine subcategory for:', product.title, product.image);
         return;
-      }
-      
-      // Clean up subcategory names
-      if (subcategory === "DE CECCO foto prodotti") {
-        subcategory = "DE CECCO";
       }
       
       if (!mapping[category]) {
@@ -127,7 +176,7 @@ document.addEventListener("DOMContentLoaded", function () {
       
       return `
         <div class="product-card fade-in" style="animation-delay: ${index * 0.1}s;">
-          <img src="${product.image}" alt="${product.name}" loading="lazy" onerror="this.src='data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIwIiBoZWlnaHQ9IjMyMCIgdmlld0JveD0iMCAwIDMyMCAzMjAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHJlY3Qgd2lkdGg9IjMyMCIgaGVpZ2h0PSIzMjAiIGZpbGw9IiNmNGY0ZjQiLz48cGF0aCBkPSJNMTYwIDEwMGMtMTYuNTcgMC0zMCAxMy40My0zMCAzMHMxMy40MyAzMCAzMCAzMCAzMC0xMy40MyAzMC0zMC0xMy40My0zMC0zMC0zMHptMCA0MGMtNS41MiAwLTEwLTQuNDgtMTAtMTBzNC40OC0xMCAxMC0xMCAxMCA0LjQ4IDEwIDEwLTQuNDggMTAtMTAgMTB6bTAtNjBjLTMzLjE0IDAtNjAgMjYuODYtNjAgNjBzMjYuODYgNjAgNjAgNjAgNjAtMjYuODYgNjAtNjAtMjYuODYtNjAtNjAtNjB6bTAgMTAwYy0yMi4wOSAwLTQwLTE3LjkxLTQwLTQwczE3LjkxLTQwIDQwLTQwIDQwIDE3LjkxIDQwIDQwLTE3LjkxIDQwLTQwIDQweiIgZmlsbD0iIzk5OTk5OSIvPjwvc3ZnPg=='" />
+          <img src="${product.image}" alt="${product.title}" loading="lazy" onerror="this.src='data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIwIiBoZWlnaHQ9IjMyMCIgdmlld0JveD0iMCAwIDMyMCAzMjAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHJlY3Qgd2lkdGg9IjMyMCIgaGVpZ2h0PSIzMjAiIGZpbGw9IiNmNGY0ZjQiLz48cGF0aCBkPSJNMTYwIDEwMGMtMTYuNTcgMC0zMCAxMy40My0zMCAzMHMxMy40MyAzMCAzMCAzMCAzMC0xMy40MyAzMC0zMC0xMy40My0zMC0zMC0zMHptMCA0MGMtNS41MiAwLTEwLTQuNDgtMTAtMTBzNC40OC0xMCAxMC0xMCAxMCA0LjQ4IDEwIDEwLTQuNDggMTAtMTAgMTB6bTAtNjBjLTMzLjE0IDAtNjAgMjYuODYtNjAgNjBzMjYuODYgNjAgNjAgNjAgNjAtMjYuODYgNjAtNjAtMjYuODYtNjAtNjAtNjB6bTAgMTAwYy0yMi4wOSAwLTQwLTE3LjkxLTQwLTQwczE3LjkxLTQwIDQwLTQwIDQwIDE3LjkxIDQwIDQwLTE3LjkxIDQwLTQwIDQweiIgZmlsbD0iIzk5OTk5OSIvPjwvc3ZnPg=='" />
         </div>
       `;
     }).filter(html => html !== '').join('');
@@ -227,11 +276,60 @@ document.addEventListener("DOMContentLoaded", function () {
         filteredProducts = categoryFiltered;
       } else {
         filteredProducts = categoryFiltered.filter(product => {
-          // Handle cleaned subcategory names
-          let productSubcategory = product.subcategory;
-          if (productSubcategory === "DE CECCO foto prodotti") {
-            productSubcategory = "DE CECCO";
+          // Extract subcategory from image path
+          let productSubcategory = null;
+          if (product.image) {
+            const imagePath = product.image;
+            
+            if (imagePath.includes('AURICCHIO')) {
+              productSubcategory = 'AURICCHIO';
+            } else if (imagePath.includes('CENTRAL CHEESE')) {
+              productSubcategory = 'CENTRAL CHEESE';
+            } else if (imagePath.includes('MALDERA')) {
+              productSubcategory = 'MALDERA';
+            } else if (imagePath.includes('IBIS')) {
+              productSubcategory = 'IBIS';
+            } else if (imagePath.includes('LEVONI')) {
+              productSubcategory = 'LEVONI';
+            } else if (imagePath.includes('CAPUTO')) {
+              productSubcategory = 'CAPUTO';
+            } else if (imagePath.includes('DE CECCO')) {
+              productSubcategory = 'DE CECCO';
+            } else if (imagePath.includes('PAGANI')) {
+              productSubcategory = 'PAGANI';
+            } else if (imagePath.includes('RUSTICHELLA')) {
+              productSubcategory = 'RUSTICHELLA D\'ABRUZZO';
+            } else if (imagePath.includes('SCOTTI')) {
+              productSubcategory = 'SCOTTI';
+            } else if (imagePath.includes('BOSCHETTO')) {
+              productSubcategory = 'BOSCHETTO';
+            } else if (imagePath.includes('CANNAMELA')) {
+              productSubcategory = 'CANNAMELA';
+            } else if (imagePath.includes('LEONARDI')) {
+              productSubcategory = 'LEONARDI';
+            } else if (imagePath.includes('PONTI')) {
+              productSubcategory = 'PONTI';
+            } else if (imagePath.includes('BELLI')) {
+              productSubcategory = 'BELLI';
+            } else if (imagePath.includes('MARIO FONGO')) {
+              productSubcategory = 'MARIO FONGO';
+            } else if (imagePath.includes('NOVI')) {
+              productSubcategory = 'NOVI';
+            } else if (imagePath.includes('PANEALBA') || imagePath.includes('CAMPIELLO')) {
+              productSubcategory = 'PANEALBA - CAMPIELLO';
+            } else if (imagePath.includes('ANGELO PARODI')) {
+              productSubcategory = 'ANGELO PARODI';
+            } else if (imagePath.includes('CALLIPO')) {
+              productSubcategory = 'CALLIPO';
+            } else if (imagePath.includes('ZAROTTI')) {
+              productSubcategory = 'ZAROTTI';
+            } else if (imagePath.includes('D\'AMICO') || imagePath.includes('DAMICO')) {
+              productSubcategory = 'D\'AMICO';
+            } else if (imagePath.includes('URBANI')) {
+              productSubcategory = 'URBANI';
+            }
           }
+          
           return productSubcategory === subcategoryValue;
         });
       }
