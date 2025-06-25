@@ -13,17 +13,33 @@ document.addEventListener("DOMContentLoaded", function () {
   const productsPerPage = 12;
   let currentFilter = 'all';
   let currentSubcategory = 'all';
-  
-  // Category-subcategory mapping
-  const categorySubcategories = {
-    "cheese": ["AURICCHIO", "CENTRAL CHEESE", "MALDERA"],
-    "cold-cuts": ["IBIS", "LEVONI"],
-    "pasta-rice-flour": ["CAPUTOTURES", "DE CECCO foto prodotti", "PAGANI", "RUSTICHELLA D'ABRUZZO", "SCOTTI"],
-    "sauces": ["BOSCHETTO", "CANNAMELA", "LEONARDITURES", "PONTI"],
-    "sweets": ["BELLI", "MARIO FONGO", "NOVI", "PANEALBA - CAMPIELLO"],
-    "fish": ["ANGELO PARODI", "CALLIPO", "ZAROTTI"],
-    "antipasti": ["D'AMICO", "URBANI", "URBANI TRUFFLE"]
-  };
+  let categorySubcategories = {};
+
+  function buildCategoryMapping(products) {
+    const mapping = {};
+    
+    products.forEach(product => {
+      const category = product.category;
+      let subcategory = product.subcategory;
+      
+      // Clean up subcategory names
+      if (subcategory === "DE CECCO foto prodotti") {
+        subcategory = "DE CECCO";
+      }
+      
+      if (!mapping[category]) {
+        mapping[category] = new Set();
+      }
+      mapping[category].add(subcategory);
+    });
+    
+    // Convert sets to sorted arrays
+    Object.keys(mapping).forEach(category => {
+      mapping[category] = Array.from(mapping[category]).sort();
+    });
+    
+    return mapping;
+  }
 
   async function fetchProducts() {
     try {
@@ -44,6 +60,10 @@ document.addEventListener("DOMContentLoaded", function () {
       const products = await response.json();
       allProducts = products;
       filteredProducts = products;
+      
+      // Build category-subcategory mapping from actual data
+      categorySubcategories = buildCategoryMapping(products);
+      console.log('Category mapping built:', categorySubcategories);
       
       // Add small delay for better UX
       setTimeout(() => {
@@ -185,7 +205,14 @@ document.addEventListener("DOMContentLoaded", function () {
       if (subcategoryValue === 'all') {
         filteredProducts = categoryFiltered;
       } else {
-        filteredProducts = categoryFiltered.filter(product => product.subcategory === subcategoryValue);
+        filteredProducts = categoryFiltered.filter(product => {
+          // Handle cleaned subcategory names
+          let productSubcategory = product.subcategory;
+          if (productSubcategory === "DE CECCO foto prodotti") {
+            productSubcategory = "DE CECCO";
+          }
+          return productSubcategory === subcategoryValue;
+        });
       }
       
       showSubcategories(filterValue);
