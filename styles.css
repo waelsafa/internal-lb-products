@@ -98,12 +98,12 @@ header {
 
 .filters-grid {
   display: grid;
-  grid-template-columns: repeat(5, 1fr);
+  grid-template-columns: repeat(4, 1fr);
   gap: 16px;
   margin-top: 20px;
   grid-template-areas:
-    "btn1 btn2 btn3 btn4 btn5"
-    "... btn6 btn7 btn8 ...";
+    "btn1 btn2 btn3 btn4"
+    "btn5 btn6 btn7 btn8";
 }
 
 .filter-button {
@@ -465,9 +465,7 @@ footer {
   
   .tagline {
     font-size: 1rem;
-  }
-  
-  .filters-grid {
+  }    .filters-grid {
     grid-template-areas:
       "btn1 btn2"
       "btn3 btn4"
