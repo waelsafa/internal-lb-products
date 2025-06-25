@@ -10,10 +10,10 @@
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="https://use.typekit.net/fyo7stz.css">
 </head>
-<body>
-  <div class="filters-container">
+<body>  <div class="filters-container">
     <div class="filters-wrapper">
-      <h2 class="filters-title">Browse by Category</h2>      <div class="filters-grid">
+      <h2 class="filters-title">Browse by Category</h2>
+      <div class="filters-grid">
         <button class="filter-button active" data-filter="all" style="grid-area: btn1;">All Products</button>
         <button class="filter-button" data-filter="cheese" style="grid-area: btn2;">Cheese</button>
         <button class="filter-button" data-filter="cold-cuts" style="grid-area: btn3;">Cold Cuts</button>
@@ -22,6 +22,14 @@
         <button class="filter-button" data-filter="sauces" style="grid-area: btn6;">Sauces & Condiments</button>
         <button class="filter-button" data-filter="sweets" style="grid-area: btn7;">Sweets & Snacks</button>
         <button class="filter-button" data-filter="pasta-rice-flour" style="grid-area: btn8;">Pasta Rice & Flour</button>
+      </div>
+      
+      <!-- Subcategory filters (brands) -->
+      <div class="subcategory-container" id="subcategory-container" style="display: none;">
+        <h3 class="subcategory-title">Filter by Brand</h3>
+        <div class="subcategory-grid" id="subcategory-grid">
+          <!-- Subcategory buttons will be generated here -->
+        </div>
       </div>
     </div>
   </div>

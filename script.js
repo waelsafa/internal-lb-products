@@ -4,12 +4,26 @@ document.addEventListener("DOMContentLoaded", function () {
   const paginationNumbers = document.getElementById("pagination-numbers");
   const prevPageBtn = document.getElementById("prev-page");
   const nextPageBtn = document.getElementById("next-page");
+  const subcategoryContainer = document.getElementById("subcategory-container");
+  const subcategoryGrid = document.getElementById("subcategory-grid");
   
   let allProducts = [];
   let filteredProducts = [];
   let currentPage = 1;
   const productsPerPage = 12;
   let currentFilter = 'all';
+  let currentSubcategory = 'all';
+  
+  // Category-subcategory mapping
+  const categorySubcategories = {
+    "cheese": ["AURICCHIO", "CENTRAL CHEESE", "MALDERA"],
+    "cold-cuts": ["IBIS", "LEVONI"],
+    "pasta-rice-flour": ["CAPUTOTURES", "DE CECCO foto prodotti", "PAGANI", "RUSTICHELLA D'ABRUZZO", "SCOTTI"],
+    "sauces": ["BOSCHETTO", "CANNAMELA", "LEONARDITURES", "PONTI"],
+    "sweets": ["BELLI", "MARIO FONGO", "NOVI", "PANEALBA - CAMPIELLO"],
+    "fish": ["ANGELO PARODI", "CALLIPO", "ZAROTTI"],
+    "antipasti": ["D'AMICO", "URBANI", "URBANI TRUFFLE"]
+  };
 
   async function fetchProducts() {
     try {
@@ -156,21 +170,75 @@ document.addEventListener("DOMContentLoaded", function () {
     // Scroll to top of products
     productGrid.scrollIntoView({ behavior: 'smooth' });
   }
-
-  function filterProducts(filterValue) {
+  function filterProducts(filterValue, subcategoryValue = 'all') {
     currentFilter = filterValue;
+    currentSubcategory = subcategoryValue;
     
     if (filterValue === 'all') {
       filteredProducts = allProducts;
+      hideSubcategories();
     } else {
-      filteredProducts = allProducts.filter(product => product.category === filterValue);
+      // Filter by category first
+      let categoryFiltered = allProducts.filter(product => product.category === filterValue);
+      
+      // Then filter by subcategory if specified
+      if (subcategoryValue === 'all') {
+        filteredProducts = categoryFiltered;
+      } else {
+        filteredProducts = categoryFiltered.filter(product => product.subcategory === subcategoryValue);
+      }
+      
+      showSubcategories(filterValue);
     }
     
     currentPage = 1;
     displayProducts();
     updatePagination();
   }
+  function showSubcategories(category) {
+    const subcategories = categorySubcategories[category];
+    if (!subcategories || subcategories.length <= 1) {
+      hideSubcategories();
+      return;
+    }
+    
+    // Create subcategory buttons
+    subcategoryGrid.innerHTML = '';
+    
+    // Add "All" button for the category
+    const allButton = document.createElement('button');
+    allButton.className = currentSubcategory === 'all' ? 'subcategory-button active' : 'subcategory-button';
+    allButton.textContent = 'All';
+    allButton.setAttribute('data-subcategory', 'all');
+    subcategoryGrid.appendChild(allButton);
+    
+    // Add brand buttons
+    subcategories.forEach(subcategory => {
+      const button = document.createElement('button');
+      button.className = currentSubcategory === subcategory ? 'subcategory-button active' : 'subcategory-button';
+      button.textContent = subcategory;
+      button.setAttribute('data-subcategory', subcategory);
+      subcategoryGrid.appendChild(button);
+    });
+    
+    // Add event listeners to subcategory buttons
+    subcategoryGrid.querySelectorAll('.subcategory-button').forEach(button => {
+      button.addEventListener('click', function() {
+        subcategoryGrid.querySelectorAll('.subcategory-button').forEach(btn => btn.classList.remove('active'));
+        this.classList.add('active');
+        
+        const subcategoryValue = this.getAttribute('data-subcategory');
+        filterProducts(currentFilter, subcategoryValue);
+      });
+    });
+    
+    subcategoryContainer.style.display = 'block';
+  }
 
+  function hideSubcategories() {
+    subcategoryContainer.style.display = 'none';
+    currentSubcategory = 'all';
+  }
   function initializeFilters() {
     const filterButtons = document.querySelectorAll('.filter-button');
 
@@ -180,7 +248,7 @@ document.addEventListener("DOMContentLoaded", function () {
         this.classList.add('active');
         
         const filterValue = this.getAttribute('data-filter');
-        filterProducts(filterValue);
+        filterProducts(filterValue, 'all');
       });
     });
   }
