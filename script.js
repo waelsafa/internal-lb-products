@@ -35,7 +35,7 @@ document.addEventListener("DOMContentLoaded", function () {
         </div>
       `;
       
-      const response = await fetch('/_data/products.json');
+      const response = await fetch('_data/products.json');
       
       if (!response.ok) {
         throw new Error(`HTTP error! status: ${response.status}`);
