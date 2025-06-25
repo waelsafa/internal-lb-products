@@ -16,11 +16,26 @@ document.addEventListener("DOMContentLoaded", function () {
   let categorySubcategories = {};
 
   function buildCategoryMapping(products) {
+    console.log('Building category mapping for', products.length, 'products');
     const mapping = {};
     
-    products.forEach(product => {
+    products.forEach((product, index) => {
+      if (index < 5) {
+        console.log(`Product ${index}:`, {
+          name: product.name,
+          category: product.category,
+          subcategory: product.subcategory
+        });
+      }
+      
       const category = product.category;
       let subcategory = product.subcategory;
+      
+      // Skip products without subcategory
+      if (!subcategory) {
+        console.warn('Product missing subcategory:', product);
+        return;
+      }
       
       // Clean up subcategory names
       if (subcategory === "DE CECCO foto prodotti") {
@@ -33,11 +48,14 @@ document.addEventListener("DOMContentLoaded", function () {
       mapping[category].add(subcategory);
     });
     
+    console.log('Raw mapping with Sets:', mapping);
+    
     // Convert sets to sorted arrays
     Object.keys(mapping).forEach(category => {
       mapping[category] = Array.from(mapping[category]).sort();
     });
     
+    console.log('Final mapping with arrays:', mapping);
     return mapping;
   }
 
@@ -58,6 +76,9 @@ document.addEventListener("DOMContentLoaded", function () {
       }
       
       const products = await response.json();
+      console.log('Products loaded:', products.length);
+      console.log('First product sample:', products[0]);
+      
       allProducts = products;
       filteredProducts = products;
       
@@ -224,6 +245,14 @@ document.addEventListener("DOMContentLoaded", function () {
   }
   function showSubcategories(category) {
     const subcategories = categorySubcategories[category];
+    
+    // Debug: Check if we have the mapping
+    if (!categorySubcategories || Object.keys(categorySubcategories).length === 0) {
+      // Mapping not built yet, hide subcategories
+      hideSubcategories();
+      return;
+    }
+    
     if (!subcategories || subcategories.length <= 1) {
       hideSubcategories();
       return;
