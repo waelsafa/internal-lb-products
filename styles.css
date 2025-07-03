@@ -100,7 +100,7 @@ header {
 .search-container {
   position: relative;
   max-width: 600px;
-  margin: 0 auto 30px;
+  margin: 24px auto 30px;
 }
 
 .search-input {
@@ -536,7 +536,7 @@ footer {
   }
   
   .search-container {
-    margin: 0 0 20px;
+    margin: 20px 0 20px;
   }
   
   .search-input {
