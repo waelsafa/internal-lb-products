@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Content Manager</title>
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+</head>
+<body>
+    <!-- Include the script that builds the page and powers Decap CMS -->
+    <script src="https://unpkg.com/decap-cms@^3.0.0/dist/decap-cms.js"></script>
+    <script>
+        // Initialize Netlify Identity
+        if (window.netlifyIdentity) {
+            window.netlifyIdentity.on("init", user => {
+                if (!user) {
+                    window.netlifyIdentity.on("login", () => {
+                        document.location.href = "/admin/";
+                    });
+                }
+            });
+        }
+
+        // Environment detection and config switching
+        const isProduction = window.location.hostname !== 'localhost' && window.location.hostname !== '127.0.0.1';
+        
+        if (isProduction) {
+            console.log('Production environment detected');
+            // Use git-gateway backend for production
+            fetch('/config.prod.yml')
+                .then(response => response.text())
+                .then(config => {
+                    console.log('Production config loaded');
+                })
+                .catch(error => {
+                    console.error('Error loading production config:', error);
+                });
+        } else {
+            console.log('Development environment detected');
+            // Use proxy backend for development
+            fetch('/config.dev.yml')
+                .then(response => response.text())
+                .then(config => {
+                    console.log('Development config loaded');
+                })
+                .catch(error => {
+                    console.error('Error loading development config:', error);
+                });
+        }
+    </script>
+</body>
+</html>

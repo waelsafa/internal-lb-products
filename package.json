@@ -4,8 +4,12 @@
   "description": "Product catalog with Decap CMS",
   "scripts": {
     "build": "node build.js",
-    "dev": "./start-dev.sh",
-    "frontend": "python3 -m http.server 8000",
+    "dev": "npm run dev:proxy & npm run dev:server",
+    "dev:server": "node server.js",
+    "dev:proxy": "node cms-proxy.js",
+    "dev:frontend": "python3 -m http.server 8000",
+    "dev:local": "cp config.dev.yml config.yml && cp config.dev.yml admin/config.yml && npm run dev",
+    "prod:prepare": "cp config.prod.yml config.yml && cp config.prod.yml admin/config.yml",
     "backend": "node cms-backend.js",
     "watch": "node watch.js",
     "start": "npm run build && npm run backend & npm run frontend"
@@ -13,6 +17,7 @@
   "dependencies": {
     "chokidar": "^3.5.3",
     "cors": "^2.8.5",
+    "decap-cms-backend-test": "^3.2.0",
     "express": "^4.21.2",
     "gray-matter": "^4.0.3"
   },

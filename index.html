@@ -9,10 +9,21 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="https://use.typekit.net/fyo7stz.css">
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 </head>
-<body>  <div class="filters-container">
+<body>
+  <div class="filters-container">
     <div class="filters-wrapper">
       <h2 class="filters-title">Browse by Category</h2>
+      
+      <!-- Search Bar -->
+      <div class="search-container">
+        <input type="text" id="search-input" class="search-input" placeholder="Search products...">
+        <button id="search-clear" class="search-clear" style="display: none;">
+          <span>×</span>
+        </button>
+      </div>
+      
       <div class="filters-grid">
         <button class="filter-button active" data-filter="all" style="grid-area: btn1;">All Products</button>
         <button class="filter-button" data-filter="cheese" style="grid-area: btn2;">Cheese</button>
@@ -53,5 +64,18 @@
   </div>
 
   <script src="script.js"></script>
+  
+  <!-- Netlify Identity Widget -->
+  <script>
+    if (window.netlifyIdentity) {
+      window.netlifyIdentity.on("init", user => {
+        if (!user) {
+          window.netlifyIdentity.on("login", () => {
+            document.location.href = "/admin/";
+          });
+        }
+      });
+    }
+  </script>
 </body>
 </html>

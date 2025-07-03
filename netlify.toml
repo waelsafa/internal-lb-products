@@ -1,6 +1,6 @@
 [build]
   publish = "."
-  command = "npm install && npm run build"
+  command = "echo 'Static site - no build needed'"
 
 # Redirect all admin routes to the admin interface
 [[redirects]]
@@ -11,3 +11,7 @@
 # Enable Git Gateway and Identity for Decap CMS
 [context.production]
   environment = { NODE_ENV = "production" }
+
+# Enable Large Media for handling large files
+[build.environment]
+  NODE_VERSION = "18"

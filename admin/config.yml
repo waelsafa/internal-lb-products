@@ -1,9 +1,9 @@
 backend:
-  name: proxy
-  proxy_url: http://localhost:8001/api
+  name: git-gateway
+  branch: main
 
-media_folder: "public/uploads/images"
-public_folder: "/uploads/images"
+media_folder: "media"
+public_folder: "media"
 
 collections:
   - name: "products"
@@ -13,7 +13,8 @@ collections:
     slug: "{{slug}}"
     fields:
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Description", name: "description", widget: "markdown"}
+      - {label: "Category", name: "category", widget: "select", options: ["cheese", "cold-cuts", "antipasti", "fish", "sauces", "sweets", "pasta-rice-flour"]}
+      - {label: "Subcategory", name: "subcategory", widget: "string"}
       - {label: "Image", name: "image", widget: "image"}
-      - {label: "Category", name: "category", widget: "select", options: ["pasta-rice-flour", "cheese-cold-cuts", "seasonal", "coffee-tea", "wine-liquor", "sweets-snacks", "sauces-condiments"]}
-      - {label: "Published", name: "published", widget: "boolean", default: true}
+      - {label: "ID", name: "id", widget: "string"}
+    body: false

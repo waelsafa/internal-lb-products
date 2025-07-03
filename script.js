@@ -6,6 +6,8 @@ document.addEventListener("DOMContentLoaded", function () {
   const nextPageBtn = document.getElementById("next-page");
   const subcategoryContainer = document.getElementById("subcategory-container");
   const subcategoryGrid = document.getElementById("subcategory-grid");
+  const searchInput = document.getElementById("search-input");
+  const searchClear = document.getElementById("search-clear");
   
   let allProducts = [];
   let filteredProducts = [];
@@ -13,21 +15,13 @@ document.addEventListener("DOMContentLoaded", function () {
   const productsPerPage = 12;
   let currentFilter = 'all';
   let currentSubcategory = 'all';
+  let currentSearchTerm = '';
   let categorySubcategories = {};
 
   function buildCategoryMapping(products) {
-    console.log('Building category mapping for', products.length, 'products');
     const mapping = {};
     
-    products.forEach((product, index) => {
-      if (index < 5) {
-        console.log(`Product ${index}:`, {
-          title: product.title,
-          category: product.category,
-          image: product.image
-        });
-      }
-      
+    products.forEach((product) => {
       const category = product.category;
       let subcategory = null;
       
@@ -87,7 +81,6 @@ document.addEventListener("DOMContentLoaded", function () {
       
       // Skip products without subcategory
       if (!subcategory) {
-        console.warn('Could not determine subcategory for:', product.title, product.image);
         return;
       }
       
@@ -97,14 +90,11 @@ document.addEventListener("DOMContentLoaded", function () {
       mapping[category].add(subcategory);
     });
     
-    console.log('Raw mapping with Sets:', mapping);
-    
     // Convert sets to sorted arrays
     Object.keys(mapping).forEach(category => {
       mapping[category] = Array.from(mapping[category]).sort();
     });
     
-    console.log('Final mapping with arrays:', mapping);
     return mapping;
   }
 
@@ -125,15 +115,12 @@ document.addEventListener("DOMContentLoaded", function () {
       }
       
       const products = await response.json();
-      console.log('Products loaded:', products.length);
-      console.log('First product sample:', products[0]);
       
       allProducts = products;
       filteredProducts = products;
       
       // Build category-subcategory mapping from actual data
       categorySubcategories = buildCategoryMapping(products);
-      console.log('Category mapping built:', categorySubcategories);
       
       // Add small delay for better UX
       setTimeout(() => {
@@ -170,13 +157,12 @@ document.addEventListener("DOMContentLoaded", function () {
     // Create all cards first
     const cardHTML = productsToShow.map((product, index) => {
       if (!product.image) {
-        console.warn('Skipping product due to missing image:', product);
         return '';
       }
       
       return `
         <div class="product-card fade-in" style="animation-delay: ${index * 0.1}s;">
-          <img src="${product.image}" alt="${product.title}" loading="lazy" onerror="this.src='data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIwIiBoZWlnaHQ9IjMyMCIgdmlld0JveD0iMCAwIDMyMCAzMjAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHJlY3Qgd2lkdGg9IjMyMCIgaGVpZ2h0PSIzMjAiIGZpbGw9IiNmNGY0ZjQiLz48cGF0aCBkPSJNMTYwIDEwMGMtMTYuNTcgMC0zMCAxMy40My0zMCAzMHMxMy40MyAzMCAzMCAzMCAzMC0xMy40MyAzMC0zMC0xMy40My0zMC0zMC0zMHptMCA0MGMtNS41MiAwLTEwLTQuNDgtMTAtMTBzNC40OC0xMCAxMC0xMCAxMCA0LjQ4IDEwIDEwLTQuNDggMTAtMTAgMTB6bTAtNjBjLTMzLjE0IDAtNjAgMjYuODYtNjAgNjBzMjYuODYgNjAgNjAgNjAgNjAtMjYuODYgNjAtNjAtMjYuODYtNjAtNjAtNjB6bTAgMTAwYy0yMi4wOSAwLTQwLTE3LjkxLTQwLTQwczE3LjkxLTQwIDQwLTQwIDQwIDE3LjkxIDQwIDQwLTE3LjkxIDQwLTQwIDQweiIgZmlsbD0iIzk5OTk5OSIvPjwvc3ZnPg=='" />
+          <img src="${product.image}" alt="${product.name}" loading="lazy" onerror="this.src='data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIwIiBoZWlnaHQ9IjMyMCIgdmlld0JveD0iMCAwIDMyMCAzMjAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHJlY3Qgd2lkdGg9IjMyMCIgaGVpZ2h0PSIzMjAiIGZpbGw9IiNmNGY0ZjQiLz48cGF0aCBkPSJNMTYwIDEwMGMtMTYuNTcgMC0zMCAxMy40My0zMCAzMHMxMy40MyAzMCAzMCAzMCAzMC0xMy40MyAzMC0zMC0xMy40My0zMC0zMC0zMHptMCA0MGMtNS41MiAwLTEwLTQuNDgtMTAtMTBzNC40OC0xMCAxMC0xMCAxMCA0LjQ4IDEwIDEwLTQuNDggMTAtMTAgMTB6bTAtNjBjLTMzLjE0IDAtNjAgMjYuODYtNjAgNjBzMjYuODYgNjAgNjAgNjAgNjAtMjYuODYgNjAtNjAtMjYuODYtNjAtNjAtNjB6bTAgMTAwYy0yMi4wOSAwLTQwLTE3LjkxLTQwLTQwczE3LjkxLTQwIDQwLTQwIDQwIDE3LjkxIDQwIDQwLTE3LjkxIDQwLTQwIDQweiIgZmlsbD0iIzk5OTk5OSIvPjwvc3ZnPg=='" />
         </div>
       `;
     }).filter(html => html !== '').join('');
@@ -260,16 +246,29 @@ document.addEventListener("DOMContentLoaded", function () {
     // Scroll to top of products
     productGrid.scrollIntoView({ behavior: 'smooth' });
   }
-  function filterProducts(filterValue, subcategoryValue = 'all') {
+  function filterProducts(filterValue, subcategoryValue = 'all', searchTerm = '') {
     currentFilter = filterValue;
     currentSubcategory = subcategoryValue;
+    currentSearchTerm = searchTerm;
     
+    let products = allProducts;
+    
+    // Apply search filter first
+    if (searchTerm && searchTerm.trim() !== '') {
+      const searchLower = searchTerm.toLowerCase().trim();
+      products = products.filter(product => 
+        product.name.toLowerCase().includes(searchLower) ||
+        (product.description && product.description.toLowerCase().includes(searchLower))
+      );
+    }
+    
+    // Apply category filter
     if (filterValue === 'all') {
-      filteredProducts = allProducts;
+      filteredProducts = products;
       hideSubcategories();
     } else {
       // Filter by category first
-      let categoryFiltered = allProducts.filter(product => product.category === filterValue);
+      let categoryFiltered = products.filter(product => product.category === filterValue);
       
       // Then filter by subcategory if specified
       if (subcategoryValue === 'all') {
@@ -382,7 +381,7 @@ document.addEventListener("DOMContentLoaded", function () {
         this.classList.add('active');
         
         const subcategoryValue = this.getAttribute('data-subcategory');
-        filterProducts(currentFilter, subcategoryValue);
+        filterProducts(currentFilter, subcategoryValue, currentSearchTerm);
       });
     });
     
@@ -402,8 +401,46 @@ document.addEventListener("DOMContentLoaded", function () {
         this.classList.add('active');
         
         const filterValue = this.getAttribute('data-filter');
-        filterProducts(filterValue, 'all');
+        filterProducts(filterValue, 'all', currentSearchTerm);
       });
+    });
+  }
+
+  // Search functionality
+  function initializeSearch() {
+    if (!searchInput || !searchClear) {
+      console.error('Search elements not found!');
+      return;
+    }
+    
+    // Search input event listener
+    searchInput.addEventListener('input', function() {
+      const searchTerm = this.value;
+      
+      // Show/hide clear button
+      if (searchTerm.length > 0) {
+        searchClear.style.display = 'flex';
+      } else {
+        searchClear.style.display = 'none';
+      }
+      
+      // Filter products with search term
+      filterProducts(currentFilter, currentSubcategory, searchTerm);
+    });
+    
+    // Clear search button
+    searchClear.addEventListener('click', function() {
+      searchInput.value = '';
+      searchClear.style.display = 'none';
+      filterProducts(currentFilter, currentSubcategory, '');
+      searchInput.focus();
+    });
+    
+    // Enter key support
+    searchInput.addEventListener('keypress', function(e) {
+      if (e.key === 'Enter') {
+        this.blur(); // Remove focus from input
+      }
     });
   }
 
@@ -423,5 +460,6 @@ document.addEventListener("DOMContentLoaded", function () {
 
   // Initialize
   initializeFilters();
+  initializeSearch();
   fetchProducts();
 });
