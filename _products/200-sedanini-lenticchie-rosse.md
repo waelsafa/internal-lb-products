@@ -1,9 +1,10 @@
 ---
-title: "Sedanini Lenticchie Rosse"
+title: "RUSTICHELLA D'ABRUZZO Sedanini Lenticchie Rosse"
 category: "pasta-rice-flour"
 subcategory: "RUSTICHELLA D'ABRUZZO"
 image: "media/2 PASTA RICE FLOUR/RUSTICHELLA D'ABRUZZO/Sedanini Lenticchie Rosse.png"
 id: "pasta-rice-flour-rustichella-d'abruzzo-200"
+tags: ["RUSTICHELLA D'ABRUZZO"]
 ---
 
 Sedanini Lenticchie Rosse

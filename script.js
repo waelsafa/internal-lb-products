@@ -258,7 +258,8 @@ document.addEventListener("DOMContentLoaded", function () {
       const searchLower = searchTerm.toLowerCase().trim();
       products = products.filter(product => 
         product.name.toLowerCase().includes(searchLower) ||
-        (product.description && product.description.toLowerCase().includes(searchLower))
+        (product.description && product.description.toLowerCase().includes(searchLower)) ||
+        (product.tags && product.tags.some(tag => tag.toLowerCase().includes(searchLower)))
       );
     }
     
