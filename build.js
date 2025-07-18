@@ -18,15 +18,18 @@ if (fs.existsSync(productsDir)) {
   files.forEach(file => {
     const filePath = path.join(productsDir, file);
     const fileContent = fs.readFileSync(filePath, 'utf8');
-    const { data } = matter(fileContent);
+    const { data, content } = matter(fileContent);
     
     // Only include published products
     if (data.published !== false) {
       products.push({
         title: data.title,
-        description: data.description,
+        description: content.trim(),
         image: data.image,
         category: data.category,
+        subcategory: data.subcategory,
+        tags: data.tags || [],
+        id: data.id,
         published: data.published
       });
     }
