@@ -162,7 +162,7 @@ document.addEventListener("DOMContentLoaded", function () {
       
       return `
         <div class="product-card fade-in" style="animation-delay: ${index * 0.1}s;">
-          <img src="${product.image}" alt="${product.name}" loading="lazy" onerror="this.src='data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIwIiBoZWlnaHQ9IjMyMCIgdmlld0JveD0iMCAwIDMyMCAzMjAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHJlY3Qgd2lkdGg9IjMyMCIgaGVpZ2h0PSIzMjAiIGZpbGw9IiNmNGY0ZjQiLz48cGF0aCBkPSJNMTYwIDEwMGMtMTYuNTcgMC0zMCAxMy40My0zMCAzMHMxMy40MyAzMCAzMCAzMCAzMC0xMy40MyAzMC0zMC0xMy40My0zMC0zMC0zMHptMCA0MGMtNS41MiAwLTEwLTQuNDgtMTAtMTBzNC40OC0xMCAxMC0xMCAxMCA0LjQ4IDEwIDEwLTQuNDggMTAtMTAgMTB6bTAtNjBjLTMzLjE0IDAtNjAgMjYuODYtNjAgNjBzMjYuODYgNjAgNjAgNjAgNjAtMjYuODYgNjAtNjAtMjYuODYtNjAtNjAtNjB6bTAgMTAwYy0yMi4wOSAwLTQwLTE3LjkxLTQwLTQwczE3LjkxLTQwIDQwLTQwIDQwIDE3LjkxIDQwIDQwLTE3LjkxIDQwLTQwIDQweiIgZmlsbD0iIzk5OTk5OSIvPjwvc3ZnPg=='" />
+          <img src="${product.image}" alt="${product.title}" loading="lazy" onerror="this.src='data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIwIiBoZWlnaHQ9IjMyMCIgdmlld0JveD0iMCAwIDMyMCAzMjAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHJlY3Qgd2lkdGg9IjMyMCIgaGVpZ2h0PSIzMjAiIGZpbGw9IiNmNGY0ZjQiLz48cGF0aCBkPSJNMTYwIDEwMGMtMTYuNTcgMC0zMCAxMy40My0zMCAzMHMxMy40MyAzMCAzMCAzMCAzMC0xMy40MyAzMC0zMC0xMy40My0zMC0zMC0zMHptMCA0MGMtNS1LjUyIDAtMTAtNC40OC0xMC0xMHM0LjQ4LTEwIDEwLTEwIDEwIDQuNDggMTAgMTAtNC40OCAxMC0xMCAxMHptMC02MGMtMzMuMTQgMC02MCAyNi44Ni02MCA2MHMyNi44NiA2MCA2MCA2MCA2MC0yNi44NiA2MC02MC0yNi44Ni02MC02MC02MHptMCAxMDBjLTIyLjA5IDAtNDAtMTcuOTEtNDAtNDBzMTcuOTEtNDAgNDAtNDAgNDAgMTcuOTEgNDAgNDAtMTcuOTEgNDAtNDAgNDB6IiBmaWxsPSIjOTk5OTk5Ii8+PC9zdmc+'" />
         </div>
       `;
     }).filter(html => html !== '').join('');
@@ -257,7 +257,7 @@ document.addEventListener("DOMContentLoaded", function () {
     if (searchTerm && searchTerm.trim() !== '') {
       const searchLower = searchTerm.toLowerCase().trim();
       products = products.filter(product => 
-        product.name.toLowerCase().includes(searchLower) ||
+        product.title.toLowerCase().includes(searchLower) ||
         (product.description && product.description.toLowerCase().includes(searchLower)) ||
         (product.tags && product.tags.some(tag => tag.toLowerCase().includes(searchLower)))
       );
