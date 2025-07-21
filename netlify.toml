@@ -2,16 +2,24 @@
   publish = "."
   command = "echo 'Static site - no build needed'"
 
-# Redirect all admin routes to the admin interface
+[build.processing]
+  skip_processing = false
+
+[build.processing.css]
+  bundle = true
+  minify = true
+
+[build.processing.js]
+  bundle = true
+  minify = true
+
+[build.processing.html]
+  pretty_urls = true
+
+[build.processing.images]
+  compress = true
+
 [[redirects]]
-  from = "/admin/*"
-  to = "/admin/index.html"
+  from = "/.netlify/images/*"
+  to = "/.netlify/images/:splat"
   status = 200
-
-# Enable Git Gateway and Identity for Decap CMS
-[context.production]
-  environment = { NODE_ENV = "production" }
-
-# Enable Large Media for handling large files
-[build.environment]
-  NODE_VERSION = "18"

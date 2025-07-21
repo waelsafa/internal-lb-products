@@ -2,13 +2,14 @@ document.addEventListener("DOMContentLoaded", function () {
   const productGrid = document.querySelector(".product-grid");
   const paginationInfo = document.getElementById("pagination-info");
   const paginationNumbers = document.getElementById("pagination-numbers");
+
   const prevPageBtn = document.getElementById("prev-page");
   const nextPageBtn = document.getElementById("next-page");
   const subcategoryContainer = document.getElementById("subcategory-container");
   const subcategoryGrid = document.getElementById("subcategory-grid");
   const searchInput = document.getElementById("search-input");
   const searchClear = document.getElementById("search-clear");
-  
+
   let allProducts = [];
   let filteredProducts = [];
   let currentPage = 1;
@@ -20,15 +21,15 @@ document.addEventListener("DOMContentLoaded", function () {
 
   function buildCategoryMapping(products) {
     const mapping = {};
-    
+
     products.forEach((product) => {
       const category = product.category;
       let subcategory = null;
-      
+
       // Extract subcategory from image path
       if (product.image) {
         const imagePath = product.image;
-        
+
         // Extract brand from image path patterns
         if (imagePath.includes('AURICCHIO')) {
           subcategory = 'AURICCHIO';
@@ -76,25 +77,31 @@ document.addEventListener("DOMContentLoaded", function () {
           subcategory = 'D\'AMICO';
         } else if (imagePath.includes('URBANI')) {
           subcategory = 'URBANI';
+        } else if (imagePath.includes('CIRIO')) {
+          subcategory = 'CIRIO';
+        } else if (imagePath.includes('COCICOME')) {
+          subcategory = 'COCICOME';
+        } else if (imagePath.includes('SAVINI TARTUFI')) {
+          subcategory = 'SAVINI TARTUFI';
         }
       }
-      
+
       // Skip products without subcategory
       if (!subcategory) {
         return;
       }
-      
+
       if (!mapping[category]) {
         mapping[category] = new Set();
       }
       mapping[category].add(subcategory);
     });
-    
+
     // Convert sets to sorted arrays
     Object.keys(mapping).forEach(category => {
       mapping[category] = Array.from(mapping[category]).sort();
     });
-    
+
     return mapping;
   }
 
@@ -107,28 +114,28 @@ document.addEventListener("DOMContentLoaded", function () {
           <p>Loading our finest products...</p>
         </div>
       `;
-      
+
       const response = await fetch('_data/products.json');
-      
+
       if (!response.ok) {
         throw new Error(`HTTP error! status: ${response.status}`);
       }
-      
+
       const products = await response.json();
-      
+
       allProducts = products;
       filteredProducts = products;
-      
+
       // Build category-subcategory mapping from actual data
       categorySubcategories = buildCategoryMapping(products);
-      
+
       // Add small delay for better UX
       setTimeout(() => {
         currentPage = 1;
         displayProducts();
         updatePagination();
       }, 500);
-      
+
     } catch (error) {
       console.error("Error fetching products:", error);
       productGrid.innerHTML = `
@@ -144,7 +151,7 @@ document.addEventListener("DOMContentLoaded", function () {
     const productsToShow = filteredProducts.slice(startIndex, endIndex);
 
     productGrid.innerHTML = "";
-    
+
     if (productsToShow.length === 0) {
       productGrid.innerHTML = `
         <div class="loading">
@@ -159,11 +166,18 @@ document.addEventListener("DOMContentLoaded", function () {
       if (!product.image) {
         return '';
       }
-      
+
       return `
         <div class="product-card fade-in" style="animation-delay: ${index * 0.1}s;">
-          <img src="${product.image}" alt="${product.title}" loading="lazy" onerror="this.src='data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIwIiBoZWlnaHQ9IjMyMCIgdmlld0JveD0iMCAwIDMyMCAzMjAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHJlY3Qgd2lkdGg9IjMyMCIgaGVpZ2h0PSIzMjAiIGZpbGw9IiNmNGY0ZjQiLz48cGF0aCBkPSJNMTYwIDEwMGMtMTYuNTcgMC0zMCAxMy40My0zMCAzMHMxMy40MyAzMCAzMCAzMCAzMC0xMy40MyAzMC0zMC0xMy40My0zMC0zMC0zMHptMCA0MGMtNS1LjUyIDAtMTAtNC40OC0xMC0xMHM0LjQ4LTEwIDEwLTEwIDEwIDQuNDggMTAgMTAtNC40OCAxMC0xMCAxMHptMC02MGMtMzMuMTQgMC02MCAyNi44Ni02MCA2MHMyNi44NiA2MCA2MCA2MCA2MC0yNi44NiA2MC02MC0yNi44Ni02MC02MC02MHptMCAxMDBjLTIyLjA5IDAtNDAtMTcuOTEtNDAtNDBzMTcuOTEtNDAgNDAtNDAgNDAgMTcuOTEgNDAgNDAtMTcuOTEgNDAtNDAgNDB6IiBmaWxsPSIjOTk5OTk5Ii8+PC9zdmc+'" />
-        </div>
+        <img 
+          src="${product.image}?nf_resize=fit&w=400&h=400&quality=80" 
+          alt="${product.title}" 
+          loading="lazy" 
+          width="400" 
+          height="400"
+          sizes="(max-width: 768px) 100vw, (max-width: 1024px) 100vw"
+        onerror="this.src='data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIwIiBoZWlnaHQ9IjMyMCIgdmlld0JveD0iMCAwIDMyMCAzMjAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHJlY3Qgd2lkdGg9IjMyMCIgaGVpZ2h0PSIzMjAiIGZpbGw9IiNmNGY0ZjQiLz48cGF0aCBkPSJNMTYwIDEwMGMtMTYuNTcgMC0zMCAxMy40My0zMCAzMHMxMy40MyAzMCAzMCAzMCAzMC0xMy40MyAzMC0zMC0xMy40My0zMC0zMC0zMHptMCA0MGMtNS0LLjUyIDAtMTAtNC40OC0xMC0xMHM0LjQ4LTEwIDEwLTEwIDEwIDQuNDggMTAgMTAtNC40OCAxMC0xMCAxMHptMC02MGMtMzMuMTQgMC02MCAyNi44Ni02MCA2MHMyNi44NiA2MCA2MCA2MCA2MC0yNi44NiA2MC02MC0yNi44Ni02MC02MC02MHptMCAxMDBjLTIyLjA5IDAtNDAtMTcuOTEtNDAtNDBzMTcuOTEtNDAgNDAtNDAgNDAgMTcuOTEgNDAgNDAtMTcuOTEgNDAtNDAgNDB6IiBmaWxsPSIjOTk5OTk5Ii8+PC9zdmc+'" />
+      </div>
       `;
     }).filter(html => html !== '').join('');
 
@@ -190,7 +204,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
   function generatePageNumbers(totalPages) {
     paginationNumbers.innerHTML = '';
-    
+
     if (totalPages <= 1) return;
 
     const maxVisiblePages = 5;
@@ -242,7 +256,7 @@ document.addEventListener("DOMContentLoaded", function () {
     currentPage = page;
     displayProducts();
     updatePagination();
-    
+
     // Scroll to top of products
     productGrid.scrollIntoView({ behavior: 'smooth' });
   }
@@ -250,19 +264,19 @@ document.addEventListener("DOMContentLoaded", function () {
     currentFilter = filterValue;
     currentSubcategory = subcategoryValue;
     currentSearchTerm = searchTerm;
-    
+
     let products = allProducts;
-    
+
     // Apply search filter first
     if (searchTerm && searchTerm.trim() !== '') {
       const searchLower = searchTerm.toLowerCase().trim();
-      products = products.filter(product => 
+      products = products.filter(product =>
         product.title.toLowerCase().includes(searchLower) ||
         (product.description && product.description.toLowerCase().includes(searchLower)) ||
         (product.tags && product.tags.some(tag => tag.toLowerCase().includes(searchLower)))
       );
     }
-    
+
     // Apply category filter
     if (filterValue === 'all') {
       filteredProducts = products;
@@ -270,7 +284,7 @@ document.addEventListener("DOMContentLoaded", function () {
     } else {
       // Filter by category first
       let categoryFiltered = products.filter(product => product.category === filterValue);
-      
+
       // Then filter by subcategory if specified
       if (subcategoryValue === 'all') {
         filteredProducts = categoryFiltered;
@@ -280,7 +294,7 @@ document.addEventListener("DOMContentLoaded", function () {
           let productSubcategory = null;
           if (product.image) {
             const imagePath = product.image;
-            
+
             if (imagePath.includes('AURICCHIO')) {
               productSubcategory = 'AURICCHIO';
             } else if (imagePath.includes('CENTRAL CHEESE')) {
@@ -327,45 +341,51 @@ document.addEventListener("DOMContentLoaded", function () {
               productSubcategory = 'D\'AMICO';
             } else if (imagePath.includes('URBANI')) {
               productSubcategory = 'URBANI';
+            } else if (imagePath.includes('CIRIO')) {
+              productSubcategory = 'CIRIO';
+            } else if (imagePath.includes('COCICOME')) {
+              productSubcategory = 'COCICOME';
+            } else if (imagePath.includes('SAVINI TARTUFI')) {
+              productSubcategory = 'SAVINI TARTUFI';
             }
           }
-          
+
           return productSubcategory === subcategoryValue;
         });
       }
-      
+
       showSubcategories(filterValue);
     }
-    
+
     currentPage = 1;
     displayProducts();
     updatePagination();
   }
   function showSubcategories(category) {
     const subcategories = categorySubcategories[category];
-    
+
     // Debug: Check if we have the mapping
     if (!categorySubcategories || Object.keys(categorySubcategories).length === 0) {
       // Mapping not built yet, hide subcategories
       hideSubcategories();
       return;
     }
-    
+
     if (!subcategories || subcategories.length <= 1) {
       hideSubcategories();
       return;
     }
-    
+
     // Create subcategory buttons
     subcategoryGrid.innerHTML = '';
-    
+
     // Add "All" button for the category
     const allButton = document.createElement('button');
     allButton.className = currentSubcategory === 'all' ? 'subcategory-button active' : 'subcategory-button';
     allButton.textContent = 'All';
     allButton.setAttribute('data-subcategory', 'all');
     subcategoryGrid.appendChild(allButton);
-    
+
     // Add brand buttons
     subcategories.forEach(subcategory => {
       const button = document.createElement('button');
@@ -374,18 +394,18 @@ document.addEventListener("DOMContentLoaded", function () {
       button.setAttribute('data-subcategory', subcategory);
       subcategoryGrid.appendChild(button);
     });
-    
+
     // Add event listeners to subcategory buttons
     subcategoryGrid.querySelectorAll('.subcategory-button').forEach(button => {
-      button.addEventListener('click', function() {
+      button.addEventListener('click', function () {
         subcategoryGrid.querySelectorAll('.subcategory-button').forEach(btn => btn.classList.remove('active'));
         this.classList.add('active');
-        
+
         const subcategoryValue = this.getAttribute('data-subcategory');
         filterProducts(currentFilter, subcategoryValue, currentSearchTerm);
       });
     });
-    
+
     subcategoryContainer.style.display = 'block';
   }
 
@@ -397,10 +417,10 @@ document.addEventListener("DOMContentLoaded", function () {
     const filterButtons = document.querySelectorAll('.filter-button');
 
     filterButtons.forEach(button => {
-      button.addEventListener('click', function() {
+      button.addEventListener('click', function () {
         filterButtons.forEach(btn => btn.classList.remove('active'));
         this.classList.add('active');
-        
+
         const filterValue = this.getAttribute('data-filter');
         filterProducts(filterValue, 'all', currentSearchTerm);
       });
@@ -413,32 +433,32 @@ document.addEventListener("DOMContentLoaded", function () {
       console.error('Search elements not found!');
       return;
     }
-    
+
     // Search input event listener
-    searchInput.addEventListener('input', function() {
+    searchInput.addEventListener('input', function () {
       const searchTerm = this.value;
-      
+
       // Show/hide clear button
       if (searchTerm.length > 0) {
         searchClear.style.display = 'flex';
       } else {
         searchClear.style.display = 'none';
       }
-      
+
       // Filter products with search term
       filterProducts(currentFilter, currentSubcategory, searchTerm);
     });
-    
+
     // Clear search button
-    searchClear.addEventListener('click', function() {
+    searchClear.addEventListener('click', function () {
       searchInput.value = '';
       searchClear.style.display = 'none';
       filterProducts(currentFilter, currentSubcategory, '');
       searchInput.focus();
     });
-    
+
     // Enter key support
-    searchInput.addEventListener('keypress', function(e) {
+    searchInput.addEventListener('keypress', function (e) {
       if (e.key === 'Enter') {
         this.blur(); // Remove focus from input
       }
