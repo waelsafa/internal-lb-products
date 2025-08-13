@@ -18,8 +18,3 @@
 
 [build.processing.images]
   compress = true
-
-[[redirects]]
-  from = "/.netlify/images/*"
-  to = "/.netlify/images/:splat"
-  status = 200
