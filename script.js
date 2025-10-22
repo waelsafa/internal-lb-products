@@ -83,6 +83,28 @@ document.addEventListener("DOMContentLoaded", function () {
           subcategory = 'COCICOME';
         } else if (imagePath.includes('SAVINI TARTUFI')) {
           subcategory = 'SAVINI TARTUFI';
+        } else if (imagePath.includes('BERLUCCHI')) {
+          subcategory = 'BERLUCCHI';
+        } else if (imagePath.includes('TOMMASI')) {
+          subcategory = 'TOMMASI';
+        } else if (imagePath.includes('BERSANO')) {
+          subcategory = 'BERSANO';
+        } else if (imagePath.includes('SANTA MARGHERITA')) {
+          subcategory = 'SANTA MARGHERITA';
+        } else if (imagePath.includes('GRANDUCATO')) {
+          subcategory = 'GRANDUCATO';
+        } else if (imagePath.includes('TENUTA SAN GUIDO')) {
+          subcategory = 'TENUTA SAN GUIDO';
+        } else if (imagePath.includes('PALUANI')) {
+          subcategory = 'PALUANI';
+        } else if (imagePath.includes('SPERLARI')) {
+          subcategory = 'SPERLARI';
+        } else if (imagePath.includes('FLAMIGNI')) {
+          subcategory = 'FLAMIGNI';
+        } else if (imagePath.includes('FIASCONARO')) {
+          subcategory = 'FIASCONARO';
+        } else if (imagePath.includes('D&G')) {
+          subcategory = 'D&G';
         }
       }
 
@@ -347,6 +369,28 @@ document.addEventListener("DOMContentLoaded", function () {
               productSubcategory = 'COCICOME';
             } else if (imagePath.includes('SAVINI TARTUFI')) {
               productSubcategory = 'SAVINI TARTUFI';
+            } else if (imagePath.includes('BERLUCCHI')) {
+              productSubcategory = 'BERLUCCHI';
+            } else if (imagePath.includes('TOMMASI')) {
+              productSubcategory = 'TOMMASI';
+            } else if (imagePath.includes('BERSANO')) {
+              productSubcategory = 'BERSANO';
+            } else if (imagePath.includes('SANTA MARGHERITA')) {
+              productSubcategory = 'SANTA MARGHERITA';
+            } else if (imagePath.includes('GRANDUCATO')) {
+              productSubcategory = 'GRANDUCATO';
+            } else if (imagePath.includes('TENUTA SAN GUIDO')) {
+              productSubcategory = 'TENUTA SAN GUIDO';
+            } else if (imagePath.includes('PALUANI')) {
+              productSubcategory = 'PALUANI';
+            } else if (imagePath.includes('SPERLARI')) {
+              productSubcategory = 'SPERLARI';
+            } else if (imagePath.includes('FLAMIGNI')) {
+              productSubcategory = 'FLAMIGNI';
+            } else if (imagePath.includes('FIASCONARO')) {
+              productSubcategory = 'FIASCONARO';
+            } else if (imagePath.includes('D&G')) {
+              productSubcategory = 'D&G';
             }
           }
 
