@@ -6158,5 +6158,1974 @@
       "COSICOME"
     ],
     "id": "sauces-cosicome-807"
+  },
+  {
+    "title": "BERSANO Nizza",
+    "description": "BERSANO Nizza",
+    "image": "media/Beverages/BERSANO/NIZZA.png",
+    "category": "beverages",
+    "subcategory": "BERSANO",
+    "tags": [
+      "BERSANO"
+    ],
+    "id": "beverages-bersano-1"
+  },
+  {
+    "title": "BERSANO Badarina Riserva",
+    "description": "BERSANO Badarina Riserva",
+    "image": "media/Beverages/BERSANO/badarina-riserva.png",
+    "category": "beverages",
+    "subcategory": "BERSANO",
+    "tags": [
+      "BERSANO"
+    ],
+    "id": "beverages-bersano-2"
+  },
+  {
+    "title": "BERSANO Badarina",
+    "description": "BERSANO Badarina",
+    "image": "media/Beverages/BERSANO/badarina.png",
+    "category": "beverages",
+    "subcategory": "BERSANO",
+    "tags": [
+      "BERSANO"
+    ],
+    "id": "beverages-bersano-3"
+  },
+  {
+    "title": "BERSANO Barberacostalunga (1)",
+    "description": "BERSANO Barberacostalunga (1)",
+    "image": "media/Beverages/BERSANO/barberacostalunga (1).png",
+    "category": "beverages",
+    "subcategory": "BERSANO",
+    "tags": [
+      "BERSANO"
+    ],
+    "id": "beverages-bersano-4"
+  },
+  {
+    "title": "BERSANO Barolonirvasco",
+    "description": "BERSANO Barolonirvasco",
+    "image": "media/Beverages/BERSANO/barolonirvasco.png",
+    "category": "beverages",
+    "subcategory": "BERSANO",
+    "tags": [
+      "BERSANO"
+    ],
+    "id": "beverages-bersano-5"
+  },
+  {
+    "title": "BERSANO Brachetto New",
+    "description": "BERSANO Brachetto New",
+    "image": "media/Beverages/BERSANO/brachetto-new.png",
+    "category": "beverages",
+    "subcategory": "BERSANO",
+    "tags": [
+      "BERSANO"
+    ],
+    "id": "beverages-bersano-6"
+  },
+  {
+    "title": "BERSANO Dolcettopiandelprete",
+    "description": "BERSANO Dolcettopiandelprete",
+    "image": "media/Beverages/BERSANO/dolcettopiandelprete.png",
+    "category": "beverages",
+    "subcategory": "BERSANO",
+    "tags": [
+      "BERSANO"
+    ],
+    "id": "beverages-bersano-7"
+  },
+  {
+    "title": "BERSANO Gavimirage",
+    "description": "BERSANO Gavimirage",
+    "image": "media/Beverages/BERSANO/gavimirage.png",
+    "category": "beverages",
+    "subcategory": "BERSANO",
+    "tags": [
+      "BERSANO"
+    ],
+    "id": "beverages-bersano-8"
+  },
+  {
+    "title": "BERSANO Grignolino",
+    "description": "BERSANO Grignolino",
+    "image": "media/Beverages/BERSANO/grignolino.png",
+    "category": "beverages",
+    "subcategory": "BERSANO",
+    "tags": [
+      "BERSANO"
+    ],
+    "id": "beverages-bersano-9"
+  },
+  {
+    "title": "BERSANO Moscato",
+    "description": "BERSANO Moscato",
+    "image": "media/Beverages/BERSANO/moscato.png",
+    "category": "beverages",
+    "subcategory": "BERSANO",
+    "tags": [
+      "BERSANO"
+    ],
+    "id": "beverages-bersano-10"
+  },
+  {
+    "title": "BERSANO Nebbiolopaisan",
+    "description": "BERSANO Nebbiolopaisan",
+    "image": "media/Beverages/BERSANO/nebbiolopaisan.png",
+    "category": "beverages",
+    "subcategory": "BERSANO",
+    "tags": [
+      "BERSANO"
+    ],
+    "id": "beverages-bersano-11"
+  },
+  {
+    "title": "BERSANO Pinot Spumante",
+    "description": "BERSANO Pinot Spumante",
+    "image": "media/Beverages/BERSANO/pinot spumante.png",
+    "category": "beverages",
+    "subcategory": "BERSANO",
+    "tags": [
+      "BERSANO"
+    ],
+    "id": "beverages-bersano-12"
+  },
+  {
+    "title": "GRANDUCATO Gd Chianti F.",
+    "description": "GRANDUCATO Gd Chianti F.",
+    "image": "media/Beverages/GRANDUCATO/GD-CHIANTI-F..jpg",
+    "category": "beverages",
+    "subcategory": "GRANDUCATO",
+    "tags": [
+      "GRANDUCATO"
+    ],
+    "id": "beverages-granducato-13"
+  },
+  {
+    "title": "GRANDUCATO Gd Chianti Docg",
+    "description": "GRANDUCATO Gd Chianti Docg",
+    "image": "media/Beverages/GRANDUCATO/GD-Chianti-docg.jpg",
+    "category": "beverages",
+    "subcategory": "GRANDUCATO",
+    "tags": [
+      "GRANDUCATO"
+    ],
+    "id": "beverages-granducato-14"
+  },
+  {
+    "title": "GRANDUCATO Gd Morellino Di Scansano Docg",
+    "description": "GRANDUCATO Gd Morellino Di Scansano Docg",
+    "image": "media/Beverages/GRANDUCATO/GD-MORELLINO-di-Scansano-DOCG.jpg",
+    "category": "beverages",
+    "subcategory": "GRANDUCATO",
+    "tags": [
+      "GRANDUCATO"
+    ],
+    "id": "beverages-granducato-15"
+  },
+  {
+    "title": "GRANDUCATO Gd Vernaccia Di San Giminiano Docg",
+    "description": "GRANDUCATO Gd Vernaccia Di San Giminiano Docg",
+    "image": "media/Beverages/GRANDUCATO/GD-Vernaccia-di-San-Giminiano-DOCG.jpg",
+    "category": "beverages",
+    "subcategory": "GRANDUCATO",
+    "tags": [
+      "GRANDUCATO"
+    ],
+    "id": "beverages-granducato-16"
+  },
+  {
+    "title": "SANTA MARGHERITA Cto Pinot Grigio Rosè Hr",
+    "description": "SANTA MARGHERITA Cto Pinot Grigio Rosè Hr",
+    "image": "media/Beverages/SANTA MARGHERITA/CTO-Pinot-Grigio-Rosè--Hr.jpg",
+    "category": "beverages",
+    "subcategory": "SANTA MARGHERITA",
+    "tags": [
+      "SANTA MARGHERITA"
+    ],
+    "id": "beverages-santa-margherita-17"
+  },
+  {
+    "title": "SANTA MARGHERITA Cto Pinot Grigio Venezia Doc Hr",
+    "description": "SANTA MARGHERITA Cto Pinot Grigio Venezia Doc Hr",
+    "image": "media/Beverages/SANTA MARGHERITA/CTO-Pinot-Grigio-Venezia-DOC--HR.jpg",
+    "category": "beverages",
+    "subcategory": "SANTA MARGHERITA",
+    "tags": [
+      "SANTA MARGHERITA"
+    ],
+    "id": "beverages-santa-margherita-18"
+  },
+  {
+    "title": "SANTA MARGHERITA Cto Prosecco Doc Hr",
+    "description": "SANTA MARGHERITA Cto Prosecco Doc Hr",
+    "image": "media/Beverages/SANTA MARGHERITA/CTO-Prosecco-DOC--Hr.jpg",
+    "category": "beverages",
+    "subcategory": "SANTA MARGHERITA",
+    "tags": [
+      "SANTA MARGHERITA"
+    ],
+    "id": "beverages-santa-margherita-19"
+  },
+  {
+    "title": "SANTA MARGHERITA Sm Chardonnay Vigneti Delle Dolomiti Igt Hr",
+    "description": "SANTA MARGHERITA Sm Chardonnay Vigneti Delle Dolomiti Igt Hr",
+    "image": "media/Beverages/SANTA MARGHERITA/SM_Chardonnay_Vigneti-delle-dolomiti-IGT_HR.jpg",
+    "category": "beverages",
+    "subcategory": "SANTA MARGHERITA",
+    "tags": [
+      "SANTA MARGHERITA"
+    ],
+    "id": "beverages-santa-margherita-20"
+  },
+  {
+    "title": "SANTA MARGHERITA Sm Pinot Grigio Valdadige Doc Hr",
+    "description": "SANTA MARGHERITA Sm Pinot Grigio Valdadige Doc Hr",
+    "image": "media/Beverages/SANTA MARGHERITA/SM_Pinot-Grigio_Valdadige-DOC_HR.jpg",
+    "category": "beverages",
+    "subcategory": "SANTA MARGHERITA",
+    "tags": [
+      "SANTA MARGHERITA"
+    ],
+    "id": "beverages-santa-margherita-21"
+  },
+  {
+    "title": "SANTA MARGHERITA Sm Sparkling Rosé Vs Brut Hr",
+    "description": "SANTA MARGHERITA Sm Sparkling Rosé Vs Brut Hr",
+    "image": "media/Beverages/SANTA MARGHERITA/SM_Sparkling-Rosé_VS_Brut_HR.jpg",
+    "category": "beverages",
+    "subcategory": "SANTA MARGHERITA",
+    "tags": [
+      "SANTA MARGHERITA"
+    ],
+    "id": "beverages-santa-margherita-22"
+  },
+  {
+    "title": "SANTA MARGHERITA Sassoregale Sangiovese Maremma Toscana Doc Hr",
+    "description": "SANTA MARGHERITA Sassoregale Sangiovese Maremma Toscana Doc Hr",
+    "image": "media/Beverages/SANTA MARGHERITA/Sassoregale_Sangiovese-Maremma-Toscana-doc-HR.jpg",
+    "category": "beverages",
+    "subcategory": "SANTA MARGHERITA",
+    "tags": [
+      "SANTA MARGHERITA"
+    ],
+    "id": "beverages-santa-margherita-23"
+  },
+  {
+    "title": "SANTA MARGHERITA Torresella Prosecco Rose Hr",
+    "description": "SANTA MARGHERITA Torresella Prosecco Rose Hr",
+    "image": "media/Beverages/SANTA MARGHERITA/Torresella-Prosecco-Rose-HR.jpg",
+    "category": "beverages",
+    "subcategory": "SANTA MARGHERITA",
+    "tags": [
+      "SANTA MARGHERITA"
+    ],
+    "id": "beverages-santa-margherita-24"
+  },
+  {
+    "title": "SANTA MARGHERITA Valdobbiadene Prosecco Docg Brut Hr",
+    "description": "SANTA MARGHERITA Valdobbiadene Prosecco Docg Brut Hr",
+    "image": "media/Beverages/SANTA MARGHERITA/Valdobbiadene_Prosecco_DOCG_Brut_HR.jpg",
+    "category": "beverages",
+    "subcategory": "SANTA MARGHERITA",
+    "tags": [
+      "SANTA MARGHERITA"
+    ],
+    "id": "beverages-santa-margherita-25"
+  },
+  {
+    "title": "TENUTA SAN GUIDO Guidalberto 2023 Base",
+    "description": "TENUTA SAN GUIDO Guidalberto 2023 Base",
+    "image": "media/Beverages/TENUTA SAN GUIDO/GUIDALBERTO_2023_Base.jpg",
+    "category": "beverages",
+    "subcategory": "TENUTA SAN GUIDO",
+    "tags": [
+      "TENUTA SAN GUIDO"
+    ],
+    "id": "beverages-tenuta-san-guido-26"
+  },
+  {
+    "title": "TENUTA SAN GUIDO Le Difese 2023 Base 2023",
+    "description": "TENUTA SAN GUIDO Le Difese 2023 Base 2023",
+    "image": "media/Beverages/TENUTA SAN GUIDO/LE-DIFESE_2023_Base_2023.jpg",
+    "category": "beverages",
+    "subcategory": "TENUTA SAN GUIDO",
+    "tags": [
+      "TENUTA SAN GUIDO"
+    ],
+    "id": "beverages-tenuta-san-guido-27"
+  },
+  {
+    "title": "TENUTA SAN GUIDO Sassicaia 2022 Base",
+    "description": "TENUTA SAN GUIDO Sassicaia 2022 Base",
+    "image": "media/Beverages/TENUTA SAN GUIDO/SASSICAIA_2022_Base.jpg",
+    "category": "beverages",
+    "subcategory": "TENUTA SAN GUIDO",
+    "tags": [
+      "TENUTA SAN GUIDO"
+    ],
+    "id": "beverages-tenuta-san-guido-28"
+  },
+  {
+    "title": "TOMMASI Adorato Appassionato (1)",
+    "description": "TOMMASI Adorato Appassionato (1)",
+    "image": "media/Beverages/TOMMASI/Adorato-Appassionato-(1).jpg",
+    "category": "beverages",
+    "subcategory": "TOMMASI",
+    "tags": [
+      "TOMMASI"
+    ],
+    "id": "beverages-tommasi-29"
+  },
+  {
+    "title": "TOMMASI Baciorosa Appassionato (1)",
+    "description": "TOMMASI Baciorosa Appassionato (1)",
+    "image": "media/Beverages/TOMMASI/Baciorosa-Appassionato-(1).jpg",
+    "category": "beverages",
+    "subcategory": "TOMMASI",
+    "tags": [
+      "TOMMASI"
+    ],
+    "id": "beverages-tommasi-30"
+  },
+  {
+    "title": "TOMMASI Casisano Brunello Di Montalcino (1)",
+    "description": "TOMMASI Casisano Brunello Di Montalcino (1)",
+    "image": "media/Beverages/TOMMASI/Casisano_Brunello-di-Montalcino-(1).jpg",
+    "category": "beverages",
+    "subcategory": "TOMMASI",
+    "tags": [
+      "TOMMASI"
+    ],
+    "id": "beverages-tommasi-31"
+  },
+  {
+    "title": "TOMMASI Casisano Rosso Di Montalcino (1)",
+    "description": "TOMMASI Casisano Rosso Di Montalcino (1)",
+    "image": "media/Beverages/TOMMASI/Casisano_Rosso-di-Montalcino-(1).jpg",
+    "category": "beverages",
+    "subcategory": "TOMMASI",
+    "tags": [
+      "TOMMASI"
+    ],
+    "id": "beverages-tommasi-32"
+  },
+  {
+    "title": "TOMMASI Graticcio Appassionato (1)",
+    "description": "TOMMASI Graticcio Appassionato (1)",
+    "image": "media/Beverages/TOMMASI/Graticcio-Appassionato-(1).jpg",
+    "category": "beverages",
+    "subcategory": "TOMMASI",
+    "tags": [
+      "TOMMASI"
+    ],
+    "id": "beverages-tommasi-33"
+  },
+  {
+    "title": "TOMMASI Tommasi Amarone Classico (1)",
+    "description": "TOMMASI Tommasi Amarone Classico (1)",
+    "image": "media/Beverages/TOMMASI/Tommasi---Amarone-Classico-(1).jpg",
+    "category": "beverages",
+    "subcategory": "TOMMASI",
+    "tags": [
+      "TOMMASI"
+    ],
+    "id": "beverages-tommasi-34"
+  },
+  {
+    "title": "TOMMASI Tommasi Amarone Classico Magnum Nv",
+    "description": "TOMMASI Tommasi Amarone Classico Magnum Nv",
+    "image": "media/Beverages/TOMMASI/Tommasi---Amarone-Classico-Magnum_NV.jpg",
+    "category": "beverages",
+    "subcategory": "TOMMASI",
+    "tags": [
+      "TOMMASI"
+    ],
+    "id": "beverages-tommasi-35"
+  },
+  {
+    "title": "TOMMASI Tommasi Le Fornaci Lugana (1)",
+    "description": "TOMMASI Tommasi Le Fornaci Lugana (1)",
+    "image": "media/Beverages/TOMMASI/Tommasi-Le-Fornaci-Lugana-(1).jpg",
+    "category": "beverages",
+    "subcategory": "TOMMASI",
+    "tags": [
+      "TOMMASI"
+    ],
+    "id": "beverages-tommasi-36"
+  },
+  {
+    "title": "TOMMASI Tommasi Le Fornaci Rosé (1)",
+    "description": "TOMMASI Tommasi Le Fornaci Rosé (1)",
+    "image": "media/Beverages/TOMMASI/Tommasi-Le-Fornaci-Rosé-(1).jpg",
+    "category": "beverages",
+    "subcategory": "TOMMASI",
+    "tags": [
+      "TOMMASI"
+    ],
+    "id": "beverages-tommasi-37"
+  },
+  {
+    "title": "TOMMASI Tommasi Le Prunée Merlot (1)",
+    "description": "TOMMASI Tommasi Le Prunée Merlot (1)",
+    "image": "media/Beverages/TOMMASI/Tommasi-Le-Prunée-Merlot-(1).jpg",
+    "category": "beverages",
+    "subcategory": "TOMMASI",
+    "tags": [
+      "TOMMASI"
+    ],
+    "id": "beverages-tommasi-38"
+  },
+  {
+    "title": "TOMMASI Tommasi Rafael Valpolicella Superiore Nv (1)",
+    "description": "TOMMASI Tommasi Rafael Valpolicella Superiore Nv (1)",
+    "image": "media/Beverages/TOMMASI/Tommasi-Rafael-Valpolicella-Superiore-NV-(1).jpg",
+    "category": "beverages",
+    "subcategory": "TOMMASI",
+    "tags": [
+      "TOMMASI"
+    ],
+    "id": "beverages-tommasi-39"
+  },
+  {
+    "title": "TOMMASI Tommasi Ripasso Valpolicella Classico Superiore (1)",
+    "description": "TOMMASI Tommasi Ripasso Valpolicella Classico Superiore (1)",
+    "image": "media/Beverages/TOMMASI/Tommasi-Ripasso-Valpolicella-Classico-Superiore-(1).jpg",
+    "category": "beverages",
+    "subcategory": "TOMMASI",
+    "tags": [
+      "TOMMASI"
+    ],
+    "id": "beverages-tommasi-40"
+  },
+  {
+    "title": "TOMMASI Tommasi Valpolicella (1)",
+    "description": "TOMMASI Tommasi Valpolicella (1)",
+    "image": "media/Beverages/TOMMASI/Tommasi-Valpolicella-(1).jpg",
+    "category": "beverages",
+    "subcategory": "TOMMASI",
+    "tags": [
+      "TOMMASI"
+    ],
+    "id": "beverages-tommasi-41"
+  },
+  {
+    "title": "PALUANI 02 3d Pandoro I Golosi Caramello E Gocce Di Cioccolato 2",
+    "description": "PALUANI 02 3d Pandoro I Golosi Caramello E Gocce Di Cioccolato 2",
+    "image": "media/seasonal products/02.PALUANI/02_3D-Pandoro-I-Golosi_Caramello-e-Gocce-di-Cioccolato_2.jpg",
+    "category": "seasonal",
+    "subcategory": "PALUANI",
+    "tags": [
+      "PALUANI"
+    ],
+    "id": "seasonal-paluani-42"
+  },
+  {
+    "title": "PALUANI 02 3d Pandoro I Golosi Crema Gianduia Zanzibar",
+    "description": "PALUANI 02 3d Pandoro I Golosi Crema Gianduia Zanzibar",
+    "image": "media/seasonal products/02.PALUANI/02_3D-Pandoro-I-Golosi_Crema-Gianduia-Zanzibar.jpg",
+    "category": "seasonal",
+    "subcategory": "PALUANI",
+    "tags": [
+      "PALUANI"
+    ],
+    "id": "seasonal-paluani-43"
+  },
+  {
+    "title": "PALUANI 02 3d Pandoro I Golosi Crema Di Pistacchio",
+    "description": "PALUANI 02 3d Pandoro I Golosi Crema Di Pistacchio",
+    "image": "media/seasonal products/02.PALUANI/02_3D-Pandoro-I-Golosi_Crema-di-Pistacchio.jpg",
+    "category": "seasonal",
+    "subcategory": "PALUANI",
+    "tags": [
+      "PALUANI"
+    ],
+    "id": "seasonal-paluani-44"
+  },
+  {
+    "title": "PALUANI 02 3d Panettone I Golosi Crema Di Pistacchio 700g",
+    "description": "PALUANI 02 3d Panettone I Golosi Crema Di Pistacchio 700g",
+    "image": "media/seasonal products/02.PALUANI/02_3D-Panettone-I-Golosi_Crema-di-Pistacchio-700g.jpg",
+    "category": "seasonal",
+    "subcategory": "PALUANI",
+    "tags": [
+      "PALUANI"
+    ],
+    "id": "seasonal-paluani-45"
+  },
+  {
+    "title": "PALUANI 3d Pandoro Classico",
+    "description": "PALUANI 3d Pandoro Classico",
+    "image": "media/seasonal products/02.PALUANI/3D-Pandoro-Classico.jpg",
+    "category": "seasonal",
+    "subcategory": "PALUANI",
+    "tags": [
+      "PALUANI"
+    ],
+    "id": "seasonal-paluani-46"
+  },
+  {
+    "title": "PALUANI 3d Panettone Classico B",
+    "description": "PALUANI 3d Panettone Classico B",
+    "image": "media/seasonal products/02.PALUANI/3D-Panettone-Classico-B.jpg",
+    "category": "seasonal",
+    "subcategory": "PALUANI",
+    "tags": [
+      "PALUANI"
+    ],
+    "id": "seasonal-paluani-47"
+  },
+  {
+    "title": "PALUANI 3d Panettone Classico",
+    "description": "PALUANI 3d Panettone Classico",
+    "image": "media/seasonal products/02.PALUANI/3D-Panettone-Classico.jpg",
+    "category": "seasonal",
+    "subcategory": "PALUANI",
+    "tags": [
+      "PALUANI"
+    ],
+    "id": "seasonal-paluani-48"
+  },
+  {
+    "title": "PALUANI 3d Panettone Gocce Cioccolato Draft",
+    "description": "PALUANI 3d Panettone Gocce Cioccolato Draft",
+    "image": "media/seasonal products/02.PALUANI/3D-Panettone-gocce-cioccolato_draft.jpg",
+    "category": "seasonal",
+    "subcategory": "PALUANI",
+    "tags": [
+      "PALUANI"
+    ],
+    "id": "seasonal-paluani-49"
+  },
+  {
+    "title": "PALUANI Pandoro Hand Wrapped",
+    "description": "PALUANI Pandoro Hand Wrapped",
+    "image": "media/seasonal products/02.PALUANI/pandoro-HAND-WRAPPED.jpg",
+    "category": "seasonal",
+    "subcategory": "PALUANI",
+    "tags": [
+      "PALUANI"
+    ],
+    "id": "seasonal-paluani-50"
+  },
+  {
+    "title": "PALUANI Panettone Hand Wrapped",
+    "description": "PALUANI Panettone Hand Wrapped",
+    "image": "media/seasonal products/02.PALUANI/panettone-HAND-WRAPPED.jpg",
+    "category": "seasonal",
+    "subcategory": "PALUANI",
+    "tags": [
+      "PALUANI"
+    ],
+    "id": "seasonal-paluani-51"
+  },
+  {
+    "title": "SPERLARI 126 075 25 Morbidellone (002)",
+    "description": "SPERLARI 126 075 25 Morbidellone (002)",
+    "image": "media/seasonal products/03. SPERLARI/126-075-25-Morbidellone-(002).jpg",
+    "category": "seasonal",
+    "subcategory": "SPERLARI",
+    "tags": [
+      "SPERLARI"
+    ],
+    "id": "seasonal-sperlari-52"
+  },
+  {
+    "title": "SPERLARI 50000620 Ast Tenero Ricoperto Pistacchio 200g 2025",
+    "description": "SPERLARI 50000620 Ast Tenero Ricoperto Pistacchio 200g 2025",
+    "image": "media/seasonal products/03. SPERLARI/50000620_Ast-Tenero-Ricoperto-Pistacchio-200g-2025.jpg",
+    "category": "seasonal",
+    "subcategory": "SPERLARI",
+    "tags": [
+      "SPERLARI"
+    ],
+    "id": "seasonal-sperlari-53"
+  },
+  {
+    "title": "SPERLARI 50000621 Ast Tenero Mandorla Ricoperto 200g 2025",
+    "description": "SPERLARI 50000621 Ast Tenero Mandorla Ricoperto 200g 2025",
+    "image": "media/seasonal products/03. SPERLARI/50000621_Ast-Tenero-Mandorla-Ricoperto-200g-2025.jpg",
+    "category": "seasonal",
+    "subcategory": "SPERLARI",
+    "tags": [
+      "SPERLARI"
+    ],
+    "id": "seasonal-sperlari-54"
+  },
+  {
+    "title": "SPERLARI Mostarda A6067",
+    "description": "SPERLARI Mostarda A6067",
+    "image": "media/seasonal products/03. SPERLARI/MOSTARDA-A6067.jpg",
+    "category": "seasonal",
+    "subcategory": "SPERLARI",
+    "tags": [
+      "SPERLARI"
+    ],
+    "id": "seasonal-sperlari-55"
+  },
+  {
+    "title": "SPERLARI Nougat Hazelneut Torrone",
+    "description": "SPERLARI Nougat Hazelneut Torrone",
+    "image": "media/seasonal products/03. SPERLARI/NOUGAT-HAZELNEUT---TORRONE.jpg",
+    "category": "seasonal",
+    "subcategory": "SPERLARI",
+    "tags": [
+      "SPERLARI"
+    ],
+    "id": "seasonal-sperlari-56"
+  },
+  {
+    "title": "SPERLARI R2400495 3d Classico Mandorla 150gr Nuovaprosp",
+    "description": "SPERLARI R2400495 3d Classico Mandorla 150gr Nuovaprosp",
+    "image": "media/seasonal products/03. SPERLARI/R2400495_3D_CLASSICO_MANDORLA_150gr_nuovaPROSP.jpg",
+    "category": "seasonal",
+    "subcategory": "SPERLARI",
+    "tags": [
+      "SPERLARI"
+    ],
+    "id": "seasonal-sperlari-57"
+  },
+  {
+    "title": "FLAMIGNI 3134 Incarto Rosso 500g Con Nastro Raso",
+    "description": "FLAMIGNI 3134 Incarto Rosso 500g Con Nastro Raso",
+    "image": "media/seasonal products/04. FLAMIGNI/3134--incarto-rosso-500g-con-nastro-raso.jpg",
+    "category": "seasonal",
+    "subcategory": "FLAMIGNI",
+    "tags": [
+      "FLAMIGNI"
+    ],
+    "id": "seasonal-flamigni-58"
+  },
+  {
+    "title": "FLAMIGNI 3152 3692 Panettone 5 Kg Italian Products",
+    "description": "FLAMIGNI 3152 3692 Panettone 5 Kg Italian Products",
+    "image": "media/seasonal products/04. FLAMIGNI/3152_3692_PANETTONE 5 kg_Italian Products.jpg",
+    "category": "seasonal",
+    "subcategory": "FLAMIGNI",
+    "tags": [
+      "FLAMIGNI"
+    ],
+    "id": "seasonal-flamigni-59"
+  },
+  {
+    "title": "FLAMIGNI 3335 Offella Cometti Cappelliera Scontorno",
+    "description": "FLAMIGNI 3335 Offella Cometti Cappelliera Scontorno",
+    "image": "media/seasonal products/04. FLAMIGNI/3335_Offella-cometti_Cappelliera-Scontorno.jpg",
+    "category": "seasonal",
+    "subcategory": "FLAMIGNI",
+    "tags": [
+      "FLAMIGNI"
+    ],
+    "id": "seasonal-flamigni-60"
+  },
+  {
+    "title": "FLAMIGNI 3340 Pandoro Classico 2025",
+    "description": "FLAMIGNI 3340 Pandoro Classico 2025",
+    "image": "media/seasonal products/04. FLAMIGNI/3340_Pandoro-Classico-2025.jpg",
+    "category": "seasonal",
+    "subcategory": "FLAMIGNI",
+    "tags": [
+      "FLAMIGNI"
+    ],
+    "id": "seasonal-flamigni-61"
+  },
+  {
+    "title": "FLAMIGNI 3360 Il Panettone demi Sel Scontorno",
+    "description": "FLAMIGNI 3360 Il Panettone demi Sel Scontorno",
+    "image": "media/seasonal products/04. FLAMIGNI/3360_Il-Panettone-Demi-Sel_scontorno.jpg",
+    "category": "seasonal",
+    "subcategory": "FLAMIGNI",
+    "tags": [
+      "FLAMIGNI"
+    ],
+    "id": "seasonal-flamigni-62"
+  },
+  {
+    "title": "FLAMIGNI 3360 Panettone Demi Sel Balsa Scontorno",
+    "description": "FLAMIGNI 3360 Panettone Demi Sel Balsa Scontorno",
+    "image": "media/seasonal products/04. FLAMIGNI/3360_Panettone-Demi-Sel-Balsa_Scontorno.jpg",
+    "category": "seasonal",
+    "subcategory": "FLAMIGNI",
+    "tags": [
+      "FLAMIGNI"
+    ],
+    "id": "seasonal-flamigni-63"
+  },
+  {
+    "title": "FLAMIGNI 3426 Il Nuovo Panettone Al Limoncello “pallini” Scontorno",
+    "description": "FLAMIGNI 3426 Il Nuovo Panettone Al Limoncello “pallini” Scontorno",
+    "image": "media/seasonal products/04. FLAMIGNI/3426_Il-nuovo-Panettone-al-limoncello-“Pallini”_scontorno.jpg",
+    "category": "seasonal",
+    "subcategory": "FLAMIGNI",
+    "tags": [
+      "FLAMIGNI"
+    ],
+    "id": "seasonal-flamigni-64"
+  },
+  {
+    "title": "FLAMIGNI 3681 Il Panettone “gran Fondente” Scontorno",
+    "description": "FLAMIGNI 3681 Il Panettone “gran Fondente” Scontorno",
+    "image": "media/seasonal products/04. FLAMIGNI/3681_Il-Panettone-“Gran-Fondente”_scontorno.jpg",
+    "category": "seasonal",
+    "subcategory": "FLAMIGNI",
+    "tags": [
+      "FLAMIGNI"
+    ],
+    "id": "seasonal-flamigni-65"
+  },
+  {
+    "title": "FLAMIGNI 3681 Panettone Gran Fondente Pirottino",
+    "description": "FLAMIGNI 3681 Panettone Gran Fondente Pirottino",
+    "image": "media/seasonal products/04. FLAMIGNI/3681_PANETTONE_GRAN-FONDENTE_pirottino.jpg",
+    "category": "seasonal",
+    "subcategory": "FLAMIGNI",
+    "tags": [
+      "FLAMIGNI"
+    ],
+    "id": "seasonal-flamigni-66"
+  },
+  {
+    "title": "FLAMIGNI 3682 Il Panettone “gran Pistacchio” Scontorno Copia",
+    "description": "FLAMIGNI 3682 Il Panettone “gran Pistacchio” Scontorno Copia",
+    "image": "media/seasonal products/04. FLAMIGNI/3682_Il-Panettone-“Gran-Pistacchio”_scontorno-copia.jpg",
+    "category": "seasonal",
+    "subcategory": "FLAMIGNI",
+    "tags": [
+      "FLAMIGNI"
+    ],
+    "id": "seasonal-flamigni-67"
+  },
+  {
+    "title": "FLAMIGNI 3682 Il Panettone “gran Pistacchio” Scontorno",
+    "description": "FLAMIGNI 3682 Il Panettone “gran Pistacchio” Scontorno",
+    "image": "media/seasonal products/04. FLAMIGNI/3682_Il-Panettone-“Gran-Pistacchio”_scontorno.jpg",
+    "category": "seasonal",
+    "subcategory": "FLAMIGNI",
+    "tags": [
+      "FLAMIGNI"
+    ],
+    "id": "seasonal-flamigni-68"
+  },
+  {
+    "title": "FLAMIGNI 3690 Panettone 2 Kg Scontornato",
+    "description": "FLAMIGNI 3690 Panettone 2 Kg Scontornato",
+    "image": "media/seasonal products/04. FLAMIGNI/3690_PANETTONE 2 kg_scontornato.jpg",
+    "category": "seasonal",
+    "subcategory": "FLAMIGNI",
+    "tags": [
+      "FLAMIGNI"
+    ],
+    "id": "seasonal-flamigni-69"
+  },
+  {
+    "title": "FLAMIGNI 3690 Panettone 2 Kg Scontornato",
+    "description": "FLAMIGNI 3690 Panettone 2 Kg Scontornato",
+    "image": "media/seasonal products/04. FLAMIGNI/3690_PANETTONE-2-kg_scontornato.jpg",
+    "category": "seasonal",
+    "subcategory": "FLAMIGNI",
+    "tags": [
+      "FLAMIGNI"
+    ],
+    "id": "seasonal-flamigni-70"
+  },
+  {
+    "title": "FLAMIGNI 3720 Panettone Contadino",
+    "description": "FLAMIGNI 3720 Panettone Contadino",
+    "image": "media/seasonal products/04. FLAMIGNI/3720_PANETTONE_CONTADINO.jpg",
+    "category": "seasonal",
+    "subcategory": "FLAMIGNI",
+    "tags": [
+      "FLAMIGNI"
+    ],
+    "id": "seasonal-flamigni-71"
+  },
+  {
+    "title": "FLAMIGNI 3721 3725 Il Panettone Ai Marrons Glacés In Pacchetto Regalo",
+    "description": "FLAMIGNI 3721 3725 Il Panettone Ai Marrons Glacés In Pacchetto Regalo",
+    "image": "media/seasonal products/04. FLAMIGNI/3721_3725_Il-Panettone-ai-Marrons-Glacés-in-pacchetto-regalo.jpg",
+    "category": "seasonal",
+    "subcategory": "FLAMIGNI",
+    "tags": [
+      "FLAMIGNI"
+    ],
+    "id": "seasonal-flamigni-72"
+  },
+  {
+    "title": "FLAMIGNI 3731 I Panettoni In Nuovo Sacchetto Rustico Scontorno",
+    "description": "FLAMIGNI 3731 I Panettoni In Nuovo Sacchetto Rustico Scontorno",
+    "image": "media/seasonal products/04. FLAMIGNI/3731_I-Panettoni-in-nuovo-sacchetto-rustico_scontorno.jpg",
+    "category": "seasonal",
+    "subcategory": "FLAMIGNI",
+    "tags": [
+      "FLAMIGNI"
+    ],
+    "id": "seasonal-flamigni-73"
+  },
+  {
+    "title": "FLAMIGNI 3740 I Panettoni Frutta E Cioccolato In Nuovo Sacchetto Rustico Scontorno",
+    "description": "FLAMIGNI 3740 I Panettoni Frutta E Cioccolato In Nuovo Sacchetto Rustico Scontorno",
+    "image": "media/seasonal products/04. FLAMIGNI/3740_I-Panettoni-frutta-e-cioccolato-in-nuovo-sacchetto-rustico_scontorno.jpg",
+    "category": "seasonal",
+    "subcategory": "FLAMIGNI",
+    "tags": [
+      "FLAMIGNI"
+    ],
+    "id": "seasonal-flamigni-74"
+  },
+  {
+    "title": "FLAMIGNI 3740 Panettone Amarena Cioccolato Sacchetto Rustico Scontorno",
+    "description": "FLAMIGNI 3740 Panettone Amarena Cioccolato Sacchetto Rustico Scontorno",
+    "image": "media/seasonal products/04. FLAMIGNI/3740_Panettone-Amarena-Cioccolato_sacchetto-rustico_scontorno.jpg",
+    "category": "seasonal",
+    "subcategory": "FLAMIGNI",
+    "tags": [
+      "FLAMIGNI"
+    ],
+    "id": "seasonal-flamigni-75"
+  },
+  {
+    "title": "FLAMIGNI 3740 Panettone Arancia Cioccolato Sacchetto Rustico Scontorno",
+    "description": "FLAMIGNI 3740 Panettone Arancia Cioccolato Sacchetto Rustico Scontorno",
+    "image": "media/seasonal products/04. FLAMIGNI/3740_Panettone-Arancia-Cioccolato_sacchetto-rustico_scontorno.jpg",
+    "category": "seasonal",
+    "subcategory": "FLAMIGNI",
+    "tags": [
+      "FLAMIGNI"
+    ],
+    "id": "seasonal-flamigni-76"
+  },
+  {
+    "title": "FLAMIGNI 3740 Panettone Fichi Cioccolato Sacchetto Rustico Scontorno",
+    "description": "FLAMIGNI 3740 Panettone Fichi Cioccolato Sacchetto Rustico Scontorno",
+    "image": "media/seasonal products/04. FLAMIGNI/3740_Panettone-Fichi-Cioccolato_sacchetto-rustico_scontorno.jpg",
+    "category": "seasonal",
+    "subcategory": "FLAMIGNI",
+    "tags": [
+      "FLAMIGNI"
+    ],
+    "id": "seasonal-flamigni-77"
+  },
+  {
+    "title": "FLAMIGNI 3740 Panettone Pera Cioccolato Sacchetto Rustico Scontorno",
+    "description": "FLAMIGNI 3740 Panettone Pera Cioccolato Sacchetto Rustico Scontorno",
+    "image": "media/seasonal products/04. FLAMIGNI/3740_Panettone-Pera-Cioccolato_sacchetto-rustico_scontorno.jpg",
+    "category": "seasonal",
+    "subcategory": "FLAMIGNI",
+    "tags": [
+      "FLAMIGNI"
+    ],
+    "id": "seasonal-flamigni-78"
+  },
+  {
+    "title": "FLAMIGNI 3745 Panettone Arancia Cioccolato",
+    "description": "FLAMIGNI 3745 Panettone Arancia Cioccolato",
+    "image": "media/seasonal products/04. FLAMIGNI/3745_Panettone-Arancia-Cioccolato.jpg",
+    "category": "seasonal",
+    "subcategory": "FLAMIGNI",
+    "tags": [
+      "FLAMIGNI"
+    ],
+    "id": "seasonal-flamigni-79"
+  },
+  {
+    "title": "FLAMIGNI 3745 Panettone Fichi Cioccolato",
+    "description": "FLAMIGNI 3745 Panettone Fichi Cioccolato",
+    "image": "media/seasonal products/04. FLAMIGNI/3745_Panettone-Fichi-Cioccolato.jpg",
+    "category": "seasonal",
+    "subcategory": "FLAMIGNI",
+    "tags": [
+      "FLAMIGNI"
+    ],
+    "id": "seasonal-flamigni-80"
+  },
+  {
+    "title": "FLAMIGNI 3745 Panettone Pera Pera Cioccolato",
+    "description": "FLAMIGNI 3745 Panettone Pera Pera Cioccolato",
+    "image": "media/seasonal products/04. FLAMIGNI/3745_Panettone-Pera-Pera-Cioccolato.jpg",
+    "category": "seasonal",
+    "subcategory": "FLAMIGNI",
+    "tags": [
+      "FLAMIGNI"
+    ],
+    "id": "seasonal-flamigni-81"
+  },
+  {
+    "title": "FLAMIGNI 3746 Panettone Albicocca Cioccolato Scontornato",
+    "description": "FLAMIGNI 3746 Panettone Albicocca Cioccolato Scontornato",
+    "image": "media/seasonal products/04. FLAMIGNI/3746_Panettone Albicocca Cioccolato_scontornato.jpg",
+    "category": "seasonal",
+    "subcategory": "FLAMIGNI",
+    "tags": [
+      "FLAMIGNI"
+    ],
+    "id": "seasonal-flamigni-82"
+  },
+  {
+    "title": "FLAMIGNI 3746 Panettone Albicocca Cioccolato Scontornato",
+    "description": "FLAMIGNI 3746 Panettone Albicocca Cioccolato Scontornato",
+    "image": "media/seasonal products/04. FLAMIGNI/3746_Panettone-Albicocca-Cioccolato_scontornato.jpg",
+    "category": "seasonal",
+    "subcategory": "FLAMIGNI",
+    "tags": [
+      "FLAMIGNI"
+    ],
+    "id": "seasonal-flamigni-83"
+  },
+  {
+    "title": "FLAMIGNI 3940 Il Panettone Milano Basso Da 350g Scontorno",
+    "description": "FLAMIGNI 3940 Il Panettone Milano Basso Da 350g Scontorno",
+    "image": "media/seasonal products/04. FLAMIGNI/3940_Il Panettone Milano basso da 350g_scontorno.jpg",
+    "category": "seasonal",
+    "subcategory": "FLAMIGNI",
+    "tags": [
+      "FLAMIGNI"
+    ],
+    "id": "seasonal-flamigni-84"
+  },
+  {
+    "title": "FLAMIGNI 3940 Il Panettone Milano Basso Da 350g Scontorno",
+    "description": "FLAMIGNI 3940 Il Panettone Milano Basso Da 350g Scontorno",
+    "image": "media/seasonal products/04. FLAMIGNI/3940_Il-Panettone-Milano-basso-da-350g_scontorno.jpg",
+    "category": "seasonal",
+    "subcategory": "FLAMIGNI",
+    "tags": [
+      "FLAMIGNI"
+    ],
+    "id": "seasonal-flamigni-85"
+  },
+  {
+    "title": "FLAMIGNI 3940 Panettone Milano Basso 350g Scontorno",
+    "description": "FLAMIGNI 3940 Panettone Milano Basso 350g Scontorno",
+    "image": "media/seasonal products/04. FLAMIGNI/3940_Panettone-Milano-basso-350g_scontorno.jpg",
+    "category": "seasonal",
+    "subcategory": "FLAMIGNI",
+    "tags": [
+      "FLAMIGNI"
+    ],
+    "id": "seasonal-flamigni-86"
+  },
+  {
+    "title": "FLAMIGNI 3944 Panettone Milano Basso",
+    "description": "FLAMIGNI 3944 Panettone Milano Basso",
+    "image": "media/seasonal products/04. FLAMIGNI/3944_Panettone-Milano-Basso.jpg",
+    "category": "seasonal",
+    "subcategory": "FLAMIGNI",
+    "tags": [
+      "FLAMIGNI"
+    ],
+    "id": "seasonal-flamigni-87"
+  },
+  {
+    "title": "FLAMIGNI 3944 Panettone Milano Basso Incartato A Mano Scontorno",
+    "description": "FLAMIGNI 3944 Panettone Milano Basso Incartato A Mano Scontorno",
+    "image": "media/seasonal products/04. FLAMIGNI/3944_Panettone-Milano-basso-incartato-a-mano_scontorno.jpg",
+    "category": "seasonal",
+    "subcategory": "FLAMIGNI",
+    "tags": [
+      "FLAMIGNI"
+    ],
+    "id": "seasonal-flamigni-88"
+  },
+  {
+    "title": "FLAMIGNI 3977 Il Nuovo Panettone “ron Dominicano” Scontorno",
+    "description": "FLAMIGNI 3977 Il Nuovo Panettone “ron Dominicano” Scontorno",
+    "image": "media/seasonal products/04. FLAMIGNI/3977_Il nuovo panettone “Ron dominicano”_scontorno.jpg",
+    "category": "seasonal",
+    "subcategory": "FLAMIGNI",
+    "tags": [
+      "FLAMIGNI"
+    ],
+    "id": "seasonal-flamigni-89"
+  },
+  {
+    "title": "FLAMIGNI 3977 Il Nuovo Panettone “ron Dominicano” Scontorno (1)",
+    "description": "FLAMIGNI 3977 Il Nuovo Panettone “ron Dominicano” Scontorno (1)",
+    "image": "media/seasonal products/04. FLAMIGNI/3977_Il-nuovo-panettone-“Ron-dominicano”_scontorno (1).jpg",
+    "category": "seasonal",
+    "subcategory": "FLAMIGNI",
+    "tags": [
+      "FLAMIGNI"
+    ],
+    "id": "seasonal-flamigni-90"
+  },
+  {
+    "title": "FLAMIGNI 3977 Il Nuovo Panettone “ron Dominicano” Scontorno",
+    "description": "FLAMIGNI 3977 Il Nuovo Panettone “ron Dominicano” Scontorno",
+    "image": "media/seasonal products/04. FLAMIGNI/3977_Il-nuovo-panettone-“Ron-dominicano”_scontorno.jpg",
+    "category": "seasonal",
+    "subcategory": "FLAMIGNI",
+    "tags": [
+      "FLAMIGNI"
+    ],
+    "id": "seasonal-flamigni-91"
+  },
+  {
+    "title": "FLAMIGNI 3992 Il Nuovo Panettone Alle Amarene toschi Scontorno",
+    "description": "FLAMIGNI 3992 Il Nuovo Panettone Alle Amarene toschi Scontorno",
+    "image": "media/seasonal products/04. FLAMIGNI/3992_Il nuovo panettone alle amarene Toschi_scontorno.jpg",
+    "category": "seasonal",
+    "subcategory": "FLAMIGNI",
+    "tags": [
+      "FLAMIGNI"
+    ],
+    "id": "seasonal-flamigni-92"
+  },
+  {
+    "title": "FLAMIGNI 3992 Il Nuovo Panettone Alle Amarene toschi Scontorno (1)",
+    "description": "FLAMIGNI 3992 Il Nuovo Panettone Alle Amarene toschi Scontorno (1)",
+    "image": "media/seasonal products/04. FLAMIGNI/3992_Il-nuovo-panettone-alle-amarene-Toschi_scontorno (1).jpg",
+    "category": "seasonal",
+    "subcategory": "FLAMIGNI",
+    "tags": [
+      "FLAMIGNI"
+    ],
+    "id": "seasonal-flamigni-93"
+  },
+  {
+    "title": "FLAMIGNI 3992 Il Nuovo Panettone Alle Amarene toschi Scontorno",
+    "description": "FLAMIGNI 3992 Il Nuovo Panettone Alle Amarene toschi Scontorno",
+    "image": "media/seasonal products/04. FLAMIGNI/3992_Il-nuovo-panettone-alle-amarene-Toschi_scontorno.jpg",
+    "category": "seasonal",
+    "subcategory": "FLAMIGNI",
+    "tags": [
+      "FLAMIGNI"
+    ],
+    "id": "seasonal-flamigni-94"
+  },
+  {
+    "title": "FLAMIGNI 3995 Il Nuovo Panettone Alle Albicocche Albisole In Pacchetto Regalo",
+    "description": "FLAMIGNI 3995 Il Nuovo Panettone Alle Albicocche Albisole In Pacchetto Regalo",
+    "image": "media/seasonal products/04. FLAMIGNI/3995_Il-nuovo-Panettone-alle-albicocche-_Albisole_-in-pacchetto-regalo.jpg",
+    "category": "seasonal",
+    "subcategory": "FLAMIGNI",
+    "tags": [
+      "FLAMIGNI"
+    ],
+    "id": "seasonal-flamigni-95"
+  },
+  {
+    "title": "FLAMIGNI 3996 Panettone “ducati” Scontorno",
+    "description": "FLAMIGNI 3996 Panettone “ducati” Scontorno",
+    "image": "media/seasonal products/04. FLAMIGNI/3996_-Panettone-“Ducati”_scontorno.jpg",
+    "category": "seasonal",
+    "subcategory": "FLAMIGNI",
+    "tags": [
+      "FLAMIGNI"
+    ],
+    "id": "seasonal-flamigni-96"
+  },
+  {
+    "title": "FLAMIGNI 3998 Panettone Amarena Toschi E Cioccolato",
+    "description": "FLAMIGNI 3998 Panettone Amarena Toschi E Cioccolato",
+    "image": "media/seasonal products/04. FLAMIGNI/3998_Panettone-Amarena-Toschi-e-cioccolato.jpg",
+    "category": "seasonal",
+    "subcategory": "FLAMIGNI",
+    "tags": [
+      "FLAMIGNI"
+    ],
+    "id": "seasonal-flamigni-97"
+  },
+  {
+    "title": "FLAMIGNI 77 Fetta La Nuova Torta Di Supremo Morbido Alle Mandorle",
+    "description": "FLAMIGNI 77 Fetta La Nuova Torta Di Supremo Morbido Alle Mandorle",
+    "image": "media/seasonal products/04. FLAMIGNI/77_fetta_La nuova torta di Supremo morbido alle mandorle .jpg",
+    "category": "seasonal",
+    "subcategory": "FLAMIGNI",
+    "tags": [
+      "FLAMIGNI"
+    ],
+    "id": "seasonal-flamigni-98"
+  },
+  {
+    "title": "FLAMIGNI 77 Fetta La Nuova Torta Di Supremo Morbido Alle Mandorle",
+    "description": "FLAMIGNI 77 Fetta La Nuova Torta Di Supremo Morbido Alle Mandorle",
+    "image": "media/seasonal products/04. FLAMIGNI/77_fetta_La-nuova-torta-di-Supremo-morbido-alle-mandorle-.jpg",
+    "category": "seasonal",
+    "subcategory": "FLAMIGNI",
+    "tags": [
+      "FLAMIGNI"
+    ],
+    "id": "seasonal-flamigni-99"
+  },
+  {
+    "title": "FLAMIGNI 79 Torrone Cioccolato Nocciole",
+    "description": "FLAMIGNI 79 Torrone Cioccolato Nocciole",
+    "image": "media/seasonal products/04. FLAMIGNI/79_Torrone cioccolato nocciole.jpg",
+    "category": "seasonal",
+    "subcategory": "FLAMIGNI",
+    "tags": [
+      "FLAMIGNI"
+    ],
+    "id": "seasonal-flamigni-100"
+  },
+  {
+    "title": "FLAMIGNI New York Demi Sel Flamigni 100x200",
+    "description": "FLAMIGNI New York Demi Sel Flamigni 100x200",
+    "image": "media/seasonal products/04. FLAMIGNI/New-York_Demi-Sel-Flamigni-100x200.jpg",
+    "category": "seasonal",
+    "subcategory": "FLAMIGNI",
+    "tags": [
+      "FLAMIGNI"
+    ],
+    "id": "seasonal-flamigni-101"
+  },
+  {
+    "title": "FLAMIGNI Panettone 10 Kg Oro Scontorno",
+    "description": "FLAMIGNI Panettone 10 Kg Oro Scontorno",
+    "image": "media/seasonal products/04. FLAMIGNI/Panettone-10-kg-Oro_scontorno.jpg",
+    "category": "seasonal",
+    "subcategory": "FLAMIGNI",
+    "tags": [
+      "FLAMIGNI"
+    ],
+    "id": "seasonal-flamigni-102"
+  },
+  {
+    "title": "FIASCONARO - D&G 101001 101005 Panettone Mandorle",
+    "description": "FIASCONARO - D&G 101001 101005 Panettone Mandorle",
+    "image": "media/seasonal products/05.06.FIASCONARO - D&G/101001---101005-Panettone-Mandorle.jpg",
+    "category": "seasonal",
+    "subcategory": "FIASCONARO - D&G",
+    "tags": [
+      "FIASCONARO - D&G"
+    ],
+    "id": "seasonal-fiasconaro---d&g-103"
+  },
+  {
+    "title": "FIASCONARO - D&G 101001 101005 Panettone Mandorle",
+    "description": "FIASCONARO - D&G 101001 101005 Panettone Mandorle",
+    "image": "media/seasonal products/05.06.FIASCONARO - D&G/101001_101005-Panettone-Mandorle.jpg",
+    "category": "seasonal",
+    "subcategory": "FIASCONARO - D&G",
+    "tags": [
+      "FIASCONARO - D&G"
+    ],
+    "id": "seasonal-fiasconaro---d&g-104"
+  },
+  {
+    "title": "FIASCONARO - D&G 103001 103005 Panettone Cioccolato",
+    "description": "FIASCONARO - D&G 103001 103005 Panettone Cioccolato",
+    "image": "media/seasonal products/05.06.FIASCONARO - D&G/103001---103005-Panettone-Cioccolato.jpg",
+    "category": "seasonal",
+    "subcategory": "FIASCONARO - D&G",
+    "tags": [
+      "FIASCONARO - D&G"
+    ],
+    "id": "seasonal-fiasconaro---d&g-105"
+  },
+  {
+    "title": "FIASCONARO - D&G 103001 103005 Panettone Cioccolato",
+    "description": "FIASCONARO - D&G 103001 103005 Panettone Cioccolato",
+    "image": "media/seasonal products/05.06.FIASCONARO - D&G/103001_103005-Panettone-Cioccolato.jpg",
+    "category": "seasonal",
+    "subcategory": "FIASCONARO - D&G",
+    "tags": [
+      "FIASCONARO - D&G"
+    ],
+    "id": "seasonal-fiasconaro---d&g-106"
+  },
+  {
+    "title": "FIASCONARO - D&G 106001 106005 Tradizionale",
+    "description": "FIASCONARO - D&G 106001 106005 Tradizionale",
+    "image": "media/seasonal products/05.06.FIASCONARO - D&G/106001_106005---Tradizionale.jpg",
+    "category": "seasonal",
+    "subcategory": "FIASCONARO - D&G",
+    "tags": [
+      "FIASCONARO - D&G"
+    ],
+    "id": "seasonal-fiasconaro---d&g-107"
+  },
+  {
+    "title": "FIASCONARO - D&G 106001 106005 Tradizionale",
+    "description": "FIASCONARO - D&G 106001 106005 Tradizionale",
+    "image": "media/seasonal products/05.06.FIASCONARO - D&G/106001_106005-Tradizionale.jpg",
+    "category": "seasonal",
+    "subcategory": "FIASCONARO - D&G",
+    "tags": [
+      "FIASCONARO - D&G"
+    ],
+    "id": "seasonal-fiasconaro---d&g-108"
+  },
+  {
+    "title": "FIASCONARO - D&G 106007 Tradizionale 100 G",
+    "description": "FIASCONARO - D&G 106007 Tradizionale 100 G",
+    "image": "media/seasonal products/05.06.FIASCONARO - D&G/106007-Tradizionale-100-g.jpg",
+    "category": "seasonal",
+    "subcategory": "FIASCONARO - D&G",
+    "tags": [
+      "FIASCONARO - D&G"
+    ],
+    "id": "seasonal-fiasconaro---d&g-109"
+  },
+  {
+    "title": "FIASCONARO - D&G 106007 Tradizionale 100 G",
+    "description": "FIASCONARO - D&G 106007 Tradizionale 100 G",
+    "image": "media/seasonal products/05.06.FIASCONARO - D&G/106007-Tradizionale-_100-g.jpg",
+    "category": "seasonal",
+    "subcategory": "FIASCONARO - D&G",
+    "tags": [
+      "FIASCONARO - D&G"
+    ],
+    "id": "seasonal-fiasconaro---d&g-110"
+  },
+  {
+    "title": "FIASCONARO - D&G 106007 100 G",
+    "description": "FIASCONARO - D&G 106007 100 G",
+    "image": "media/seasonal products/05.06.FIASCONARO - D&G/106007_-100-g.jpg",
+    "category": "seasonal",
+    "subcategory": "FIASCONARO - D&G",
+    "tags": [
+      "FIASCONARO - D&G"
+    ],
+    "id": "seasonal-fiasconaro---d&g-111"
+  },
+  {
+    "title": "FIASCONARO - D&G 106007 Tradizionale 100 G",
+    "description": "FIASCONARO - D&G 106007 Tradizionale 100 G",
+    "image": "media/seasonal products/05.06.FIASCONARO - D&G/106007_-Tradizionale-100-g.jpg",
+    "category": "seasonal",
+    "subcategory": "FIASCONARO - D&G",
+    "tags": [
+      "FIASCONARO - D&G"
+    ],
+    "id": "seasonal-fiasconaro---d&g-112"
+  },
+  {
+    "title": "FIASCONARO - D&G 106019 118020 Maximus 3 And 5 Kg (1)",
+    "description": "FIASCONARO - D&G 106019 118020 Maximus 3 And 5 Kg (1)",
+    "image": "media/seasonal products/05.06.FIASCONARO - D&G/106019-118020-Maximus-3-and-5-kg-(1).jpg",
+    "category": "seasonal",
+    "subcategory": "FIASCONARO - D&G",
+    "tags": [
+      "FIASCONARO - D&G"
+    ],
+    "id": "seasonal-fiasconaro---d&g-113"
+  },
+  {
+    "title": "FIASCONARO - D&G 106019 118020 Maximus 3 5 Kg (1)",
+    "description": "FIASCONARO - D&G 106019 118020 Maximus 3 5 Kg (1)",
+    "image": "media/seasonal products/05.06.FIASCONARO - D&G/106019-118020-Maximus-3_5-kg-(1).jpg",
+    "category": "seasonal",
+    "subcategory": "FIASCONARO - D&G",
+    "tags": [
+      "FIASCONARO - D&G"
+    ],
+    "id": "seasonal-fiasconaro---d&g-114"
+  },
+  {
+    "title": "FIASCONARO - D&G 106032 Maximus 10 Kg",
+    "description": "FIASCONARO - D&G 106032 Maximus 10 Kg",
+    "image": "media/seasonal products/05.06.FIASCONARO - D&G/106032-Maximus-10-kg.jpg",
+    "category": "seasonal",
+    "subcategory": "FIASCONARO - D&G",
+    "tags": [
+      "FIASCONARO - D&G"
+    ],
+    "id": "seasonal-fiasconaro---d&g-115"
+  },
+  {
+    "title": "FIASCONARO - D&G 107001 Panettone Frutti Di Bosco",
+    "description": "FIASCONARO - D&G 107001 Panettone Frutti Di Bosco",
+    "image": "media/seasonal products/05.06.FIASCONARO - D&G/107001---Panettone-Frutti-di-Bosco.jpg",
+    "category": "seasonal",
+    "subcategory": "FIASCONARO - D&G",
+    "tags": [
+      "FIASCONARO - D&G"
+    ],
+    "id": "seasonal-fiasconaro---d&g-116"
+  },
+  {
+    "title": "FIASCONARO - D&G 107001 Frutti Di Bosco",
+    "description": "FIASCONARO - D&G 107001 Frutti Di Bosco",
+    "image": "media/seasonal products/05.06.FIASCONARO - D&G/107001_Frutti-di-Bosco.jpg",
+    "category": "seasonal",
+    "subcategory": "FIASCONARO - D&G",
+    "tags": [
+      "FIASCONARO - D&G"
+    ],
+    "id": "seasonal-fiasconaro---d&g-117"
+  },
+  {
+    "title": "FIASCONARO - D&G 117010 Dolce Presepe",
+    "description": "FIASCONARO - D&G 117010 Dolce Presepe",
+    "image": "media/seasonal products/05.06.FIASCONARO - D&G/117010---Dolce-Presepe.jpg",
+    "category": "seasonal",
+    "subcategory": "FIASCONARO - D&G",
+    "tags": [
+      "FIASCONARO - D&G"
+    ],
+    "id": "seasonal-fiasconaro---d&g-118"
+  },
+  {
+    "title": "FIASCONARO - D&G 117010 Dolce Presepe",
+    "description": "FIASCONARO - D&G 117010 Dolce Presepe",
+    "image": "media/seasonal products/05.06.FIASCONARO - D&G/117010_-Dolce-Presepe.jpg",
+    "category": "seasonal",
+    "subcategory": "FIASCONARO - D&G",
+    "tags": [
+      "FIASCONARO - D&G"
+    ],
+    "id": "seasonal-fiasconaro---d&g-119"
+  },
+  {
+    "title": "FIASCONARO - D&G 121001 Oro Verde",
+    "description": "FIASCONARO - D&G 121001 Oro Verde",
+    "image": "media/seasonal products/05.06.FIASCONARO - D&G/121001---Oro-Verde.jpg",
+    "category": "seasonal",
+    "subcategory": "FIASCONARO - D&G",
+    "tags": [
+      "FIASCONARO - D&G"
+    ],
+    "id": "seasonal-fiasconaro---d&g-120"
+  },
+  {
+    "title": "FIASCONARO - D&G 125001 Oro Nero",
+    "description": "FIASCONARO - D&G 125001 Oro Nero",
+    "image": "media/seasonal products/05.06.FIASCONARO - D&G/125001---Oro-Nero.jpg",
+    "category": "seasonal",
+    "subcategory": "FIASCONARO - D&G",
+    "tags": [
+      "FIASCONARO - D&G"
+    ],
+    "id": "seasonal-fiasconaro---d&g-121"
+  },
+  {
+    "title": "FIASCONARO - D&G 125001 Oro Nero",
+    "description": "FIASCONARO - D&G 125001 Oro Nero",
+    "image": "media/seasonal products/05.06.FIASCONARO - D&G/125001_Oro-Nero.jpg",
+    "category": "seasonal",
+    "subcategory": "FIASCONARO - D&G",
+    "tags": [
+      "FIASCONARO - D&G"
+    ],
+    "id": "seasonal-fiasconaro---d&g-122"
+  },
+  {
+    "title": "FIASCONARO - D&G 126001 126005 Panettone Pera E Cioccolato",
+    "description": "FIASCONARO - D&G 126001 126005 Panettone Pera E Cioccolato",
+    "image": "media/seasonal products/05.06.FIASCONARO - D&G/126001---126005-Panettone-Pera-e-Cioccolato.jpg",
+    "category": "seasonal",
+    "subcategory": "FIASCONARO - D&G",
+    "tags": [
+      "FIASCONARO - D&G"
+    ],
+    "id": "seasonal-fiasconaro---d&g-123"
+  },
+  {
+    "title": "FIASCONARO - D&G 126001 126005 Panettone Pera E Cioccolato",
+    "description": "FIASCONARO - D&G 126001 126005 Panettone Pera E Cioccolato",
+    "image": "media/seasonal products/05.06.FIASCONARO - D&G/126001_126005-Panettone-Pera-e-Cioccolato.jpg",
+    "category": "seasonal",
+    "subcategory": "FIASCONARO - D&G",
+    "tags": [
+      "FIASCONARO - D&G"
+    ],
+    "id": "seasonal-fiasconaro---d&g-124"
+  },
+  {
+    "title": "FIASCONARO - D&G 139001 Panettone Albicocca E Cioccolato",
+    "description": "FIASCONARO - D&G 139001 Panettone Albicocca E Cioccolato",
+    "image": "media/seasonal products/05.06.FIASCONARO - D&G/139001---Panettone-Albicocca-e-Cioccolato.jpg",
+    "category": "seasonal",
+    "subcategory": "FIASCONARO - D&G",
+    "tags": [
+      "FIASCONARO - D&G"
+    ],
+    "id": "seasonal-fiasconaro---d&g-125"
+  },
+  {
+    "title": "FIASCONARO - D&G 139001 Panettone Albicocca E Cioccolato",
+    "description": "FIASCONARO - D&G 139001 Panettone Albicocca E Cioccolato",
+    "image": "media/seasonal products/05.06.FIASCONARO - D&G/139001_Panettone-Albicocca-e-Cioccolato.jpg",
+    "category": "seasonal",
+    "subcategory": "FIASCONARO - D&G",
+    "tags": [
+      "FIASCONARO - D&G"
+    ],
+    "id": "seasonal-fiasconaro---d&g-126"
+  },
+  {
+    "title": "FIASCONARO - D&G 140001 Nero Sublime",
+    "description": "FIASCONARO - D&G 140001 Nero Sublime",
+    "image": "media/seasonal products/05.06.FIASCONARO - D&G/140001----Nero-Sublime.jpg",
+    "category": "seasonal",
+    "subcategory": "FIASCONARO - D&G",
+    "tags": [
+      "FIASCONARO - D&G"
+    ],
+    "id": "seasonal-fiasconaro---d&g-127"
+  },
+  {
+    "title": "FIASCONARO - D&G 140001 Nero Sublime",
+    "description": "FIASCONARO - D&G 140001 Nero Sublime",
+    "image": "media/seasonal products/05.06.FIASCONARO - D&G/140001_-Nero-Sublime.jpg",
+    "category": "seasonal",
+    "subcategory": "FIASCONARO - D&G",
+    "tags": [
+      "FIASCONARO - D&G"
+    ],
+    "id": "seasonal-fiasconaro---d&g-128"
+  },
+  {
+    "title": "FIASCONARO - D&G 141001 Marroni E Cioccolato Gianduia",
+    "description": "FIASCONARO - D&G 141001 Marroni E Cioccolato Gianduia",
+    "image": "media/seasonal products/05.06.FIASCONARO - D&G/141001---Marroni-e-Cioccolato-Gianduia.jpg",
+    "category": "seasonal",
+    "subcategory": "FIASCONARO - D&G",
+    "tags": [
+      "FIASCONARO - D&G"
+    ],
+    "id": "seasonal-fiasconaro---d&g-129"
+  },
+  {
+    "title": "FIASCONARO - D&G 141001 Marroni E Cioccolato Gianduia Scatola Zenitale",
+    "description": "FIASCONARO - D&G 141001 Marroni E Cioccolato Gianduia Scatola Zenitale",
+    "image": "media/seasonal products/05.06.FIASCONARO - D&G/141001_Marroni-e-Cioccolato-Gianduia_Scatola-zenitale.jpg",
+    "category": "seasonal",
+    "subcategory": "FIASCONARO - D&G",
+    "tags": [
+      "FIASCONARO - D&G"
+    ],
+    "id": "seasonal-fiasconaro---d&g-130"
+  },
+  {
+    "title": "FIASCONARO - D&G 141001 Marroni E Cioccolato Gianduia Scatola",
+    "description": "FIASCONARO - D&G 141001 Marroni E Cioccolato Gianduia Scatola",
+    "image": "media/seasonal products/05.06.FIASCONARO - D&G/141001_Marroni-e-Cioccolato-Gianduia_Scatola.jpg",
+    "category": "seasonal",
+    "subcategory": "FIASCONARO - D&G",
+    "tags": [
+      "FIASCONARO - D&G"
+    ],
+    "id": "seasonal-fiasconaro---d&g-131"
+  },
+  {
+    "title": "FIASCONARO - D&G 143001 143006 Il Panettone Al Pistacchio",
+    "description": "FIASCONARO - D&G 143001 143006 Il Panettone Al Pistacchio",
+    "image": "media/seasonal products/05.06.FIASCONARO - D&G/143001-143006-Il-panettone-al-pistacchio.jpg",
+    "category": "seasonal",
+    "subcategory": "FIASCONARO - D&G",
+    "tags": [
+      "FIASCONARO - D&G"
+    ],
+    "id": "seasonal-fiasconaro---d&g-132"
+  },
+  {
+    "title": "FIASCONARO - D&G 143001 143006 Il Panettone Al Pistacchio Di Sicilia Rosso",
+    "description": "FIASCONARO - D&G 143001 143006 Il Panettone Al Pistacchio Di Sicilia Rosso",
+    "image": "media/seasonal products/05.06.FIASCONARO - D&G/143001_143006-Il-panettone-al-pistacchio-di-Sicilia----Rosso.jpg",
+    "category": "seasonal",
+    "subcategory": "FIASCONARO - D&G",
+    "tags": [
+      "FIASCONARO - D&G"
+    ],
+    "id": "seasonal-fiasconaro---d&g-133"
+  },
+  {
+    "title": "FIASCONARO - D&G 143001 143006 Il Panettone Al Pistacchio Di Sicilia Verde",
+    "description": "FIASCONARO - D&G 143001 143006 Il Panettone Al Pistacchio Di Sicilia Verde",
+    "image": "media/seasonal products/05.06.FIASCONARO - D&G/143001_143006-Il-panettone-al-pistacchio-di-Sicilia----Verde.jpg",
+    "category": "seasonal",
+    "subcategory": "FIASCONARO - D&G",
+    "tags": [
+      "FIASCONARO - D&G"
+    ],
+    "id": "seasonal-fiasconaro---d&g-134"
+  },
+  {
+    "title": "FIASCONARO - D&G 145001 Panettone Castagne E Gianduia",
+    "description": "FIASCONARO - D&G 145001 Panettone Castagne E Gianduia",
+    "image": "media/seasonal products/05.06.FIASCONARO - D&G/145001-Panettone-castagne-e-gianduia.jpg",
+    "category": "seasonal",
+    "subcategory": "FIASCONARO - D&G",
+    "tags": [
+      "FIASCONARO - D&G"
+    ],
+    "id": "seasonal-fiasconaro---d&g-135"
+  },
+  {
+    "title": "FIASCONARO - D&G 145001il Panettone Alle Castagne Glassate E Al Gianduia",
+    "description": "FIASCONARO - D&G 145001il Panettone Alle Castagne Glassate E Al Gianduia",
+    "image": "media/seasonal products/05.06.FIASCONARO - D&G/145001Il-panettone-alle-Castagne-glassate-e-al-gianduia.jpg",
+    "category": "seasonal",
+    "subcategory": "FIASCONARO - D&G",
+    "tags": [
+      "FIASCONARO - D&G"
+    ],
+    "id": "seasonal-fiasconaro---d&g-136"
+  },
+  {
+    "title": "FIASCONARO - D&G 146001 Il Panettone Alle Mandorle Di Sicilia Rossa",
+    "description": "FIASCONARO - D&G 146001 Il Panettone Alle Mandorle Di Sicilia Rossa",
+    "image": "media/seasonal products/05.06.FIASCONARO - D&G/146001-Il-panettone-alle-mandorle-di-Sicilia---Rossa.jpg",
+    "category": "seasonal",
+    "subcategory": "FIASCONARO - D&G",
+    "tags": [
+      "FIASCONARO - D&G"
+    ],
+    "id": "seasonal-fiasconaro---d&g-137"
+  },
+  {
+    "title": "FIASCONARO - D&G 146001 Il Panettone Alle Mandorle Di Sicilia Blu",
+    "description": "FIASCONARO - D&G 146001 Il Panettone Alle Mandorle Di Sicilia Blu",
+    "image": "media/seasonal products/05.06.FIASCONARO - D&G/146001-il-panettone-alle-mandorle-di-Sicilia---Blu.jpg",
+    "category": "seasonal",
+    "subcategory": "FIASCONARO - D&G",
+    "tags": [
+      "FIASCONARO - D&G"
+    ],
+    "id": "seasonal-fiasconaro---d&g-138"
+  },
+  {
+    "title": "FIASCONARO - D&G 146001 146001 Il Panettone Alle Mandorle Di Sicilia",
+    "description": "FIASCONARO - D&G 146001 146001 Il Panettone Alle Mandorle Di Sicilia",
+    "image": "media/seasonal products/05.06.FIASCONARO - D&G/146001_146001-Il-panettone-alle-mandorle-di-Sicilia.jpg",
+    "category": "seasonal",
+    "subcategory": "FIASCONARO - D&G",
+    "tags": [
+      "FIASCONARO - D&G"
+    ],
+    "id": "seasonal-fiasconaro---d&g-139"
+  },
+  {
+    "title": "FIASCONARO - D&G 148001 Il Panettone Alle Nocciole Di Sicilia",
+    "description": "FIASCONARO - D&G 148001 Il Panettone Alle Nocciole Di Sicilia",
+    "image": "media/seasonal products/05.06.FIASCONARO - D&G/148001-Il-panettone-alle-nocciole-di-Sicilia.jpg",
+    "category": "seasonal",
+    "subcategory": "FIASCONARO - D&G",
+    "tags": [
+      "FIASCONARO - D&G"
+    ],
+    "id": "seasonal-fiasconaro---d&g-140"
+  },
+  {
+    "title": "FIASCONARO - D&G 149001 Ciliegia E Fragolina",
+    "description": "FIASCONARO - D&G 149001 Ciliegia E Fragolina",
+    "image": "media/seasonal products/05.06.FIASCONARO - D&G/149001---Ciliegia-e-Fragolina.jpg",
+    "category": "seasonal",
+    "subcategory": "FIASCONARO - D&G",
+    "tags": [
+      "FIASCONARO - D&G"
+    ],
+    "id": "seasonal-fiasconaro---d&g-141"
+  },
+  {
+    "title": "FIASCONARO - D&G 149001 Ciliegia E Fragolina Scatola Zenitale",
+    "description": "FIASCONARO - D&G 149001 Ciliegia E Fragolina Scatola Zenitale",
+    "image": "media/seasonal products/05.06.FIASCONARO - D&G/149001---Ciliegia-e-Fragolina_Scatola-zenitale.jpg",
+    "category": "seasonal",
+    "subcategory": "FIASCONARO - D&G",
+    "tags": [
+      "FIASCONARO - D&G"
+    ],
+    "id": "seasonal-fiasconaro---d&g-142"
+  },
+  {
+    "title": "FIASCONARO - D&G 149001 Ciliegia E Fragolina",
+    "description": "FIASCONARO - D&G 149001 Ciliegia E Fragolina",
+    "image": "media/seasonal products/05.06.FIASCONARO - D&G/149001_-Ciliegia-e-Fragolina.jpg",
+    "category": "seasonal",
+    "subcategory": "FIASCONARO - D&G",
+    "tags": [
+      "FIASCONARO - D&G"
+    ],
+    "id": "seasonal-fiasconaro---d&g-143"
+  },
+  {
+    "title": "FIASCONARO - D&G 150001 150006 Il Panettone Al Cioccolato Nudo",
+    "description": "FIASCONARO - D&G 150001 150006 Il Panettone Al Cioccolato Nudo",
+    "image": "media/seasonal products/05.06.FIASCONARO - D&G/150001-150006-Il-panettone-al-cioccolato-nudo.jpg",
+    "category": "seasonal",
+    "subcategory": "FIASCONARO - D&G",
+    "tags": [
+      "FIASCONARO - D&G"
+    ],
+    "id": "seasonal-fiasconaro---d&g-144"
+  },
+  {
+    "title": "FIASCONARO - D&G 150001 150006 Il Panettone Al Cioccolato",
+    "description": "FIASCONARO - D&G 150001 150006 Il Panettone Al Cioccolato",
+    "image": "media/seasonal products/05.06.FIASCONARO - D&G/150001_150006-Il-panettone-al-cioccolato.jpg",
+    "category": "seasonal",
+    "subcategory": "FIASCONARO - D&G",
+    "tags": [
+      "FIASCONARO - D&G"
+    ],
+    "id": "seasonal-fiasconaro---d&g-145"
+  },
+  {
+    "title": "FIASCONARO - D&G 151002 151005 Montenero",
+    "description": "FIASCONARO - D&G 151002 151005 Montenero",
+    "image": "media/seasonal products/05.06.FIASCONARO - D&G/151002---151005-Montenero.jpg",
+    "category": "seasonal",
+    "subcategory": "FIASCONARO - D&G",
+    "tags": [
+      "FIASCONARO - D&G"
+    ],
+    "id": "seasonal-fiasconaro---d&g-146"
+  },
+  {
+    "title": "FIASCONARO - D&G 151005 Montenero Premium",
+    "description": "FIASCONARO - D&G 151005 Montenero Premium",
+    "image": "media/seasonal products/05.06.FIASCONARO - D&G/151005---Montenero-Premium.jpg",
+    "category": "seasonal",
+    "subcategory": "FIASCONARO - D&G",
+    "tags": [
+      "FIASCONARO - D&G"
+    ],
+    "id": "seasonal-fiasconaro---d&g-147"
+  },
+  {
+    "title": "FIASCONARO - D&G 152001 006 Il Panettone Alle Mele E Cannella",
+    "description": "FIASCONARO - D&G 152001 006 Il Panettone Alle Mele E Cannella",
+    "image": "media/seasonal products/05.06.FIASCONARO - D&G/152001-006-il-panettone-alle-mele-e-cannella.jpg",
+    "category": "seasonal",
+    "subcategory": "FIASCONARO - D&G",
+    "tags": [
+      "FIASCONARO - D&G"
+    ],
+    "id": "seasonal-fiasconaro---d&g-148"
+  },
+  {
+    "title": "FIASCONARO - D&G 152001 152006 Il Panettone Alle Mele E Cannella (1)",
+    "description": "FIASCONARO - D&G 152001 152006 Il Panettone Alle Mele E Cannella (1)",
+    "image": "media/seasonal products/05.06.FIASCONARO - D&G/152001_152006-Il-panettone-alle-mele-e-cannella (1).jpg",
+    "category": "seasonal",
+    "subcategory": "FIASCONARO - D&G",
+    "tags": [
+      "FIASCONARO - D&G"
+    ],
+    "id": "seasonal-fiasconaro---d&g-149"
+  },
+  {
+    "title": "FIASCONARO - D&G 152001 152006 Il Panettone Alle Mele E Cannella",
+    "description": "FIASCONARO - D&G 152001 152006 Il Panettone Alle Mele E Cannella",
+    "image": "media/seasonal products/05.06.FIASCONARO - D&G/152001_152006-Il-panettone-alle-mele-e-cannella.jpg",
+    "category": "seasonal",
+    "subcategory": "FIASCONARO - D&G",
+    "tags": [
+      "FIASCONARO - D&G"
+    ],
+    "id": "seasonal-fiasconaro---d&g-150"
+  },
+  {
+    "title": "FIASCONARO - D&G 153001 153005 Agrumi E Zafferano Di Sicilia Copia",
+    "description": "FIASCONARO - D&G 153001 153005 Agrumi E Zafferano Di Sicilia Copia",
+    "image": "media/seasonal products/05.06.FIASCONARO - D&G/153001---153005-Agrumi-e-Zafferano-di-Sicilia---Copia.jpg",
+    "category": "seasonal",
+    "subcategory": "FIASCONARO - D&G",
+    "tags": [
+      "FIASCONARO - D&G"
+    ],
+    "id": "seasonal-fiasconaro---d&g-151"
+  },
+  {
+    "title": "FIASCONARO - D&G 153001 153005 Agrumi E Zafferano Di Sicilia Copia",
+    "description": "FIASCONARO - D&G 153001 153005 Agrumi E Zafferano Di Sicilia Copia",
+    "image": "media/seasonal products/05.06.FIASCONARO - D&G/153001_153005-Agrumi-e-Zafferano-di-Sicilia---Copia.jpg",
+    "category": "seasonal",
+    "subcategory": "FIASCONARO - D&G",
+    "tags": [
+      "FIASCONARO - D&G"
+    ],
+    "id": "seasonal-fiasconaro---d&g-152"
+  },
+  {
+    "title": "FIASCONARO - D&G 153006 Panettone Agrumi E Zafferano (1)",
+    "description": "FIASCONARO - D&G 153006 Panettone Agrumi E Zafferano (1)",
+    "image": "media/seasonal products/05.06.FIASCONARO - D&G/153006__Panettone-Agrumi-e-Zafferano (1).jpg",
+    "category": "seasonal",
+    "subcategory": "FIASCONARO - D&G",
+    "tags": [
+      "FIASCONARO - D&G"
+    ],
+    "id": "seasonal-fiasconaro---d&g-153"
+  },
+  {
+    "title": "FIASCONARO - D&G 153006 Panettone Agrumi E Zafferano",
+    "description": "FIASCONARO - D&G 153006 Panettone Agrumi E Zafferano",
+    "image": "media/seasonal products/05.06.FIASCONARO - D&G/153006__Panettone-Agrumi-e-Zafferano.jpg",
+    "category": "seasonal",
+    "subcategory": "FIASCONARO - D&G",
+    "tags": [
+      "FIASCONARO - D&G"
+    ],
+    "id": "seasonal-fiasconaro---d&g-154"
+  },
+  {
+    "title": "FIASCONARO - D&G 154001 Il Panettone Al Mandarino",
+    "description": "FIASCONARO - D&G 154001 Il Panettone Al Mandarino",
+    "image": "media/seasonal products/05.06.FIASCONARO - D&G/154001-Il-panettone-al-Mandarino.jpg",
+    "category": "seasonal",
+    "subcategory": "FIASCONARO - D&G",
+    "tags": [
+      "FIASCONARO - D&G"
+    ],
+    "id": "seasonal-fiasconaro---d&g-155"
+  },
+  {
+    "title": "FIASCONARO - D&G 156001 Panettone Mela E Cannella",
+    "description": "FIASCONARO - D&G 156001 Panettone Mela E Cannella",
+    "image": "media/seasonal products/05.06.FIASCONARO - D&G/156001-Panettone-Mela-e-Cannella.jpg",
+    "category": "seasonal",
+    "subcategory": "FIASCONARO - D&G",
+    "tags": [
+      "FIASCONARO - D&G"
+    ],
+    "id": "seasonal-fiasconaro---d&g-156"
+  },
+  {
+    "title": "FIASCONARO - D&G 157005 Ypsigro Pack (1)",
+    "description": "FIASCONARO - D&G 157005 Ypsigro Pack (1)",
+    "image": "media/seasonal products/05.06.FIASCONARO - D&G/157005-Ypsigro-pack (1).jpg",
+    "category": "seasonal",
+    "subcategory": "FIASCONARO - D&G",
+    "tags": [
+      "FIASCONARO - D&G"
+    ],
+    "id": "seasonal-fiasconaro---d&g-157"
+  },
+  {
+    "title": "FIASCONARO - D&G 157005 Ypsigro Pack",
+    "description": "FIASCONARO - D&G 157005 Ypsigro Pack",
+    "image": "media/seasonal products/05.06.FIASCONARO - D&G/157005-Ypsigro-pack.jpg",
+    "category": "seasonal",
+    "subcategory": "FIASCONARO - D&G",
+    "tags": [
+      "FIASCONARO - D&G"
+    ],
+    "id": "seasonal-fiasconaro---d&g-158"
+  },
+  {
+    "title": "FIASCONARO - D&G 2025 Cioccopanettone",
+    "description": "FIASCONARO - D&G 2025 Cioccopanettone",
+    "image": "media/seasonal products/05.06.FIASCONARO - D&G/2025-Cioccopanettone.jpg",
+    "category": "seasonal",
+    "subcategory": "FIASCONARO - D&G",
+    "tags": [
+      "FIASCONARO - D&G"
+    ],
+    "id": "seasonal-fiasconaro---d&g-159"
+  },
+  {
+    "title": "FIASCONARO - D&G 301046 Torroncini Ottagono",
+    "description": "FIASCONARO - D&G 301046 Torroncini Ottagono",
+    "image": "media/seasonal products/05.06.FIASCONARO - D&G/301046---Torroncini-ottagono.jpg",
+    "category": "seasonal",
+    "subcategory": "FIASCONARO - D&G",
+    "tags": [
+      "FIASCONARO - D&G"
+    ],
+    "id": "seasonal-fiasconaro---d&g-160"
+  },
+  {
+    "title": "FIASCONARO - D&G 301047 Torroncini Ottagono 400 G",
+    "description": "FIASCONARO - D&G 301047 Torroncini Ottagono 400 G",
+    "image": "media/seasonal products/05.06.FIASCONARO - D&G/301047---Torroncini-ottagono-400-g.jpg",
+    "category": "seasonal",
+    "subcategory": "FIASCONARO - D&G",
+    "tags": [
+      "FIASCONARO - D&G"
+    ],
+    "id": "seasonal-fiasconaro---d&g-161"
+  },
+  {
+    "title": "D&G 143001 143006 Il Panettone Al Pistacchio Di Sicilia Rosso",
+    "description": "D&G 143001 143006 Il Panettone Al Pistacchio Di Sicilia Rosso",
+    "image": "media/seasonal products/06. D&G/143001_143006-Il-panettone-al-pistacchio-di-Sicilia----Rosso.jpg",
+    "category": "seasonal",
+    "subcategory": "D&G",
+    "tags": [
+      "D&G"
+    ],
+    "id": "seasonal-d&g-162"
+  },
+  {
+    "title": "D&G 143001 143006 Il Panettone Al Pistacchio Di Sicilia Verde",
+    "description": "D&G 143001 143006 Il Panettone Al Pistacchio Di Sicilia Verde",
+    "image": "media/seasonal products/06. D&G/143001_143006-Il-panettone-al-pistacchio-di-Sicilia----Verde.jpg",
+    "category": "seasonal",
+    "subcategory": "D&G",
+    "tags": [
+      "D&G"
+    ],
+    "id": "seasonal-d&g-163"
+  },
+  {
+    "title": "D&G 145001il Panettone Alle Castagne Glassate E Al Gianduia",
+    "description": "D&G 145001il Panettone Alle Castagne Glassate E Al Gianduia",
+    "image": "media/seasonal products/06. D&G/145001Il-panettone-alle-Castagne-glassate-e-al-gianduia.jpg",
+    "category": "seasonal",
+    "subcategory": "D&G",
+    "tags": [
+      "D&G"
+    ],
+    "id": "seasonal-d&g-164"
+  },
+  {
+    "title": "D&G 146001 Il Panettone Alle Mandorle Di Sicilia Rossa",
+    "description": "D&G 146001 Il Panettone Alle Mandorle Di Sicilia Rossa",
+    "image": "media/seasonal products/06. D&G/146001-Il-panettone-alle-mandorle-di-Sicilia---Rossa.jpg",
+    "category": "seasonal",
+    "subcategory": "D&G",
+    "tags": [
+      "D&G"
+    ],
+    "id": "seasonal-d&g-165"
+  },
+  {
+    "title": "D&G 146001 Il Panettone Alle Mandorle Di Sicilia Blu",
+    "description": "D&G 146001 Il Panettone Alle Mandorle Di Sicilia Blu",
+    "image": "media/seasonal products/06. D&G/146001-il-panettone-alle-mandorle-di-Sicilia---Blu.jpg",
+    "category": "seasonal",
+    "subcategory": "D&G",
+    "tags": [
+      "D&G"
+    ],
+    "id": "seasonal-d&g-166"
+  },
+  {
+    "title": "D&G 150001 150006 Il Panettone Al Cioccolato",
+    "description": "D&G 150001 150006 Il Panettone Al Cioccolato",
+    "image": "media/seasonal products/06. D&G/150001_150006-Il-panettone-al-cioccolato.jpg",
+    "category": "seasonal",
+    "subcategory": "D&G",
+    "tags": [
+      "D&G"
+    ],
+    "id": "seasonal-d&g-167"
+  },
+  {
+    "title": "D&G 152001 152006 Il Panettone Alle Mele E Cannella",
+    "description": "D&G 152001 152006 Il Panettone Alle Mele E Cannella",
+    "image": "media/seasonal products/06. D&G/152001_152006-Il-panettone-alle-mele-e-cannella.jpg",
+    "category": "seasonal",
+    "subcategory": "D&G",
+    "tags": [
+      "D&G"
+    ],
+    "id": "seasonal-d&g-168"
+  },
+  {
+    "title": "D&G 158001 158006 Agrumi",
+    "description": "D&G 158001 158006 Agrumi",
+    "image": "media/seasonal products/06. D&G/158001-158006-Agrumi.jpg",
+    "category": "seasonal",
+    "subcategory": "D&G",
+    "tags": [
+      "D&G"
+    ],
+    "id": "seasonal-d&g-169"
+  },
+  {
+    "title": "D&G 2025 Cioccopanettone",
+    "description": "D&G 2025 Cioccopanettone",
+    "image": "media/seasonal products/06. D&G/2025-Cioccopanettone.jpg",
+    "category": "seasonal",
+    "subcategory": "D&G",
+    "tags": [
+      "D&G"
+    ],
+    "id": "seasonal-d&g-170"
+  },
+  {
+    "title": "D&G 301040 Torroncini Dg 150gr",
+    "description": "D&G 301040 Torroncini Dg 150gr",
+    "image": "media/seasonal products/06. D&G/301040-Torroncini-DG-150gr.jpg",
+    "category": "seasonal",
+    "subcategory": "D&G",
+    "tags": [
+      "D&G"
+    ],
+    "id": "seasonal-d&g-171"
+  },
+  {
+    "title": "D&G 301041 Torroncini Dg 250 Gr",
+    "description": "D&G 301041 Torroncini Dg 250 Gr",
+    "image": "media/seasonal products/06. D&G/301041-Torroncini-DG-250-gr.jpg",
+    "category": "seasonal",
+    "subcategory": "D&G",
+    "tags": [
+      "D&G"
+    ],
+    "id": "seasonal-d&g-172"
+  },
+  {
+    "title": "D&G 301042 Torroncini Dg 500gr",
+    "description": "D&G 301042 Torroncini Dg 500gr",
+    "image": "media/seasonal products/06. D&G/301042-Torroncini-DG-500gr.jpg",
+    "category": "seasonal",
+    "subcategory": "D&G",
+    "tags": [
+      "D&G"
+    ],
+    "id": "seasonal-d&g-173"
+  },
+  {
+    "title": "BERLUCCHI 61 Nature 075 2017",
+    "description": "BERLUCCHI 61 Nature 075 2017",
+    "image": "media/Beverages/BERLUCCHI /61--Nature-075-2017.jpg",
+    "category": "beverages",
+    "subcategory": "BERLUCCHI",
+    "tags": [
+      "BERLUCCHI"
+    ],
+    "id": "beverages-berlucchi-174"
+  },
+  {
+    "title": "BERLUCCHI 61 Extrabrut 075",
+    "description": "BERLUCCHI 61 Extrabrut 075",
+    "image": "media/Beverages/BERLUCCHI /61-ExtraBrut-075.jpg",
+    "category": "beverages",
+    "subcategory": "BERLUCCHI",
+    "tags": [
+      "BERLUCCHI"
+    ],
+    "id": "beverages-berlucchi-175"
+  },
+  {
+    "title": "BERLUCCHI 61 Rose 075",
+    "description": "BERLUCCHI 61 Rose 075",
+    "image": "media/Beverages/BERLUCCHI /61-Rose-075.jpg",
+    "category": "beverages",
+    "subcategory": "BERLUCCHI",
+    "tags": [
+      "BERLUCCHI"
+    ],
+    "id": "beverages-berlucchi-176"
+  },
+  {
+    "title": "BERLUCCHI Bot 1",
+    "description": "BERLUCCHI Bot 1",
+    "image": "media/Beverages/BERLUCCHI /Bot_1.jpg",
+    "category": "beverages",
+    "subcategory": "BERLUCCHI",
+    "tags": [
+      "BERLUCCHI"
+    ],
+    "id": "beverages-berlucchi-177"
+  },
+  {
+    "title": "BERLUCCHI Caccia Al Piano 1",
+    "description": "BERLUCCHI Caccia Al Piano 1",
+    "image": "media/Beverages/BERLUCCHI /Caccia-Al-Piano-1.jpg",
+    "category": "beverages",
+    "subcategory": "BERLUCCHI",
+    "tags": [
+      "BERLUCCHI"
+    ],
+    "id": "beverages-berlucchi-178"
+  },
+  {
+    "title": "BERLUCCHI Ruit Hora 1",
+    "description": "BERLUCCHI Ruit Hora 1",
+    "image": "media/Beverages/BERLUCCHI /Ruit Hora 1.jpg",
+    "category": "beverages",
+    "subcategory": "BERLUCCHI",
+    "tags": [
+      "BERLUCCHI"
+    ],
+    "id": "beverages-berlucchi-179"
   }
 ]
