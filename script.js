@@ -55,6 +55,8 @@ document.addEventListener("DOMContentLoaded", function () {
           subcategory = 'BOSCHETTO';
         } else if (imagePath.includes('CANNAMELA')) {
           subcategory = 'CANNAMELA';
+        } else if (imagePath.includes('DELIZIE DI CALABRIA')) {
+          subcategory = 'DELIZIE DI CALABRIA';
         } else if (imagePath.includes('LEONARDI')) {
           subcategory = 'LEONARDI';
         } else if (imagePath.includes('PONTI')) {
