@@ -341,6 +341,8 @@ document.addEventListener("DOMContentLoaded", function () {
               productSubcategory = 'BOSCHETTO';
             } else if (imagePath.includes('CANNAMELA')) {
               productSubcategory = 'CANNAMELA';
+            } else if (imagePath.includes('DELIZIE DI CALABRIA')) {
+              productSubcategory = 'DELIZIE DI CALABRIA';
             } else if (imagePath.includes('LEONARDI')) {
               productSubcategory = 'LEONARDI';
             } else if (imagePath.includes('PONTI')) {
